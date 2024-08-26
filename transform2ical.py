@@ -15,11 +15,11 @@ def run():
     tz = pytz.timezone("Europe/Berlin")
 
     # Ereignisse hinzufügen
-    for date, event in events_data.items():
+    for key, event in events_data.items():
         e = Event()
         e.name = event["event_artist"]
 
-        start_time = datetime.strptime(event["event_starttime"], "%Y-%m-%d %H:%M")
+        start_time = datetime.fromisoformat(event["event_date"])
         start_time = tz.localize(start_time)
         e.begin = start_time
         e.duration = timedelta(hours=2)

@@ -39,10 +39,10 @@ def run():
             events.update(
                 {
                     key_text: {
-                        "artist": artist_text,
-                        "event-date": event_date,
-                        "event-location": location_text,
-                        "event-info": info_text,
+                        "event_artist": artist_text,
+                        "event_date": event_date,
+                        "event_location": location_text,
+                        "event_info": info_text,
                     }
                 }
             )

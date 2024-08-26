@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240828T190000Z
+SUMMARY:ZWEI ZU EINS – OpenAir-Kino 2024
+UID:bbf64494-33b5-4d24-9545-3f3d9c6f8fe4@bbf6.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241012T180000Z
+SUMMARY:Ingmar Stadelmann – KOMMT IHR KLAR?
+UID:26cbc766-3c8b-4f6e-9e6a-c83e77fdc833@26cb.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/ingmar-stadelmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240905T181500Z
+SUMMARY:DUNE: PART TWO – OpenAir-Kino 2024
+UID:9ff3f0a7-af41-492d-a9da-ba58474a9a87@9ff3.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-286-349-255/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250118T190000Z
+SUMMARY:Lagerfeuer
+UID:1196b6fa-d4cb-41d9-a5eb-9704f45513cf@1196.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250308T190000Z
+SUMMARY:Photoshow Antarktis – mit Fotograph André Schumacher
+UID:9d0164f6-3221-4cdd-b8ff-bf3c33065059@9d01.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/photoshow-antarktis-mit-fotograph-andre-schumacher/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250215T190000Z
+SUMMARY:Claudia Michelsen liest über das Leben von Marlene Dietrich
+UID:70502422-12fd-4524-807e-384d2a51cb7a@7050.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/claudia-michielsen-liest-ueber-das-leben-von-marlene-dietrich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240909T180000Z
+SUMMARY:MARLEY‘S GHOST – A Tribute to Bob Marley – Nachholtermin für das ausgefallene Konzert vom 15.08.2024
+UID:0baddabb-f1e8-4d8d-9429-ad13e2299353@0bad.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240915T160000Z
+SUMMARY:STUNK UNPLUGGED – Tour 2024
+UID:979c3360-c6d9-4aca-8f74-4117703484db@979c.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/stunk-unplugged-tour-2024/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250315T190000Z
+SUMMARY:Kollektiv Gedankensprung – Märchenstückchen
+UID:d1a12b00-b569-4ba5-acbe-45dc7286e33f@d1a1.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/kollektiv-gedankensprung-maerchenstueckchen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240904T190000Z
+SUMMARY:BACK TO BLACK – OpenAir-Kino 2024
+UID:d9854c50-1447-4cdc-b02b-67346a6692e0@d985.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-286-349/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241031T190000Z
+SUMMARY:DTNR – Nachholkonzert vom Frühjahr
+UID:4ea3b812-a542-48ee-98d4-46a9361021a7@4ea3.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/dtnr-a-capella-gruppe-und-der-chor-binsingen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240908T170000Z
+SUMMARY:HEINZ-RUDOLF KUNZE – Wie der Name schon sagt – Das neue Soloprogramm
+UID:4f4b8508-9ca9-4dca-9761-11315dff35ef@4f4b.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/heinz_rudolf-kunze-wie-der-name-schon-sagt-das-neue-soloprogramm/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250517T180000Z
+SUMMARY:Poetry Slam mit Satznachvorn
+UID:43173a2f-0732-4fe1-b3c3-fc2137e31ef6@4317.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/poetry-slam-mit-satznachvorn-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240902T173000Z
+SUMMARY:KASALLA – Live 2024
+UID:42edb228-1ed2-436c-af36-a4236d077f34@42ed.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-290-803/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240827T173000Z
+SUMMARY:MoTRIP – Live 2024
+UID:65121a3e-71cd-4c99-b76b-f691992027f6@6512.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/motrip-live-2024/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241208T160000Z
+SUMMARY:Tanja Raich – Mitsingkonzert – Weihnachtsspecial
+UID:2d35af88-b967-41a4-b26b-49a6e100e3da@2d35.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachtsspecial/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241109T190000Z
+SUMMARY:Altfrid M. Sicking Septett
+UID:72d4df6a-219c-4fb6-a47d-bff1ceba956b@72d4.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/altfrid-m-sicking/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240830T173000Z
+SUMMARY:KASALLA – Live 2024
+UID:316b560c-cb50-47e2-9236-16c5d949cc57@316b.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250131T190000Z
+SUMMARY:Tango X
+UID:080624d1-d77a-40b2-a214-8d70d5fbe488@0806.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tango-x/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240901T170000Z
+SUMMARY:KASALLA – Live 2024
+UID:3fdf135a-fe6a-4de4-b51f-516c42ece929@3fdf.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-290/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250426T180000Z
+SUMMARY:Don Clarke – Ein Abend mit Don Clarke
+UID:66fa4a01-2841-48b4-8ec4-24c22952161f@66fa.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/don-clarke-ein-abend-mit-don-clarke/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241026T180000Z
+SUMMARY:Antigua
+UID:b67fb22e-1477-4d40-a877-8bfb7bd44f4e@b67f.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/antigua/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240910T173000Z
+SUMMARY:Benefizshow: REBELLCOMEDY + FRIENDS 2024
+UID:22548fc4-9569-471c-a395-e6d11ea8385f@2254.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2022-796-615/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240831T173000Z
+SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
+UID:0fc6ad45-18a7-4fe1-9ebb-4d73e9cadb7e@0fc6.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240914T180000Z
+SUMMARY:DIE FEISTEN – FAMILIENFEST
+UID:0519a584-dc2b-436f-bedf-5292233974b9@0519.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-feisten-familienfest/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240911T180000Z
+SUMMARY:GIORA FEIDMAN – „Revolution of Love“
+UID:ca09cdda-ab75-4289-af4c-1ac3647ff45b@ca09.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidmann-friendship-world-tour-2023-327/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241123T190000Z
+SUMMARY:Lotte Walda & Band
+UID:c412bac4-0e22-4a3a-bfe9-59caa1810ecc@c412.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/lotte-walda-band/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250504T150000Z
+SUMMARY:Mitsingkonzert mit Tanja Raich
+UID:7ee98cf3-45e9-4153-af4d-25b6dde1fbbb@7ee9.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mitsingkonzert-mit-tanja-raich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241221T190000Z
+SUMMARY:Fliegender Wechsel Weihnachts-Impro Theater
+UID:68119c32-09a9-4aec-bd96-675cc7a011a8@6811.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/fliegender-wechsel-weihnachts-imro-theater/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240906T173000Z
+SUMMARY:BRINGS – Live 2024
+UID:ac8e289b-ed8b-437e-b08a-0ab8fbd6cf67@ac8e.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/brings-live-2023-411/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250406T170000Z
+SUMMARY:Carmela de Feo – groß! blond! erfolgreich!
+UID:8a0f12c1-2262-428e-98a0-ae5a8cac0cc6@8a0f.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/carmela-de-feo-gross-blond-erfolgreich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250221T190000Z
+SUMMARY:Tina Teubner – Ohne dich war es immer so schön
+UID:7774d4e7-d067-406e-89ee-69699fa99e6b@7774.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tina-teubner-ohne-dich-war-es-immer-so-schoen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250329T190000Z
+SUMMARY:The Xperience Band
+UID:a748f897-f00b-4294-82ac-ada902cd4ddc@a748.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-xperience/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240903T173000Z
+SUMMARY:Live Podcast mit MARTIN RÜTTER und KATHARINA ADICK – Tierisch-Menschlich
+UID:c32c46d7-6614-4e17-ab45-59f980ff4efe@c32c.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/live-podcast-mit-martin-ruetter-und-katharina-adick-tierisch-menschlich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240829T190000Z
+SUMMARY:FLY ME TO THE MOON – OpenAir-Kino 2024
+UID:c25ea6b9-4172-4ed2-af7e-945074cad764@c25e.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-286/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240913T180000Z
+SUMMARY:GÖTZ ALSMANN – …bei Nacht…
+UID:94e1f5c8-ad0a-4c07-bf99-349feaca516c@94e1.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann-bei-nacht/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240907T170000Z
+SUMMARY:20 JAHRE LEGER – DAS JUBILÄUMSKONZERT
+UID:7700687b-2153-46a5-b8fb-38a6d1c94107@7700.org
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/leger/
+END:VEVENT
+END:VCALENDAR
