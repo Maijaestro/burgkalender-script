@@ -1,6 +1,12 @@
 from ics import Calendar, Event
 from datetime import datetime, timedelta
-import json, pytz
+import json, pytz, hashlib
+
+
+def generate_uid(event):
+    event_date = datetime.fromisoformat(event["event_date"]).date()
+    unique_string = f"{event['event_artist']}_{event_date}"
+    return hashlib.md5(unique_string.encode()).hexdigest()
 
 
 def run():
@@ -15,7 +21,10 @@ def run():
     tz = pytz.timezone("Europe/Berlin")
 
     # Ereignisse hinzufügen
-    for key, event in events_data.items():
+    for key, event in sorted(
+        events_data.items(),
+        key=lambda item: datetime.fromisoformat(item[1]["event_date"]),
+    ):
         e = Event()
         e.name = event["event_artist"]
 
@@ -27,6 +36,8 @@ def run():
         e.location = event["event_location"]
 
         e.url = event["event_info"]
+
+        e.uid = generate_uid(event)
 
         calendar.events.add(e)
 
