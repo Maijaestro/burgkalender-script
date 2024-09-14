@@ -220,5 +220,11 @@
         "event_date": "2025-05-17T20:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/poetry-slam-mit-satznachvorn-2/"
+    },
+    "2024-11-15 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Stephan Kaußen – Lesung: “Zeitenwende”",
+        "event_date": "2024-11-15T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/"
     }
 }

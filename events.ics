@@ -212,6 +212,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241115T190000Z
+SUMMARY:Stephan Kaußen – Lesung: “Zeitenwende”
+UID:1362689816cfd0e4b849c69ab484f94c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20241208T160000Z
 SUMMARY:Tanja Raich – Mitsingkonzert – Weihnachtsspecial
 UID:a26c5c1845ea53b1e1c71907fe08a6bf
