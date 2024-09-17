@@ -51,6 +51,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/motrip-live-2024/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251115T190000Z
+SUMMARY:Jürgen Becker – Die Ursache liegt in der Zukunft
+UID:b1487113f4e9646a37c9d7e5f3aaebd9
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/juergen-becker-die-ursache-liegt-in-der-zukunft-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240831T173000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
@@ -128,6 +136,14 @@ DTSTART:20240907T170000Z
 SUMMARY:20 JAHRE LEGER – DAS JUBILÄUMSKONZERT
 UID:fcd973036d4c4975e7918614b45f6ebb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/leger/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251011T180000Z
+SUMMARY:Stephanie Köglberger – Ein Abend mit 8 Frauen
+UID:63bf83d5d66f6d482b573f43986a75ee
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephanie-koeglberger-ein-abend-mit-8-frauen/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -248,6 +264,14 @@ DTSTART:20241123T190000Z
 SUMMARY:Lotte Walda & Band
 UID:224b174cdb583d89d5ca453064b1fca7
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/lotte-walda-band/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251108T190000Z
+SUMMARY:NoireRouge – “Von Zarah bis Knef”
+UID:275dd3487fd84b4bc2696d58b090297a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/noirerouge-von-zarah-bis-knef/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

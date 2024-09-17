@@ -226,5 +226,23 @@
         "event_date": "2024-11-15T20:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/"
+    },
+    "2025-10-11 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Stephanie Köglberger – Ein Abend mit 8 Frauen",
+        "event_date": "2025-10-11T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/stephanie-koeglberger-ein-abend-mit-8-frauen/"
+    },
+    "2025-11-08 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "NoireRouge – “Von Zarah bis Knef”",
+        "event_date": "2025-11-08T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/noirerouge-von-zarah-bis-knef/"
+    },
+    "2025-11-15 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Jürgen Becker – Die Ursache liegt in der Zukunft",
+        "event_date": "2025-11-15T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/juergen-becker-die-ursache-liegt-in-der-zukunft-2/"
     }
 }
