@@ -28,6 +28,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251025T180000Z
+SUMMARY:Dominik Friedrich – Gitarre Pur
+UID:f3876b952ec3ae5f48788718af524ad5
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/dominik-friedrich-gitarre-pur/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250329T190000Z
 SUMMARY:The Xperience Band
 UID:1b2915ea19ac5f985784237e1403ee0e
