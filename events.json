@@ -250,5 +250,11 @@
         "event_date": "2025-10-25T20:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/dominik-friedrich-gitarre-pur/"
+    },
+    "2025-05-25 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Les Brünettes – Jubiläumskonzert",
+        "event_date": "2025-05-25T19:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/les-bruenettes-jubilaeumskonzert/"
     }
 }

@@ -212,6 +212,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250525T170000Z
+SUMMARY:Les Brünettes – Jubiläumskonzert
+UID:18dd75f08bd27108df90e19137e8b641
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/les-bruenettes-jubilaeumskonzert/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20241221T190000Z
 SUMMARY:Fliegender Wechsel Weihnachts-Impro Theater
 UID:a8028099f07cd5f4d4417fc989b6e5e6
