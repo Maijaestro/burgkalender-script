@@ -59,14 +59,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/motrip-live-2024/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251115T190000Z
-SUMMARY:Jürgen Becker – Die Ursache liegt in der Zukunft
-UID:b1487113f4e9646a37c9d7e5f3aaebd9
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/juergen-becker-die-ursache-liegt-in-der-zukunft-2/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240831T173000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
@@ -208,6 +200,14 @@ DTSTART:20240911T180000Z
 SUMMARY:GIORA FEIDMAN – „Revolution of Love“
 UID:a62b9b83bd4a3fbaa14636d7fb43c9a7
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidmann-friendship-world-tour-2023-327/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251115T190000Z
+SUMMARY:Jürgen Becker – Deine Disco
+UID:a7d8f17e9d5c3a389cc3d89d38e44d68
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/juergen-becker-die-ursache-liegt-in-der-zukunft-2/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
