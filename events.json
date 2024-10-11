@@ -256,5 +256,17 @@
         "event_date": "2025-05-25T19:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/les-bruenettes-jubilaeumskonzert/"
+    },
+    "2024-11-22 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Stephan Kaußen – Lesung: “Zeitenwende”",
+        "event_date": "2024-11-22T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/"
+    },
+    "2025-12-06 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Rocky Raccoon & Felix Janosa – Die Beatles, das Universum und der Rest",
+        "event_date": "2025-12-06T00:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/rocky-raccoon-felix-janosa-die-beatles-das-universum-und-der-rest/"
     }
 }

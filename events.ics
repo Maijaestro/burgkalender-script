@@ -4,10 +4,26 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241122T190000Z
+SUMMARY:Stephan Kaußen – Lesung: “Zeitenwende”
+UID:7aca0c23a72f4290f57c470cd4bee235
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250118T190000Z
 SUMMARY:Lagerfeuer
 UID:49f7c849041765dbe3f45b89119d57a5
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251205T230000Z
+SUMMARY:Rocky Raccoon & Felix Janosa – Die Beatles\, das Universum und der Rest
+UID:bb72531d6998d0b0c028ac3bb18701b3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/rocky-raccoon-felix-janosa-die-beatles-das-universum-und-der-rest/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
