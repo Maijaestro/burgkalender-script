@@ -51,14 +51,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/dominik-friedrich-gitarre-
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250329T190000Z
-SUMMARY:The Xperience Band
-UID:1b2915ea19ac5f985784237e1403ee0e
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-xperience/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240909T180000Z
 SUMMARY:MARLEY‘S GHOST – A Tribute to Bob Marley – Nachholtermin für das ausgefallene Konzert vom 15.08.2024
@@ -216,6 +208,14 @@ DTSTART:20240911T180000Z
 SUMMARY:GIORA FEIDMAN – „Revolution of Love“
 UID:a62b9b83bd4a3fbaa14636d7fb43c9a7
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidmann-friendship-world-tour-2023-327/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250329T190000Z
+SUMMARY:The Xperience
+UID:af529271db1696162f2c542d52433cf6
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-xperience/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
