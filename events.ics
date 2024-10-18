@@ -67,6 +67,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/motrip-live-2024/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251011T180000Z
+SUMMARY:Sabine Köglberger – Ein Abend mit 8 Frauen
+UID:21ce7ff23f0e0464a494e0aaf7cb58e2
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephanie-koeglberger-ein-abend-mit-8-frauen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240831T173000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
@@ -144,14 +152,6 @@ DTSTART:20240907T170000Z
 SUMMARY:20 JAHRE LEGER – DAS JUBILÄUMSKONZERT
 UID:fcd973036d4c4975e7918614b45f6ebb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/leger/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251011T180000Z
-SUMMARY:Stephanie Köglberger – Ein Abend mit 8 Frauen
-UID:63bf83d5d66f6d482b573f43986a75ee
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephanie-koeglberger-ein-abend-mit-8-frauen/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
