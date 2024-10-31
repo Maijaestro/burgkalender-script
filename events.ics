@@ -299,6 +299,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/lotte-walda-band/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250708T173000Z
+SUMMARY:Höhner 2025
+UID:6dbda11b5b5aac4a0fa5b04d5b0ede02
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20251108T190000Z
 SUMMARY:NoireRouge – “Von Zarah bis Knef”
