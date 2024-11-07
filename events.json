@@ -274,5 +274,11 @@
         "event_date": "2025-07-08T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/"
+    },
+    "2025-08-26 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "NIEDECKENS BAP – Schließlich Unendlich Burg Wilhelmstein – AUSVERKAUFT",
+        "event_date": "2025-08-26T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/niedeckens-bap-schliesslich-unendlich-burg-wilhelmstein-duplicate-1/"
     }
 }

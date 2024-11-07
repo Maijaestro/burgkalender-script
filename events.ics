@@ -163,6 +163,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-290/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250826T170000Z
+SUMMARY:NIEDECKENS BAP – Schließlich Unendlich Burg Wilhelmstein – AUSVERKAUFT
+UID:db54b8d0ec09fba072af5ddec91a9ebe
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/niedeckens-bap-schliesslich-unendlich-burg-wilhelmstein-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250517T180000Z
 SUMMARY:Poetry Slam mit Satznachvorn
