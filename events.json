@@ -276,9 +276,93 @@
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/"
     },
     "2025-08-26 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "NIEDECKENS BAP – Schließlich Unendlich Burg Wilhelmstein – AUSVERKAUFT",
+        "event_artist": "WOLFGANG NIEDECKEN – Zwischen Start & Ziel",
         "event_date": "2025-08-26T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/niedeckens-bap-schliesslich-unendlich-burg-wilhelmstein-duplicate-1/"
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel/"
+    },
+    "2025-07-09 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "NightWash – Open Air 2025",
+        "event_date": "2025-07-09T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/nightwash-open-air-2025/"
+    },
+    "2025-07-26 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "SCHILLER – Sommertraum 2025",
+        "event_date": "2025-07-26T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-duplicate-1/"
+    },
+    "2025-08-01 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "SPIDER MURPHY GANG – Rock’n’Roll –  Mir schpuin eh nix anders",
+        "event_date": "2025-08-01T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/spider-murphy-gang-mir-schpuin-eh-nix-anders-duplicate-1/"
+    },
+    "2025-08-15 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "KASALLA – Live 2025",
+        "event_date": "2025-08-15T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-duplicate-1/"
+    },
+    "2025-08-16 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "KASALLA – Live 2025",
+        "event_date": "2025-08-16T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2025-duplicate-1/"
+    },
+    "2025-08-19 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "GERBURG JAHNKE – Frau Jahnke hat eingeladen",
+        "event_date": "2025-08-19T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-duplicate-1/"
+    },
+    "2025-08-22 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "BLÄCK FÖÖSS – Live 2025",
+        "event_date": "2025-08-22T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blaeck-foeoess-tour-2023-duplicate-1/"
+    },
+    "2025-08-24 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "SUZI QUATRO & BAND – Live 2025",
+        "event_date": "2025-08-24T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/suzi-quatro-band-duplicate-1/"
+    },
+    "2025-08-28 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann",
+        "event_date": "2025-08-28T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/comedy-for-hope-duplicate-1/"
+    },
+    "2025-08-29 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "Bülent Ceylan – Yallah Hopp! Open hAir",
+        "event_date": "2025-08-29T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/buelent-ceylan-yallah-hopp-open-hair/"
+    },
+    "2025-08-30 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "Johann König – Wer Pläne macht wird ausgelacht!",
+        "event_date": "2025-08-30T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/johann-koenig-wer-plaene-macht-wird-ausgelacht-2/"
+    },
+    "2025-08-31 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "FRAU HÖPKER – bittet zum Gesang",
+        "event_date": "2025-08-31T17:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-duplicate-1-2/"
+    },
+    "2025-09-05 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "TILL BRÖNNER – Mit Dieter Ilg",
+        "event_date": "2025-09-05T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/till-broenner-mit-dieter-ilg/"
+    },
+    "2025-09-07 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "Herbert Knebels – Affentheater Voll Karacho!",
+        "event_date": "2025-09-07T18:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/herbert-knebels-affentheater-voll-karacho/"
     }
 }
