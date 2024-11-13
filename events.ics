@@ -4,14 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241122T190000Z
-SUMMARY:Stephan Kaußen – Lesung: “Zeitenwende”
-UID:7aca0c23a72f4290f57c470cd4bee235
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250118T190000Z
 SUMMARY:Lagerfeuer
 UID:49f7c849041765dbe3f45b89119d57a5
@@ -412,6 +404,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250803T173000Z
+SUMMARY:The Music of HANS ZIMMER & Others
+UID:85bcd23a6e90d3b6431e7f49a181e9b3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/star-entertainment-praesentiert-the-music-of-hans-zimmer-others-a-celebration-of-film-music-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250824T170000Z
 SUMMARY:SUZI QUATRO & BAND – Live 2025
 UID:2fc56a12351754d463df4de0a1980b70
@@ -432,6 +432,14 @@ DTSTART:20250816T173000Z
 SUMMARY:KASALLA – Live 2025
 UID:d222aad2a6898af882080b9c29f68793
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2025-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20241122T190000Z
+SUMMARY:Stephan Kaußen – Lesung: “Zeitenwende” wurde abgesagt
+UID:2483d5d22c3aa74631dd60a9a9cc1599
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

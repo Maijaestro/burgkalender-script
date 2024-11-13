@@ -258,7 +258,7 @@
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/les-bruenettes-jubilaeumskonzert/"
     },
     "2024-11-22 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Stephan Kaußen – Lesung: “Zeitenwende”",
+        "event_artist": "Stephan Kaußen – Lesung: “Zeitenwende” wurde abgesagt",
         "event_date": "2024-11-22T20:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/"
@@ -364,5 +364,11 @@
         "event_date": "2025-09-07T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/herbert-knebels-affentheater-voll-karacho/"
+    },
+    "2025-08-03 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "The Music of HANS ZIMMER & Others",
+        "event_date": "2025-08-03T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/star-entertainment-praesentiert-the-music-of-hans-zimmer-others-a-celebration-of-film-music-duplicate-1/"
     }
 }
