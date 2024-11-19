@@ -283,6 +283,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-xperience/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250710T180000Z
+SUMMARY:MICHAEL MITTERMEIER – FLASHBACK – Die Rückkehr der Zukunft
+UID:53323977bab8b54b75e5ea0ff6a1cfee
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/michael-mittermeier-zapped-ein-tv-junkie-kehrt-zurueck-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20251115T190000Z
 SUMMARY:Jürgen Becker – Deine Disco
@@ -472,6 +480,14 @@ DTSTART:20250822T173000Z
 SUMMARY:BLÄCK FÖÖSS – Live 2025
 UID:b174cc3c47c91ba910cccfa70296865e
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blaeck-foeoess-tour-2023-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250823T180000Z
+SUMMARY:ALAIN FREI – ALLES NEU!
+UID:8445e576a67e290cc8926398e3981a2c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei-all-in-ausverkauft-duplicate-1/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

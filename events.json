@@ -370,5 +370,17 @@
         "event_date": "2025-08-03T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/star-entertainment-praesentiert-the-music-of-hans-zimmer-others-a-celebration-of-film-music-duplicate-1/"
+    },
+    "2025-07-10 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "MICHAEL MITTERMEIER – FLASHBACK – Die Rückkehr der Zukunft",
+        "event_date": "2025-07-10T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/michael-mittermeier-zapped-ein-tv-junkie-kehrt-zurueck-duplicate-1/"
+    },
+    "2025-08-23 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "ALAIN FREI – ALLES NEU!",
+        "event_date": "2025-08-23T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei-all-in-ausverkauft-duplicate-1/"
     }
 }
