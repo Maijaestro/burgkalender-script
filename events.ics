@@ -11,6 +11,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250705T160000Z
+SUMMARY:BLIND DATE 2025
+UID:45b8951a219fbb78741a304b86abb769
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2024-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20251205T230000Z
 SUMMARY:Rocky Raccoon & Felix Janosa – Die Beatles\, das Universum und der Rest
@@ -136,6 +144,14 @@ DTSTART:20250504T150000Z
 SUMMARY:Mitsingkonzert mit Tanja Raich
 UID:48495830fcd349de4491e8c758951fed
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/mitsingkonzert-mit-tanja-raich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250713T170000Z
+SUMMARY:The Sons of Buena Vista
+UID:d456a74f7fa0c90538205ca83334f405
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-sons-of-buena-vista/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -288,6 +304,14 @@ DTSTART:20250710T180000Z
 SUMMARY:MICHAEL MITTERMEIER – FLASHBACK – Die Rückkehr der Zukunft
 UID:53323977bab8b54b75e5ea0ff6a1cfee
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/michael-mittermeier-zapped-ein-tv-junkie-kehrt-zurueck-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250912T173000Z
+SUMMARY:Die Schlagzeugmafia präsentiert
+UID:a5091b1ebd280edf5841c59bb9e32049
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

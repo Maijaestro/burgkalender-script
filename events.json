@@ -382,5 +382,23 @@
         "event_date": "2025-08-23T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei-all-in-ausverkauft-duplicate-1/"
+    },
+    "2025-07-05 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "BLIND DATE 2025",
+        "event_date": "2025-07-05T18:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2024-duplicate-1/"
+    },
+    "2025-07-13 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "The Sons of Buena Vista",
+        "event_date": "2025-07-13T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-sons-of-buena-vista/"
+    },
+    "2025-09-12 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "Die Schlagzeugmafia präsentiert",
+        "event_date": "2025-09-12T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/"
     }
 }
