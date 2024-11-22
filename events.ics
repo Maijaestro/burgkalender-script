@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251205T230000Z
+DTSTART:20251206T190000Z
 SUMMARY:Rocky Raccoon & Felix Janosa – Die Beatles\, das Universum und der Rest
 UID:bb72531d6998d0b0c028ac3bb18701b3
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/rocky-raccoon-felix-janosa-die-beatles-das-universum-und-der-rest/
@@ -504,6 +504,14 @@ DTSTART:20250822T173000Z
 SUMMARY:BLÄCK FÖÖSS – Live 2025
 UID:b174cc3c47c91ba910cccfa70296865e
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blaeck-foeoess-tour-2023-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250725T173000Z
+SUMMARY:Joris „zu viel retro“-Tour 2025
+UID:8bc1a70262471e7c10875b404e7a9b1e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/joris-zu-viel-retro-tour-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
