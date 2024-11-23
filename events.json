@@ -406,5 +406,11 @@
         "event_date": "2025-07-25T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/joris-zu-viel-retro-tour-2025/"
+    },
+    "2025-07-11 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "Sophia",
+        "event_date": "2025-07-11T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sophia/"
     }
 }
