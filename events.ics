@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250118T190000Z
-SUMMARY:Lagerfeuer
-UID:49f7c849041765dbe3f45b89119d57a5
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250705T160000Z
 SUMMARY:BLIND DATE 2025
@@ -256,6 +248,14 @@ DTSTART:20250131T190000Z
 SUMMARY:Tango X
 UID:cc0cdfe91010b365972dd8db8fae8a29
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/tango-x/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250118T190000Z
+SUMMARY:Lagerfeuer Trio
+UID:61ebcef46a30d9457f6ca54b78c99e62
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
