@@ -44,6 +44,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250810T090000Z
+SUMMARY:Randale – Rockmusik für Kinder
+UID:c926428b76cc7cc07a55e9a851d144ad
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/randale-rockmusik-fuer-kinder/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250829T173000Z
 SUMMARY:Bülent Ceylan – Yallah Hopp! Open hAir
 UID:930aa9398ca9614aad2a454a0add39d1
@@ -64,6 +72,14 @@ DTSTART:20240909T180000Z
 SUMMARY:MARLEY‘S GHOST – A Tribute to Bob Marley – Nachholtermin für das ausgefallene Konzert vom 15.08.2024
 UID:ffb0f883d94cd8eb87be2a261b3612cb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250912T173000Z
+SUMMARY:Die Schlagzeugmafia – Backstreet Noise
+UID:71fd385c307cec68800eb14895ee9ab2
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -196,6 +212,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250727T170000Z
+SUMMARY:THE HOOTERS „45 ALIVE“ 45th Anniversary Tour 2025
+UID:08c8d085a530cbcc5eccdbed623d4d52
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters-40th-anniversary-tour-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250826T170000Z
 SUMMARY:WOLFGANG NIEDECKEN – Zwischen Start & Ziel
 UID:2de7fcd24957c532ee2a0f3cb3a156bb
@@ -312,14 +336,6 @@ DTSTART:20250710T180000Z
 SUMMARY:MICHAEL MITTERMEIER – FLASHBACK – Die Rückkehr der Zukunft
 UID:53323977bab8b54b75e5ea0ff6a1cfee
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/michael-mittermeier-zapped-ein-tv-junkie-kehrt-zurueck-duplicate-1/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20250912T173000Z
-SUMMARY:Die Schlagzeugmafia präsentiert
-UID:a5091b1ebd280edf5841c59bb9e32049
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

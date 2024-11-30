@@ -396,7 +396,7 @@
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-sons-of-buena-vista/"
     },
     "2025-09-12 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Die Schlagzeugmafia präsentiert",
+        "event_artist": "Die Schlagzeugmafia – Backstreet Noise",
         "event_date": "2025-09-12T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/"
@@ -412,5 +412,17 @@
         "event_date": "2025-07-11T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sophia/"
+    },
+    "2025-07-27 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "THE HOOTERS „45 ALIVE“ 45th Anniversary Tour 2025",
+        "event_date": "2025-07-27T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters-40th-anniversary-tour-duplicate-1/"
+    },
+    "2025-08-10 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "Randale – Rockmusik für Kinder",
+        "event_date": "2025-08-10T11:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/randale-rockmusik-fuer-kinder/"
     }
 }
