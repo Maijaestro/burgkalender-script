@@ -100,6 +100,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250724T180000Z
+SUMMARY:FLORIAN KÜNSTLER – LIVE 2025
+UID:57e361f6dbdf37f3fa2e75357cc27ac0
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/florian-kuenstler-live-2025/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250907T160000Z
 SUMMARY:Herbert Knebels – Affentheater Voll Karacho!
 UID:78b2dd141a5ca2fa99b031b843e2319d
@@ -360,6 +368,14 @@ DTSTART:20241221T190000Z
 SUMMARY:Fliegender Wechsel Weihnachts-Impro Theater
 UID:a8028099f07cd5f4d4417fc989b6e5e6
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/fliegender-wechsel-weihnachts-imro-theater/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250825T170000Z
+SUMMARY:WOLFGANG NIEDECKEN – Zwischen Start & Ziel
+UID:0418487b621804dae719eda6534e1367
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel-duplicate-1/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

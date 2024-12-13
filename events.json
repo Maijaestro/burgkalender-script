@@ -424,5 +424,17 @@
         "event_date": "2025-08-10T11:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/randale-rockmusik-fuer-kinder/"
+    },
+    "2025-07-24 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "FLORIAN KÜNSTLER – LIVE 2025",
+        "event_date": "2025-07-24T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/florian-kuenstler-live-2025/"
+    },
+    "2025-08-25 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "WOLFGANG NIEDECKEN – Zwischen Start & Ziel",
+        "event_date": "2025-08-25T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel-duplicate-1/"
     }
 }
