@@ -468,6 +468,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251207T160000Z
+SUMMARY:Tanja Raich – Mitsingkonzert – Weihnachts Special
+UID:89c6ce0a3aa9e298886e9b6fdc9d2668
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachts-special/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20241012T180000Z
 SUMMARY:Ingmar Stadelmann – KOMMT IHR KLAR?
 UID:4fdc9176a47b2b6f1f1ab5412079e912
