@@ -442,5 +442,11 @@
         "event_date": "2025-12-07T17:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachts-special/"
+    },
+    "2025-08-08 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "MILOW – Boy made out of stars – LIVE 2025",
+        "event_date": "2025-08-08T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/milow-boy-made-out-of-stars-live-2025/"
     }
 }

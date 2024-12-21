@@ -52,18 +52,18 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250808T180000Z
+SUMMARY:MILOW – Boy made out of stars – LIVE 2025
+UID:cbcc3f49eb1ac3731ae5409954969a95
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/milow-boy-made-out-of-stars-live-2025/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250829T173000Z
 SUMMARY:Bülent Ceylan – Yallah Hopp! Open hAir
 UID:930aa9398ca9614aad2a454a0add39d1
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/buelent-ceylan-yallah-hopp-open-hair/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251025T180000Z
-SUMMARY:Dominik Friedrich – Gitarre Pur
-UID:f3876b952ec3ae5f48788718af524ad5
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/dominik-friedrich-gitarre-pur/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -80,6 +80,14 @@ DTSTART:20250912T173000Z
 SUMMARY:Die Schlagzeugmafia – Backstreet Noise
 UID:71fd385c307cec68800eb14895ee9ab2
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251025T180000Z
+SUMMARY:Dominik Friedrich – Gitarre Pur
+UID:f3876b952ec3ae5f48788718af524ad5
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/dominik-friedrich-gitarre-pur/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
