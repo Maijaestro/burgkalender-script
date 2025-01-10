@@ -459,6 +459,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250809T180000Z
+SUMMARY:LaFee – Kriegerin Tour
+UID:dac09994610b48339f4bf13b627c52ea
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/lafee-kriegerin-tour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20251108T190000Z
 SUMMARY:NoireRouge – “Von Zarah bis Knef”

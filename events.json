@@ -448,5 +448,11 @@
         "event_date": "2025-08-08T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/milow-boy-made-out-of-stars-live-2025/"
+    },
+    "2025-08-09 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "LaFee – Kriegerin Tour",
+        "event_date": "2025-08-09T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/lafee-kriegerin-tour/"
     }
 }
