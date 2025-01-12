@@ -454,5 +454,11 @@
         "event_date": "2025-08-09T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/lafee-kriegerin-tour/"
+    },
+    "2025-09-10 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "STARBUGS COMEDY – CRASH BOOM BANG !",
+        "event_date": "2025-09-10T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/starbugs-comedy-crash-boom-bang/"
     }
 }
