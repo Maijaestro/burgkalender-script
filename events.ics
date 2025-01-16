@@ -3,6 +3,14 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250215T190000Z
+SUMMARY:Claudia Michelsen liest aus den Memoiren von Marlene Dietrich
+UID:d5396a1d268bc152100b7d398b60b203
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/claudia-michielsen-liest-ueber-das-leben-von-marlene-dietrich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240827T173000Z
 SUMMARY:MoTRIP – Live 2024
@@ -112,14 +120,6 @@ DTSTART:20241122T190000Z
 SUMMARY:Stephan Kaußen – Lesung: “Zeitenwende” wurde abgesagt
 UID:2483d5d22c3aa74631dd60a9a9cc1599
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250215T190000Z
-SUMMARY:Claudia Michelsen liest über das Leben von Marlene Dietrich
-UID:ca7beaff01c04f3a08b67ef0039b0efe
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/claudia-michielsen-liest-ueber-das-leben-von-marlene-dietrich/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
