@@ -68,6 +68,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250719T180000Z
+SUMMARY:SONA JOBARTEH – Die Stimme Gambias
+UID:79416004fc54f7c8da765e23d0eb0d24
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/sona-jobarteh-die-stimme-gambias/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240830T173000Z
 SUMMARY:KASALLA – Live 2024
 UID:a8c97e46e404615fa3facc0503a53e33
