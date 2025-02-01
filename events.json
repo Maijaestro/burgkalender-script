@@ -466,5 +466,11 @@
         "event_date": "2025-07-19T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sona-jobarteh-die-stimme-gambias/"
+    },
+    "2025-09-04 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "RAY WILSON’S GENESIS",
+        "event_date": "2025-09-04T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/ray-wilsons-genesis/"
     }
 }
