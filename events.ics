@@ -476,6 +476,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260314T190000Z
+SUMMARY:Olivier Chavet Quintett – “Elements” – Jazz trifft Natur
+UID:07ee3cb8e1ca0a9a1410062be1b5fc85
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/olivier-chavet-quintett-elements-jazz-trifft-natur/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20241109T190000Z
 SUMMARY:Altfrid M. Sicking Septett
 UID:68448a01f57e728c1c77503ca83d01f0
