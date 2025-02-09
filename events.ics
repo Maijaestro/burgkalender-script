@@ -140,6 +140,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250827T173000Z
+SUMMARY:MARLEY‘S GHOST – A Tribute to Bob Marley
+UID:b50e1cba83c3d6c96625bfe6a28e2e2c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley-698/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250822T173000Z
 SUMMARY:BLÄCK FÖÖSS – Live 2025
 UID:b174cc3c47c91ba910cccfa70296865e

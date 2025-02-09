@@ -478,5 +478,11 @@
         "event_date": "2026-03-14T20:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/olivier-chavet-quintett-elements-jazz-trifft-natur/"
+    },
+    "2025-08-27 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "MARLEY‘S GHOST – A Tribute to Bob Marley",
+        "event_date": "2025-08-27T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley-698/"
     }
 }
