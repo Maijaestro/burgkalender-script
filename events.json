@@ -484,5 +484,23 @@
         "event_date": "2025-08-27T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley-698/"
+    },
+    "2025-09-02 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "MO-TORRES –  Open-Air 2025",
+        "event_date": "2025-09-02T00:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mo-torres-open-air-2025/"
+    },
+    "2026-04-11 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Elsa & Flavio – Brasilianischer Latin-Jazz",
+        "event_date": "2026-04-11T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/elsa-flavio-brasilianischer-latin-jazz/"
+    },
+    "2026-05-09 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Poetry Slam mit Satznachvorn",
+        "event_date": "2026-05-09T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/poetry-slam-mit-satznachvorn-3/"
     }
 }

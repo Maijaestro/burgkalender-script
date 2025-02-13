@@ -4,6 +4,14 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260411T180000Z
+SUMMARY:Elsa & Flavio – Brasilianischer Latin-Jazz
+UID:eca501dde6a6619566a3978fbf822198
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/elsa-flavio-brasilianischer-latin-jazz/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250215T190000Z
 SUMMARY:Claudia Michelsen liest aus den Memoiren von Marlene Dietrich
 UID:d5396a1d268bc152100b7d398b60b203
@@ -56,6 +64,14 @@ DTSTART:20250830T173000Z
 SUMMARY:Johann König – Wer Pläne macht wird ausgelacht!
 UID:7df8ef6823587af68633c677c70ac0ea
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/johann-koenig-wer-plaene-macht-wird-ausgelacht-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250901T220000Z
+SUMMARY:MO-TORRES –  Open-Air 2025
+UID:7b8ba4c47ae99f6a9a880a9446d29927
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mo-torres-open-air-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -368,6 +384,14 @@ DTSTART:20250829T173000Z
 SUMMARY:Bülent Ceylan – Yallah Hopp! Open hAir
 UID:930aa9398ca9614aad2a454a0add39d1
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/buelent-ceylan-yallah-hopp-open-hair/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260509T180000Z
+SUMMARY:Poetry Slam mit Satznachvorn
+UID:c107b7c7a85d5399b3e9ff1614e46479
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/poetry-slam-mit-satznachvorn-3/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
