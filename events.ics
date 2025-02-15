@@ -132,10 +132,10 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20250904T180000Z
-SUMMARY:RAY WILSON’S GENESIS
-UID:224aefad6e4903fd99c4cd40739149bd
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/ray-wilsons-genesis/
+DTSTART:20250728T173000Z
+SUMMARY:PHILIPP POISEL – “Wind in den Haaren” – Tour 2025
+UID:a874b067d632537bf1a53d517f3338c8
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/philipp-poisel-wind-in-den-haaren-tour-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -152,6 +152,14 @@ DTSTART:20241122T190000Z
 SUMMARY:Stephan Kaußen – Lesung: “Zeitenwende” wurde abgesagt
 UID:2483d5d22c3aa74631dd60a9a9cc1599
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250904T180000Z
+SUMMARY:RAY WILSON’S GENESIS
+UID:224aefad6e4903fd99c4cd40739149bd
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/ray-wilsons-genesis/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -632,6 +640,14 @@ DTSTART:20251115T190000Z
 SUMMARY:Jürgen Becker – Deine Disco
 UID:a7d8f17e9d5c3a389cc3d89d38e44d68
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/juergen-becker-die-ursache-liegt-in-der-zukunft-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260131T190000Z
+SUMMARY:Lagerfeuer Trio
+UID:131d56733dd875f9258f18290a4d890b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer-trio/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

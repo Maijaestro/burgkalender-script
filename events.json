@@ -502,5 +502,17 @@
         "event_date": "2026-05-09T20:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/poetry-slam-mit-satznachvorn-3/"
+    },
+    "2025-07-28 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "PHILIPP POISEL – “Wind in den Haaren” – Tour 2025",
+        "event_date": "2025-07-28T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/philipp-poisel-wind-in-den-haaren-tour-2025/"
+    },
+    "2026-01-31 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Lagerfeuer Trio",
+        "event_date": "2026-01-31T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer-trio/"
     }
 }
