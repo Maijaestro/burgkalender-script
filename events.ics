@@ -340,6 +340,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260117T190000Z
+SUMMARY:Andy Houscheid und Rhani Krija – Jazz-Pop\, Liedermacher\, World
+UID:baa55e27c6e93f2309c0da0708bb8588
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/andy-houscheid-und-rhani-krija-jazz-pop-liedermacher-world/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20241031T190000Z
 SUMMARY:DTNR – Nachholkonzert vom Frühjahr
 UID:332723d0b765510482472fb98d44381d
