@@ -251,6 +251,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/stunk-unplugged-tour-2024/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20250406T170000Z
+SUMMARY:Carmela de Feo – groß! blond! erfolgreich! – Ausverkauft!
+UID:ea89a5782345d89e6371d05c2b384303
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/carmela-de-feo-gross-blond-erfolgreich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240901T170000Z
 SUMMARY:KASALLA – Live 2024
@@ -563,6 +571,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-d
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250913T170000Z
+SUMMARY:NEUER CHOR WÜRSELEN – „MitteninsHerz“
+UID:020be659f7a1abb2a1c4fdb2b2d16203
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/neuer-chor-wuerselen-mit-band-gluecksmomente-das-finale-967/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250221T190000Z
 SUMMARY:Tina Teubner – Ohne dich war es immer so schön
@@ -592,14 +608,6 @@ DTSTART:20251206T190000Z
 SUMMARY:Rocky Raccoon & Felix Janosa – Die Beatles\, das Universum und der Rest
 UID:bb72531d6998d0b0c028ac3bb18701b3
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/rocky-raccoon-felix-janosa-die-beatles-das-universum-und-der-rest/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250406T170000Z
-SUMMARY:Carmela de Feo – groß! blond! erfolgreich!
-UID:d0d02fb2fd4549dbc6bdd540a3a7a788
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/carmela-de-feo-gross-blond-erfolgreich/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

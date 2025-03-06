@@ -198,7 +198,7 @@
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-xperience/"
     },
     "2025-04-06 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Carmela de Feo – groß! blond! erfolgreich!",
+        "event_artist": "Carmela de Feo – groß! blond! erfolgreich! – Ausverkauft!",
         "event_date": "2025-04-06T19:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/carmela-de-feo-gross-blond-erfolgreich/"
@@ -526,5 +526,11 @@
         "event_date": "2026-01-17T20:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/andy-houscheid-und-rhani-krija-jazz-pop-liedermacher-world/"
+    },
+    "2025-09-13 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "NEUER CHOR WÜRSELEN – „MitteninsHerz“",
+        "event_date": "2025-09-13T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/neuer-chor-wuerselen-mit-band-gluecksmomente-das-finale-967/"
     }
 }
