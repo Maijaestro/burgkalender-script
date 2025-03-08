@@ -532,5 +532,17 @@
         "event_date": "2025-09-13T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/neuer-chor-wuerselen-mit-band-gluecksmomente-das-finale-967/"
+    },
+    "2025-07-06 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "DAS DA THEATER Familientag „Peter Pan 2.0“",
+        "event_date": "2025-07-06T17:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/929-906-488-136/"
+    },
+    "2025-07-18 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "A TRIBUTE TO AMY – DIE Amy Winehouse Show",
+        "event_date": "2025-07-18T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/a-tribute-to-amy-die-amy-winehouse-show/"
     }
 }

@@ -276,6 +276,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250706T150000Z
+SUMMARY:DAS DA THEATER Familientag „Peter Pan 2.0“
+UID:febec858c6a88da1e092f48a86c3044c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/929-906-488-136/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250711T170000Z
 SUMMARY:Sophia
 UID:ad035bbb12747ddd44eac39c777cdebf
@@ -288,6 +296,14 @@ DTSTART:20250118T190000Z
 SUMMARY:Lagerfeuer Trio
 UID:61ebcef46a30d9457f6ca54b78c99e62
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250718T180000Z
+SUMMARY:A TRIBUTE TO AMY – DIE Amy Winehouse Show
+UID:78315d0517403c461555db0e837acace
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/a-tribute-to-amy-die-amy-winehouse-show/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
