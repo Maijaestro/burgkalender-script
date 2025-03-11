@@ -92,6 +92,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250629T180000Z
+SUMMARY:DAS DA THEATER – „Frühlings Erwachen”                                                        Rock-Musical    vom 05.-29. Juni 2025
+UID:b26adee792b7161842686136f891745c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-pettersson-findus-eine-geburtstagstorte-fuer-die-katze-507-994-606-701-535-317-165-979-569-233-872/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250719T180000Z
 SUMMARY:SONA JOBARTEH – Die Stimme Gambias
 UID:79416004fc54f7c8da765e23d0eb0d24
