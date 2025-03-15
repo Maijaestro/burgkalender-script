@@ -550,5 +550,35 @@
         "event_date": "2025-06-29T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-pettersson-findus-eine-geburtstagstorte-fuer-die-katze-507-994-606-701-535-317-165-979-569-233-872/"
+    },
+    "2025-09-03 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "Amsterdam Klezmer Band – Bomba Pop Tour",
+        "event_date": "2025-09-03T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/amsterdam-klezmer-band-bomba-pop-tour/"
+    },
+    "2025-09-09 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "Benefizshow: REBELLCOMEDY + FRIENDS",
+        "event_date": "2025-09-09T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2022-796-615-741/"
+    },
+    "2026-02-06 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Christina Rommel – Schokolade – Das Konzert",
+        "event_date": "2026-02-06T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/christina-rommel-schokolade-das-konzert/"
+    },
+    "2026-02-22 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Bernd Begemann",
+        "event_date": "2026-02-22T19:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/bernd-begemann/"
+    },
+    "2026-02-28 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Serhat Dogan – Lachkräfte gesucht",
+        "event_date": "2026-02-28T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/serhat-dogan-lachkraefte-gesucht/"
     }
 }

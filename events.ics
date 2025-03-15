@@ -52,6 +52,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250903T180000Z
+SUMMARY:Amsterdam Klezmer Band – Bomba Pop Tour
+UID:2e9acb9c4dece73ae6633cad2e6bdd13
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/amsterdam-klezmer-band-bomba-pop-tour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250713T170000Z
 SUMMARY:The Sons of Buena Vista
 UID:d456a74f7fa0c90538205ca83334f405
@@ -580,6 +588,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260206T190000Z
+SUMMARY:Christina Rommel – Schokolade – Das Konzert
+UID:c6cd58151823e137a55a2be61f75c3a8
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/christina-rommel-schokolade-das-konzert/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20241123T190000Z
 SUMMARY:Lotte Walda & Band
 UID:224b174cdb583d89d5ca453064b1fca7
@@ -608,6 +624,14 @@ DTSTART:20250221T190000Z
 SUMMARY:Tina Teubner – Ohne dich war es immer so schön
 UID:aa9cd494e9f214d1c7dd616385ee6fdc
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/tina-teubner-ohne-dich-war-es-immer-so-schoen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260222T180000Z
+SUMMARY:Bernd Begemann
+UID:2f700e835cff5e8dd2a1757b21da8bd9
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/bernd-begemann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -640,6 +664,22 @@ DTSTART:20240909T180000Z
 SUMMARY:MARLEY‘S GHOST – A Tribute to Bob Marley – Nachholtermin für das ausgefallene Konzert vom 15.08.2024
 UID:ffb0f883d94cd8eb87be2a261b3612cb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260228T190000Z
+SUMMARY:Serhat Dogan – Lachkräfte gesucht
+UID:f768e7e1e4a0ef8a180ba4968f856374
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/serhat-dogan-lachkraefte-gesucht/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250909T173000Z
+SUMMARY:Benefizshow: REBELLCOMEDY + FRIENDS
+UID:da764a7fa32fad5e1d57351c34e5f2d9
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2022-796-615-741/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
