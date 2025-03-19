@@ -580,5 +580,11 @@
         "event_date": "2026-02-28T20:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/serhat-dogan-lachkraefte-gesucht/"
+    },
+    "2026-03-28 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Bluesabend: Bluesaders und Somebody Wrong Bluesband",
+        "event_date": "2026-03-28T19:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/bluesabend-bluesaders-und-somebody-wrong-bluesband/"
     }
 }

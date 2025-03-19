@@ -715,6 +715,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-f
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260328T180000Z
+SUMMARY:Bluesabend: Bluesaders und Somebody Wrong Bluesband
+UID:cc80f5dfcdfa7ddcf045ba0657953669
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/bluesabend-bluesaders-und-somebody-wrong-bluesband/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240903T173000Z
 SUMMARY:Live Podcast mit MARTIN RÜTTER und KATHARINA ADICK – Tierisch-Menschlich
