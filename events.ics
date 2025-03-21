@@ -91,6 +91,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mo-torres-open-air-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250906T180000Z
+SUMMARY:Tinseltown Rebellion Band plays Frank Zappa
+UID:345925c5b013b21b33b32fab1825c676
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tinseltown-rebellion-band-plays-frank-zappa/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20241221T190000Z
 SUMMARY:Fliegender Wechsel Weihnachts-Impro Theater
