@@ -68,6 +68,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260308T180000Z
+SUMMARY:Mata Voices – A Cappella Frauen-Ensemble
+UID:500a9628f2554881dc6f244cdd1776d4
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250131T190000Z
 SUMMARY:Tango X
 UID:cc0cdfe91010b365972dd8db8fae8a29

@@ -592,5 +592,11 @@
         "event_date": "2025-09-06T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tinseltown-rebellion-band-plays-frank-zappa/"
+    },
+    "2026-03-08 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Mata Voices – A Cappella Frauen-Ensemble",
+        "event_date": "2026-03-08T19:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/"
     }
 }
