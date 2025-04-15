@@ -598,5 +598,23 @@
         "event_date": "2026-03-08T19:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/"
+    },
+    "2025-07-20 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "JUDITH HILL – Letters from a Black Widow",
+        "event_date": "2025-07-20T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a-black-widow/"
+    },
+    "2025-07-23 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "SIMON OSLENDER TRIO  LIVE 2025",
+        "event_date": "2025-07-23T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/simon-oslender-trio-live-2025/"
+    },
+    "2025-08-14 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "DORO PESCH – 40 Jahre Metal-Queen",
+        "event_date": "2025-08-14T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/doro-pesch-40-jahre-metal-queen/"
     }
 }

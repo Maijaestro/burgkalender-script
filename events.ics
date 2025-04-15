@@ -292,6 +292,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250814T173000Z
+SUMMARY:DORO PESCH – 40 Jahre Metal-Queen
+UID:7b26faf5daf64d752ac4b4bba6e9553e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/doro-pesch-40-jahre-metal-queen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240901T170000Z
 SUMMARY:KASALLA – Live 2024
 UID:10e65657433b8a1c5930ef305e1d79ea
@@ -408,6 +416,14 @@ DTSTART:20241031T190000Z
 SUMMARY:DTNR – Nachholkonzert vom Frühjahr
 UID:332723d0b765510482472fb98d44381d
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/dtnr-a-capella-gruppe-und-der-chor-binsingen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250720T170000Z
+SUMMARY:JUDITH HILL – Letters from a Black Widow
+UID:e70829feb79fb3d2c91a74f0b0fc69e7
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a-black-widow/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -752,6 +768,14 @@ DTSTART:20251115T190000Z
 SUMMARY:Jürgen Becker – Deine Disco
 UID:a7d8f17e9d5c3a389cc3d89d38e44d68
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/juergen-becker-die-ursache-liegt-in-der-zukunft-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250723T180000Z
+SUMMARY:SIMON OSLENDER TRIO  LIVE 2025
+UID:a753dc15c07a1a25745fa00aee37e623
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/simon-oslender-trio-live-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
