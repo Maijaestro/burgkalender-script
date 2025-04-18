@@ -292,14 +292,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20250814T173000Z
-SUMMARY:DORO PESCH – 40 Jahre Metal-Queen
-UID:7b26faf5daf64d752ac4b4bba6e9553e
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/doro-pesch-40-jahre-metal-queen/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240901T170000Z
 SUMMARY:KASALLA – Live 2024
 UID:10e65657433b8a1c5930ef305e1d79ea
@@ -584,6 +576,14 @@ DTSTART:20250329T190000Z
 SUMMARY:The Xperience
 UID:af529271db1696162f2c542d52433cf6
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-xperience/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250814T173000Z
+SUMMARY:DORO – 40 Jahre Metal-Queen
+UID:ff81e6ba18d6f694d6e87eeaf8be8041
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/doro-pesch-40-jahre-metal-queen/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
