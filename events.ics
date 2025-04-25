@@ -131,6 +131,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/sona-jobarteh-die-stimme-g
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260425T180000Z
+SUMMARY:Dance of Joy – Klezmer
+UID:edeaa8e9ecbaffa1a8ea05cc0920351f
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/dance-of-joy-klezmer/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240830T173000Z
 SUMMARY:KASALLA – Live 2024
