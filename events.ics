@@ -75,6 +75,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-fra
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250731T190000Z
+SUMMARY:OPEN AIR KINO – Bridget Jones – Verrückt nach ihm
+UID:39f5e5e00e637e69b6da1e27e9d138b3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-bridget-jones-verrueckt-nach-ihm/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250131T190000Z
 SUMMARY:Tango X
@@ -259,11 +267,27 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/florian-kuenstler-live-202
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250729T190000Z
+SUMMARY:OPEN AIR KINO – Der Spitzname
+UID:07c5514e89bf29d049dac9cc445244be
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-spitzname/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250426T180000Z
 SUMMARY:Don Clarke – Ein Abend mit Don Clarke
 UID:29d84b70f0b2bfa9055a246d8f8a9881
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/don-clarke-ein-abend-mit-don-clarke/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250805T190000Z
+SUMMARY:OPEN AIR KINO – Wunderschöner
+UID:dc72913d951c28d13c26ac9309fa18cb
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-wunderschoener/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -288,6 +312,14 @@ DTSTART:20240915T160000Z
 SUMMARY:STUNK UNPLUGGED – Tour 2024
 UID:22e40399dcf22c74a08ee484027520f1
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/stunk-unplugged-tour-2024/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250806T190000Z
+SUMMARY:OPEN AIR KINO – Alter weißer Mann
+UID:758c332708146ba2265ccee15e6df1a7
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-alter-weisser-mann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -548,6 +580,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250730T190000Z
+SUMMARY:OPEN AIR KINO – Die leisen und die großen Töne
+UID:9d479ed802fff70e3db270a149f10108
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-die-leisen-und-die-grossen-toene/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250826T170000Z
 SUMMARY:WOLFGANG NIEDECKEN – Zwischen Start & Ziel
 UID:2de7fcd24957c532ee2a0f3cb3a156bb
@@ -600,6 +640,14 @@ DTSTART:20250825T170000Z
 SUMMARY:WOLFGANG NIEDECKEN – Zwischen Start & Ziel
 UID:0418487b621804dae719eda6534e1367
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250807T190000Z
+SUMMARY:OPEN AIR KINO – Like a Complete Unknown
+UID:a04db8953ec97b63be9d855cf1b2ba30
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-like-a-complete-unknown/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

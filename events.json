@@ -622,5 +622,41 @@
         "event_date": "2026-04-25T20:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/dance-of-joy-klezmer/"
+    },
+    "2025-07-29 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "OPEN AIR KINO – Der Spitzname",
+        "event_date": "2025-07-29T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-spitzname/"
+    },
+    "2025-07-30 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "OPEN AIR KINO – Die leisen und die großen Töne",
+        "event_date": "2025-07-30T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-die-leisen-und-die-grossen-toene/"
+    },
+    "2025-07-31 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "OPEN AIR KINO – Bridget Jones – Verrückt nach ihm",
+        "event_date": "2025-07-31T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-bridget-jones-verrueckt-nach-ihm/"
+    },
+    "2025-08-05 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "OPEN AIR KINO – Wunderschöner",
+        "event_date": "2025-08-05T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-wunderschoener/"
+    },
+    "2025-08-06 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "OPEN AIR KINO – Alter weißer Mann",
+        "event_date": "2025-08-06T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-alter-weisser-mann/"
+    },
+    "2025-08-07 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "OPEN AIR KINO – Like a Complete Unknown",
+        "event_date": "2025-08-07T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-like-a-complete-unknown/"
     }
 }
