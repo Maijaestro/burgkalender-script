@@ -67,6 +67,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-sons-of-buena-vista/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250910T173000Z
+SUMMARY:STARBUGS COMEDY – CRASH BOOM BANG!
+UID:52d5338c4a5cce789b8f2299b3783459
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/starbugs-comedy-crash-boom-bang/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20260308T180000Z
 SUMMARY:Mata Voices – A Cappella Frauen-Ensemble
@@ -220,6 +228,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250914T160000Z
+SUMMARY:BLIND OUT – Das große Finale
+UID:573f644343f7539fc8ca2bec165e48fb
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250827T173000Z
 SUMMARY:MARLEY‘S GHOST – A Tribute to Bob Marley
 UID:b50e1cba83c3d6c96625bfe6a28e2e2c
@@ -312,6 +328,14 @@ DTSTART:20240915T160000Z
 SUMMARY:STUNK UNPLUGGED – Tour 2024
 UID:22e40399dcf22c74a08ee484027520f1
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/stunk-unplugged-tour-2024/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250723T180000Z
+SUMMARY:SIMON OSLENDER TRIO – LIVE 2025
+UID:20ad9cc62a2bdfe068792ae32b2f4a8d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/simon-oslender-trio-live-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -556,14 +580,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20250910T173000Z
-SUMMARY:STARBUGS COMEDY – CRASH BOOM BANG !
-UID:31e77ae4fad78b30aedcc8db88c0a44e
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/starbugs-comedy-crash-boom-bang/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240908T170000Z
 SUMMARY:HEINZ-RUDOLF KUNZE – Wie der Name schon sagt – Das neue Soloprogramm
 UID:fe816e69ebc2a75529bb14c31e1ac316
@@ -683,6 +699,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/christina-rommel-schokolad
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250727T170000Z
+SUMMARY:THE HOOTERS „45 ALIVE“ – 45th Anniversary Tour 2025
+UID:fac6d712b171435bf69fbfd1d8f0580b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters-40th-anniversary-tour-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20241123T190000Z
 SUMMARY:Lotte Walda & Band
@@ -788,14 +812,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20250727T170000Z
-SUMMARY:THE HOOTERS „45 ALIVE“ 45th Anniversary Tour 2025
-UID:08c8d085a530cbcc5eccdbed623d4d52
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters-40th-anniversary-tour-duplicate-1/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240910T173000Z
 SUMMARY:Benefizshow: REBELLCOMEDY + FRIENDS 2024
 UID:ed96d184dffaf782db8988a12a5440d1
@@ -824,14 +840,6 @@ DTSTART:20251115T190000Z
 SUMMARY:Jürgen Becker – Deine Disco
 UID:a7d8f17e9d5c3a389cc3d89d38e44d68
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/juergen-becker-die-ursache-liegt-in-der-zukunft-2/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20250723T180000Z
-SUMMARY:SIMON OSLENDER TRIO  LIVE 2025
-UID:a753dc15c07a1a25745fa00aee37e623
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/simon-oslender-trio-live-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

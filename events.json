@@ -414,7 +414,7 @@
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sophia/"
     },
     "2025-07-27 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "THE HOOTERS „45 ALIVE“ 45th Anniversary Tour 2025",
+        "event_artist": "THE HOOTERS „45 ALIVE“ – 45th Anniversary Tour 2025",
         "event_date": "2025-07-27T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters-40th-anniversary-tour-duplicate-1/"
@@ -456,7 +456,7 @@
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/lafee-kriegerin-tour/"
     },
     "2025-09-10 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "STARBUGS COMEDY – CRASH BOOM BANG !",
+        "event_artist": "STARBUGS COMEDY – CRASH BOOM BANG!",
         "event_date": "2025-09-10T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/starbugs-comedy-crash-boom-bang/"
@@ -606,7 +606,7 @@
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a-black-widow/"
     },
     "2025-07-23 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "SIMON OSLENDER TRIO  LIVE 2025",
+        "event_artist": "SIMON OSLENDER TRIO – LIVE 2025",
         "event_date": "2025-07-23T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/simon-oslender-trio-live-2025/"
@@ -658,5 +658,11 @@
         "event_date": "2025-08-07T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-like-a-complete-unknown/"
+    },
+    "2025-09-14 - Burg Wilhelmstein, 52146 Würselen": {
+        "event_artist": "BLIND OUT – Das große Finale",
+        "event_date": "2025-09-14T18:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale/"
     }
 }
