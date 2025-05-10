@@ -664,5 +664,11 @@
         "event_date": "2025-09-14T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale/"
+    },
+    "2026-05-31 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "Tanja Raich Mitsingkonzert",
+        "event_date": "2026-05-31T17:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert/"
     }
 }

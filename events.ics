@@ -292,6 +292,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260531T150000Z
+SUMMARY:Tanja Raich Mitsingkonzert
+UID:1a92cf2b69fbfb3fb7efc45f358c3391
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
 DTSTART:20250426T180000Z
 SUMMARY:Don Clarke – Ein Abend mit Don Clarke
 UID:29d84b70f0b2bfa9055a246d8f8a9881
