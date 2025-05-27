@@ -251,6 +251,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blaeck-foeoess-tour-2023-d
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20260529T180000Z
+SUMMARY:eden west
+UID:c2c60dac2f0a247f457796d74a84e448
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/eden-west/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250801T173000Z
 SUMMARY:SPIDER MURPHY GANG – Rock’n’Roll –  Mir schpuin eh nix anders

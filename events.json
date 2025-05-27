@@ -670,5 +670,11 @@
         "event_date": "2026-05-31T17:00:00",
         "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert/"
+    },
+    "2026-05-29 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
+        "event_artist": "eden west",
+        "event_date": "2026-05-29T20:00:00",
+        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/eden-west/"
     }
 }
