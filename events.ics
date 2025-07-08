@@ -35,14 +35,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/matthias-haertwig-laedt-ei
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251011T180000Z
-SUMMARY:Sabine Köglberger – Ein Abend mit 8 Frauen
-UID:21ce7ff23f0e0464a494e0aaf7cb58e2
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephanie-koeglberger-ein-abend-mit-8-frauen/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250907T160000Z
 SUMMARY:Herbert Knebels – Affentheater Voll Karacho!
@@ -568,6 +560,14 @@ DTSTART:20250912T173000Z
 SUMMARY:Die Schlagzeugmafia – Backstreet Noise
 UID:71fd385c307cec68800eb14895ee9ab2
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
+DTSTART:20251011T180000Z
+SUMMARY:Fliegender Wechsel Impro-Theater
+UID:52755ca779b7dce6fa416561fb0ca2e4
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/fliegender-wechsel-impro-theater/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
