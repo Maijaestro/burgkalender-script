@@ -1,680 +1,608 @@
 {
-    "2024-08-27 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-07-06 - DAS DA Theater - Die Konferenz der Tiere auf Burg Wilhelmstein": {
+        "event_artist": "DAS DA Theater - Die Konferenz der Tiere auf Burg Wilhelmstein",
+        "event_date": "2024-07-06T15:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-23-24/die-konferenz-der-tiere-burg-wilhelmstein"
+    },
+    "2024-07-06 - DAS DA Theater - Findus zieht um auf Burg Wilhelmstein": {
+        "event_artist": "DAS DA Theater - Findus zieht um auf Burg Wilhelmstein",
+        "event_date": "2024-07-06T12:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-23-24/findus-zieht-um-burg-wilhelmstein"
+    },
+    "2024-08-27 - MoTRIP – Live 2024": {
         "event_artist": "MoTRIP – Live 2024",
         "event_date": "2024-08-27T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/motrip-live-2024/"
     },
-    "2024-08-28 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-08-28 - ZWEI ZU EINS – OpenAir-Kino 2024": {
         "event_artist": "ZWEI ZU EINS – OpenAir-Kino 2024",
         "event_date": "2024-08-28T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684/"
     },
-    "2024-08-29 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-08-29 - FLY ME TO THE MOON – OpenAir-Kino 2024": {
         "event_artist": "FLY ME TO THE MOON – OpenAir-Kino 2024",
         "event_date": "2024-08-29T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-286/"
     },
-    "2024-08-30 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-08-30 - KASALLA – Live 2024": {
         "event_artist": "KASALLA – Live 2024",
         "event_date": "2024-08-30T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024/"
     },
-    "2024-08-31 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-08-31 - GERBURG JAHNKE – Frau Jahnke hat eingeladen": {
         "event_artist": "GERBURG JAHNKE – Frau Jahnke hat eingeladen",
         "event_date": "2024-08-31T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke/"
     },
-    "2024-09-01 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-01 - KASALLA – Live 2024": {
         "event_artist": "KASALLA – Live 2024",
         "event_date": "2024-09-01T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-290/"
     },
-    "2024-09-02 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-02 - KASALLA – Live 2024": {
         "event_artist": "KASALLA – Live 2024",
         "event_date": "2024-09-02T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-290-803/"
     },
-    "2024-09-03 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-03 - Live Podcast mit MARTIN RÜTTER und KATHARINA ADICK – Tierisch-Menschlich": {
         "event_artist": "Live Podcast mit MARTIN RÜTTER und KATHARINA ADICK – Tierisch-Menschlich",
         "event_date": "2024-09-03T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/live-podcast-mit-martin-ruetter-und-katharina-adick-tierisch-menschlich/"
     },
-    "2024-09-04 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-04 - BACK TO BLACK – OpenAir-Kino 2024": {
         "event_artist": "BACK TO BLACK – OpenAir-Kino 2024",
         "event_date": "2024-09-04T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-286-349/"
     },
-    "2024-09-05 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-05 - DUNE: PART TWO – OpenAir-Kino 2024": {
         "event_artist": "DUNE: PART TWO – OpenAir-Kino 2024",
         "event_date": "2024-09-05T20:15:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-286-349-255/"
     },
-    "2024-09-06 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-06 - BRINGS – Live 2024": {
         "event_artist": "BRINGS – Live 2024",
         "event_date": "2024-09-06T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/brings-live-2023-411/"
     },
-    "2024-09-07 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-07 - 20 JAHRE LEGER – DAS JUBILÄUMSKONZERT": {
         "event_artist": "20 JAHRE LEGER – DAS JUBILÄUMSKONZERT",
         "event_date": "2024-09-07T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/leger/"
     },
-    "2024-09-08 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-08 - HEINZ-RUDOLF KUNZE – Wie der Name schon sagt – Das neue Soloprogramm": {
         "event_artist": "HEINZ-RUDOLF KUNZE – Wie der Name schon sagt – Das neue Soloprogramm",
         "event_date": "2024-09-08T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/heinz_rudolf-kunze-wie-der-name-schon-sagt-das-neue-soloprogramm/"
     },
-    "2024-09-09 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-09 - MARLEY‘S GHOST – A Tribute to Bob Marley – Nachholtermin für das ausgefallene Konzert vom 15.08.2024": {
         "event_artist": "MARLEY‘S GHOST – A Tribute to Bob Marley – Nachholtermin für das ausgefallene Konzert vom 15.08.2024",
         "event_date": "2024-09-09T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley/"
     },
-    "2024-09-10 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-10 - Benefizshow: REBELLCOMEDY + FRIENDS 2024": {
         "event_artist": "Benefizshow: REBELLCOMEDY + FRIENDS 2024",
         "event_date": "2024-09-10T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2022-796-615/"
     },
-    "2024-09-11 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-11 - GIORA FEIDMAN – „Revolution of Love“": {
         "event_artist": "GIORA FEIDMAN – „Revolution of Love“",
         "event_date": "2024-09-11T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidmann-friendship-world-tour-2023-327/"
     },
-    "2024-09-13 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-13 - GÖTZ ALSMANN – …bei Nacht…": {
         "event_artist": "GÖTZ ALSMANN – …bei Nacht…",
         "event_date": "2024-09-13T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann-bei-nacht/"
     },
-    "2024-09-14 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-14 - DIE FEISTEN – FAMILIENFEST": {
         "event_artist": "DIE FEISTEN – FAMILIENFEST",
         "event_date": "2024-09-14T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/die-feisten-familienfest/"
     },
-    "2024-09-15 - Burg Wilhelmstein, 52146 Würselen": {
+    "2024-09-15 - STUNK UNPLUGGED – Tour 2024": {
         "event_artist": "STUNK UNPLUGGED – Tour 2024",
         "event_date": "2024-09-15T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/stunk-unplugged-tour-2024/"
     },
-    "2024-10-12 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Ingmar Stadelmann – KOMMT IHR KLAR?",
-        "event_date": "2024-10-12T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/ingmar-stadelmann/"
-    },
-    "2024-10-26 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Antigua",
-        "event_date": "2024-10-26T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/antigua/"
-    },
-    "2024-10-31 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "DTNR – Nachholkonzert vom Frühjahr",
-        "event_date": "2024-10-31T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/dtnr-a-capella-gruppe-und-der-chor-binsingen/"
-    },
-    "2024-11-09 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Altfrid M. Sicking Septett",
-        "event_date": "2024-11-09T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/altfrid-m-sicking/"
-    },
-    "2024-11-23 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Lotte Walda & Band",
-        "event_date": "2024-11-23T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/lotte-walda-band/"
-    },
-    "2024-12-08 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Tanja Raich – Mitsingkonzert – Weihnachtsspecial",
-        "event_date": "2024-12-08T17:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachtsspecial/"
-    },
-    "2024-12-21 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Fliegender Wechsel Weihnachts-Impro Theater",
-        "event_date": "2024-12-21T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/fliegender-wechsel-weihnachts-imro-theater/"
-    },
-    "2025-01-18 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Lagerfeuer Trio",
-        "event_date": "2025-01-18T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer/"
-    },
-    "2025-01-31 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Tango X",
-        "event_date": "2025-01-31T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tango-x/"
-    },
-    "2025-02-15 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Claudia Michelsen liest aus den Memoiren von Marlene Dietrich",
-        "event_date": "2025-02-15T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/claudia-michielsen-liest-ueber-das-leben-von-marlene-dietrich/"
-    },
-    "2025-02-21 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Tina Teubner – Ohne dich war es immer so schön",
-        "event_date": "2025-02-21T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tina-teubner-ohne-dich-war-es-immer-so-schoen/"
-    },
-    "2025-03-08 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Photoshow Antarktis – mit Fotograph André Schumacher",
-        "event_date": "2025-03-08T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/photoshow-antarktis-mit-fotograph-andre-schumacher/"
-    },
-    "2025-03-15 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Kollektiv Gedankensprung – Märchenstückchen",
-        "event_date": "2025-03-15T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kollektiv-gedankensprung-maerchenstueckchen/"
-    },
-    "2025-03-29 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "The Xperience",
-        "event_date": "2025-03-29T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-xperience/"
-    },
-    "2025-04-06 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Carmela de Feo – groß! blond! erfolgreich! – Ausverkauft!",
-        "event_date": "2025-04-06T19:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/carmela-de-feo-gross-blond-erfolgreich/"
-    },
-    "2025-04-26 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Don Clarke – Ein Abend mit Don Clarke",
-        "event_date": "2025-04-26T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/don-clarke-ein-abend-mit-don-clarke/"
-    },
-    "2025-05-04 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Mitsingkonzert mit Tanja Raich",
-        "event_date": "2025-05-04T17:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mitsingkonzert-mit-tanja-raich/"
-    },
-    "2025-05-17 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Poetry Slam mit Satznachvorn",
-        "event_date": "2025-05-17T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/poetry-slam-mit-satznachvorn-2/"
-    },
-    "2024-11-15 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Stephan Kaußen – Lesung: “Zeitenwende”",
-        "event_date": "2024-11-15T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/"
-    },
-    "2025-10-11 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Fliegender Wechsel Impro-Theater",
-        "event_date": "2025-10-11T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/fliegender-wechsel-impro-theater/"
-    },
-    "2025-11-08 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "NoireRouge – “Von Zarah bis Knef”",
-        "event_date": "2025-11-08T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/noirerouge-von-zarah-bis-knef/"
-    },
-    "2025-11-15 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Jürgen Becker – Deine Disco",
-        "event_date": "2025-11-15T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/juergen-becker-die-ursache-liegt-in-der-zukunft-2/"
-    },
-    "2025-10-25 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Dominik Friedrich – Gitarre Pur",
-        "event_date": "2025-10-25T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/dominik-friedrich-gitarre-pur/"
-    },
-    "2025-05-25 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Les Brünettes – Jubiläumskonzert",
-        "event_date": "2025-05-25T19:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/les-bruenettes-jubilaeumskonzert/"
-    },
-    "2024-11-22 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Stephan Kaußen – Lesung: “Zeitenwende” wurde abgesagt",
-        "event_date": "2024-11-22T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/"
-    },
-    "2025-12-06 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Rocky Raccoon & Felix Janosa – Die Beatles, das Universum und der Rest",
-        "event_date": "2025-12-06T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/rocky-raccoon-felix-janosa-die-beatles-das-universum-und-der-rest/"
-    },
-    "2025-07-08 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Höhner 2025",
-        "event_date": "2025-07-08T19:30:00",
+    "2025-06-05 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-05T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-26 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "WOLFGANG NIEDECKEN – Zwischen Start & Ziel",
-        "event_date": "2025-08-26T19:00:00",
+    "2025-06-06 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-06T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-07-09 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "NightWash – Open Air 2025",
-        "event_date": "2025-07-09T19:30:00",
+    "2025-06-07 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-07T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/nightwash-open-air-2025/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-07-26 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "SCHILLER – Sommertraum 2025",
-        "event_date": "2025-07-26T19:30:00",
+    "2025-06-08 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-08T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-duplicate-1/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-01 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "SPIDER MURPHY GANG – Rock’n’Roll –  Mir schpuin eh nix anders",
-        "event_date": "2025-08-01T19:30:00",
+    "2025-06-13 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-13T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/spider-murphy-gang-mir-schpuin-eh-nix-anders-duplicate-1/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-15 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "KASALLA – Live 2025",
-        "event_date": "2025-08-15T19:30:00",
+    "2025-06-14 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-14T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-duplicate-1/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-16 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "KASALLA – Live 2025",
-        "event_date": "2025-08-16T19:30:00",
+    "2025-06-15 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-15T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2025-duplicate-1/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-19 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "GERBURG JAHNKE – Frau Jahnke hat eingeladen",
-        "event_date": "2025-08-19T19:00:00",
+    "2025-06-20 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-20T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-duplicate-1/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-22 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "BLÄCK FÖÖSS – Live 2025",
-        "event_date": "2025-08-22T19:30:00",
+    "2025-06-21 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-21T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blaeck-foeoess-tour-2023-duplicate-1/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-24 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "SUZI QUATRO & BAND – Live 2025",
-        "event_date": "2025-08-24T19:00:00",
+    "2025-06-22 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-22T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/suzi-quatro-band-duplicate-1/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-28 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann",
-        "event_date": "2025-08-28T19:30:00",
+    "2025-06-27 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-27T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/comedy-for-hope-duplicate-1/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-29 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Bülent Ceylan – Yallah Hopp! Open hAir",
-        "event_date": "2025-08-29T19:30:00",
+    "2025-06-28 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-28T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/buelent-ceylan-yallah-hopp-open-hair/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-30 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Johann König – Wer Pläne macht wird ausgelacht!",
-        "event_date": "2025-08-30T19:30:00",
+    "2025-06-29 - DAS DA Theater - Frühlings Erwachen": {
+        "event_artist": "DAS DA Theater - Frühlings Erwachen",
+        "event_date": "2025-06-29T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/johann-koenig-wer-plaene-macht-wird-ausgelacht-2/"
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen"
     },
-    "2025-08-31 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "FRAU HÖPKER – bittet zum Gesang",
-        "event_date": "2025-08-31T17:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-duplicate-1-2/"
-    },
-    "2025-09-05 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "TILL BRÖNNER – Mit Dieter Ilg",
-        "event_date": "2025-09-05T19:30:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/till-broenner-mit-dieter-ilg/"
-    },
-    "2025-09-07 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Herbert Knebels – Affentheater Voll Karacho!",
-        "event_date": "2025-09-07T18:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/herbert-knebels-affentheater-voll-karacho/"
-    },
-    "2025-08-03 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "The Music of HANS ZIMMER & Others",
-        "event_date": "2025-08-03T19:30:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/star-entertainment-praesentiert-the-music-of-hans-zimmer-others-a-celebration-of-film-music-duplicate-1/"
-    },
-    "2025-07-10 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "MICHAEL MITTERMEIER – FLASHBACK – Die Rückkehr der Zukunft",
-        "event_date": "2025-07-10T20:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/michael-mittermeier-zapped-ein-tv-junkie-kehrt-zurueck-duplicate-1/"
-    },
-    "2025-08-23 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "ALAIN FREI – ALLES NEU!",
-        "event_date": "2025-08-23T20:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei-all-in-ausverkauft-duplicate-1/"
-    },
-    "2025-07-05 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-07-05 - BLIND DATE 2025": {
         "event_artist": "BLIND DATE 2025",
         "event_date": "2025-07-05T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2024-duplicate-1/"
     },
-    "2025-07-13 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "The Sons of Buena Vista",
-        "event_date": "2025-07-13T19:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-sons-of-buena-vista/"
-    },
-    "2025-09-12 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Die Schlagzeugmafia – Backstreet Noise",
-        "event_date": "2025-09-12T19:30:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/"
-    },
-    "2025-07-25 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Joris „zu viel retro“-Tour 2025",
-        "event_date": "2025-07-25T19:30:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/joris-zu-viel-retro-tour-2025/"
-    },
-    "2025-07-11 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Sophia",
-        "event_date": "2025-07-11T19:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sophia/"
-    },
-    "2025-07-27 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "THE HOOTERS „45 ALIVE“ – 45th Anniversary Tour 2025",
-        "event_date": "2025-07-27T19:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters-40th-anniversary-tour-duplicate-1/"
-    },
-    "2025-08-10 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Randale – Rockmusik für Kinder",
-        "event_date": "2025-08-10T11:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/randale-rockmusik-fuer-kinder/"
-    },
-    "2025-07-24 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "FLORIAN KÜNSTLER – LIVE 2025",
-        "event_date": "2025-07-24T20:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/florian-kuenstler-live-2025/"
-    },
-    "2025-08-25 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "WOLFGANG NIEDECKEN – Zwischen Start & Ziel",
-        "event_date": "2025-08-25T19:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel-duplicate-1/"
-    },
-    "2025-12-07 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Tanja Raich – Mitsingkonzert – Weihnachts Special",
-        "event_date": "2025-12-07T17:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachts-special/"
-    },
-    "2025-08-08 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "MILOW – Boy made out of stars – LIVE 2025",
-        "event_date": "2025-08-08T20:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/milow-boy-made-out-of-stars-live-2025/"
-    },
-    "2025-08-09 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "LaFee – Kriegerin Tour",
-        "event_date": "2025-08-09T20:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/lafee-kriegerin-tour/"
-    },
-    "2025-09-10 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "STARBUGS COMEDY – CRASH BOOM BANG!",
-        "event_date": "2025-09-10T19:30:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/starbugs-comedy-crash-boom-bang/"
-    },
-    "2025-07-19 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "SONA JOBARTEH – Die Stimme Gambias",
-        "event_date": "2025-07-19T20:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sona-jobarteh-die-stimme-gambias/"
-    },
-    "2025-09-04 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "RAY WILSON’S GENESIS",
-        "event_date": "2025-09-04T20:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/ray-wilsons-genesis/"
-    },
-    "2026-03-14 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Olivier Chavet Quintett – “Elements” – Jazz trifft Natur",
-        "event_date": "2026-03-14T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/olivier-chavet-quintett-elements-jazz-trifft-natur/"
-    },
-    "2025-08-27 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "MARLEY‘S GHOST – A Tribute to Bob Marley",
-        "event_date": "2025-08-27T19:30:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley-698/"
-    },
-    "2025-09-02 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "MO-TORRES –  Open-Air 2025",
-        "event_date": "2025-09-02T19:30:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mo-torres-open-air-2025/"
-    },
-    "2026-04-11 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Elsa & Flavio – Brasilianischer Latin-Jazz",
-        "event_date": "2026-04-11T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/elsa-flavio-brasilianischer-latin-jazz/"
-    },
-    "2026-05-09 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Poetry Slam mit Satznachvorn",
-        "event_date": "2026-05-09T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/poetry-slam-mit-satznachvorn-3/"
-    },
-    "2025-07-28 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "PHILIPP POISEL – “Wind in den Haaren” – Tour 2025",
-        "event_date": "2025-07-28T19:30:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/philipp-poisel-wind-in-den-haaren-tour-2025/"
-    },
-    "2026-01-31 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Lagerfeuer Trio",
-        "event_date": "2026-01-31T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer-trio/"
-    },
-    "2025-04-05 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Matthias Härtwig lädt ein – We Are All You",
-        "event_date": "2025-04-05T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/matthias-haertwig-laedt-ein-we-are-all-you/"
-    },
-    "2026-01-17 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Andy Houscheid und Rhani Krija – Jazz-Pop, Liedermacher, World",
-        "event_date": "2026-01-17T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/andy-houscheid-und-rhani-krija-jazz-pop-liedermacher-world/"
-    },
-    "2025-09-13 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "NEUER CHOR WÜRSELEN – „MitteninsHerz“",
-        "event_date": "2025-09-13T19:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/neuer-chor-wuerselen-mit-band-gluecksmomente-das-finale-967/"
-    },
-    "2025-07-06 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-07-06 - DAS DA THEATER Familientag „Peter Pan 2.0“": {
         "event_artist": "DAS DA THEATER Familientag „Peter Pan 2.0“",
         "event_date": "2025-07-06T17:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/929-906-488-136/"
     },
-    "2025-07-18 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-07-08 - Höhner 2025": {
+        "event_artist": "Höhner 2025",
+        "event_date": "2025-07-08T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/"
+    },
+    "2025-07-09 - NightWash – Open Air 2025": {
+        "event_artist": "NightWash – Open Air 2025",
+        "event_date": "2025-07-09T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/nightwash-open-air-2025/"
+    },
+    "2025-07-10 - MICHAEL MITTERMEIER – FLASHBACK – Die Rückkehr der Zukunft": {
+        "event_artist": "MICHAEL MITTERMEIER – FLASHBACK – Die Rückkehr der Zukunft",
+        "event_date": "2025-07-10T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/michael-mittermeier-zapped-ein-tv-junkie-kehrt-zurueck-duplicate-1/"
+    },
+    "2025-07-11 - Sophia": {
+        "event_artist": "Sophia",
+        "event_date": "2025-07-11T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sophia/"
+    },
+    "2025-07-13 - The Sons of Buena Vista": {
+        "event_artist": "The Sons of Buena Vista",
+        "event_date": "2025-07-13T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-sons-of-buena-vista/"
+    },
+    "2025-07-18 - A TRIBUTE TO AMY – DIE Amy Winehouse Show": {
         "event_artist": "A TRIBUTE TO AMY – DIE Amy Winehouse Show",
         "event_date": "2025-07-18T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/a-tribute-to-amy-die-amy-winehouse-show/"
     },
-    "2025-06-29 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "DAS DA THEATER – „Frühlings Erwachen”                                                        Rock-Musical    vom 05.-29. Juni 2025",
-        "event_date": "2025-06-29T20:00:00",
+    "2025-07-19 - SONA JOBARTEH – Die Stimme Gambias": {
+        "event_artist": "SONA JOBARTEH – Die Stimme Gambias",
+        "event_date": "2025-07-19T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-pettersson-findus-eine-geburtstagstorte-fuer-die-katze-507-994-606-701-535-317-165-979-569-233-872/"
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sona-jobarteh-die-stimme-gambias/"
     },
-    "2025-09-03 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Amsterdam Klezmer Band – Bomba Pop Tour",
-        "event_date": "2025-09-03T20:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/amsterdam-klezmer-band-bomba-pop-tour/"
-    },
-    "2025-09-09 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Benefizshow: REBELLCOMEDY + FRIENDS",
-        "event_date": "2025-09-09T19:30:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2022-796-615-741/"
-    },
-    "2026-02-06 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Christina Rommel – Schokolade – Das Konzert",
-        "event_date": "2026-02-06T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/christina-rommel-schokolade-das-konzert/"
-    },
-    "2026-02-22 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Bernd Begemann",
-        "event_date": "2026-02-22T19:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/bernd-begemann/"
-    },
-    "2026-02-28 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Serhat Dogan – Lachkräfte gesucht",
-        "event_date": "2026-02-28T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/serhat-dogan-lachkraefte-gesucht/"
-    },
-    "2026-03-28 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Bluesabend: Bluesaders und Somebody Wrong Bluesband",
-        "event_date": "2026-03-28T19:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/bluesabend-bluesaders-und-somebody-wrong-bluesband/"
-    },
-    "2025-09-06 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "Tinseltown Rebellion Band plays Frank Zappa",
-        "event_date": "2025-09-06T20:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tinseltown-rebellion-band-plays-frank-zappa/"
-    },
-    "2026-03-08 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Mata Voices – A Cappella Frauen-Ensemble",
-        "event_date": "2026-03-08T19:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/"
-    },
-    "2025-07-20 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-07-20 - JUDITH HILL – Letters from a Black Widow": {
         "event_artist": "JUDITH HILL – Letters from a Black Widow",
         "event_date": "2025-07-20T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a-black-widow/"
     },
-    "2025-07-23 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-07-23 - SIMON OSLENDER TRIO – LIVE 2025": {
         "event_artist": "SIMON OSLENDER TRIO – LIVE 2025",
         "event_date": "2025-07-23T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/simon-oslender-trio-live-2025/"
     },
-    "2025-08-14 - Burg Wilhelmstein, 52146 Würselen": {
-        "event_artist": "DORO – 40 Jahre Metal-Queen",
-        "event_date": "2025-08-14T19:30:00",
+    "2025-07-24 - FLORIAN KÜNSTLER – LIVE 2025": {
+        "event_artist": "FLORIAN KÜNSTLER – LIVE 2025",
+        "event_date": "2025-07-24T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/doro-pesch-40-jahre-metal-queen/"
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/florian-kuenstler-live-2025/"
     },
-    "2026-04-25 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Dance of Joy – Klezmer",
-        "event_date": "2026-04-25T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/dance-of-joy-klezmer/"
+    "2025-07-25 - Joris „zu viel retro“-Tour 2025": {
+        "event_artist": "Joris „zu viel retro“-Tour 2025",
+        "event_date": "2025-07-25T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/joris-zu-viel-retro-tour-2025/"
     },
-    "2025-07-29 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-07-26 - SCHILLER – Sommertraum 2025": {
+        "event_artist": "SCHILLER – Sommertraum 2025",
+        "event_date": "2025-07-26T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-duplicate-1/"
+    },
+    "2025-07-27 - THE HOOTERS „45 ALIVE“ – 45th Anniversary Tour 2025": {
+        "event_artist": "THE HOOTERS „45 ALIVE“ – 45th Anniversary Tour 2025",
+        "event_date": "2025-07-27T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters-40th-anniversary-tour-duplicate-1/"
+    },
+    "2025-07-28 - PHILIPP POISEL – “Wind in den Haaren” – Tour 2025": {
+        "event_artist": "PHILIPP POISEL – “Wind in den Haaren” – Tour 2025",
+        "event_date": "2025-07-28T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/philipp-poisel-wind-in-den-haaren-tour-2025/"
+    },
+    "2025-07-29 - OPEN AIR KINO – Der Spitzname": {
         "event_artist": "OPEN AIR KINO – Der Spitzname",
         "event_date": "2025-07-29T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-spitzname/"
     },
-    "2025-07-30 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-07-30 - OPEN AIR KINO – Die leisen und die großen Töne": {
         "event_artist": "OPEN AIR KINO – Die leisen und die großen Töne",
         "event_date": "2025-07-30T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-die-leisen-und-die-grossen-toene/"
     },
-    "2025-07-31 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-07-31 - OPEN AIR KINO – Bridget Jones – Verrückt nach ihm": {
         "event_artist": "OPEN AIR KINO – Bridget Jones – Verrückt nach ihm",
         "event_date": "2025-07-31T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-bridget-jones-verrueckt-nach-ihm/"
     },
-    "2025-08-05 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-08-01 - SPIDER MURPHY GANG – Rock’n’Roll –  Mir schpuin eh nix anders": {
+        "event_artist": "SPIDER MURPHY GANG – Rock’n’Roll –  Mir schpuin eh nix anders",
+        "event_date": "2025-08-01T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/spider-murphy-gang-mir-schpuin-eh-nix-anders-duplicate-1/"
+    },
+    "2025-08-03 - PROGRAMMÄNDERUNG!  The Music of DER KÖNIG DER LÖWEN – Live in Concert": {
+        "event_artist": "PROGRAMMÄNDERUNG!  The Music of DER KÖNIG DER LÖWEN – Live in Concert",
+        "event_date": "2025-08-03T15:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-music-of-avatar-der-herr-der-elemente-live-in-concert/"
+    },
+    "2025-08-03 - The Music of HANS ZIMMER & Others": {
+        "event_artist": "The Music of HANS ZIMMER & Others",
+        "event_date": "2025-08-03T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/star-entertainment-praesentiert-the-music-of-hans-zimmer-others-a-celebration-of-film-music-duplicate-1/"
+    },
+    "2025-08-05 - OPEN AIR KINO – Wunderschöner": {
         "event_artist": "OPEN AIR KINO – Wunderschöner",
         "event_date": "2025-08-05T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-wunderschoener/"
     },
-    "2025-08-06 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-08-06 - OPEN AIR KINO – Alter weißer Mann": {
         "event_artist": "OPEN AIR KINO – Alter weißer Mann",
         "event_date": "2025-08-06T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-alter-weisser-mann/"
     },
-    "2025-08-07 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-08-07 - OPEN AIR KINO – Like a Complete Unknown": {
         "event_artist": "OPEN AIR KINO – Like a Complete Unknown",
         "event_date": "2025-08-07T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-like-a-complete-unknown/"
     },
-    "2025-09-14 - Burg Wilhelmstein, 52146 Würselen": {
+    "2025-08-08 - MILOW – Boy made out of stars – LIVE 2025": {
+        "event_artist": "MILOW – Boy made out of stars – LIVE 2025",
+        "event_date": "2025-08-08T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/milow-boy-made-out-of-stars-live-2025/"
+    },
+    "2025-08-09 - LaFee – Kriegerin Tour": {
+        "event_artist": "LaFee – Kriegerin Tour",
+        "event_date": "2025-08-09T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/lafee-kriegerin-tour/"
+    },
+    "2025-08-10 - Randale – Rockmusik für Kinder": {
+        "event_artist": "Randale – Rockmusik für Kinder",
+        "event_date": "2025-08-10T11:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/randale-rockmusik-fuer-kinder/"
+    },
+    "2025-08-14 - DORO – 40 Jahre Metal-Queen": {
+        "event_artist": "DORO – 40 Jahre Metal-Queen",
+        "event_date": "2025-08-14T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/doro-pesch-40-jahre-metal-queen/"
+    },
+    "2025-08-15 - KASALLA – Live 2025": {
+        "event_artist": "KASALLA – Live 2025",
+        "event_date": "2025-08-15T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-duplicate-1/"
+    },
+    "2025-08-16 - KASALLA – Live 2025": {
+        "event_artist": "KASALLA – Live 2025",
+        "event_date": "2025-08-16T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2025-duplicate-1/"
+    },
+    "2025-08-16 - KASALLA – Live 2025 – Familienkonzert": {
+        "event_artist": "KASALLA – Live 2025 – Familienkonzert",
+        "event_date": "2025-08-16T15:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2025-duplicate-1-2/"
+    },
+    "2025-08-19 - GERBURG JAHNKE – Frau Jahnke hat eingeladen": {
+        "event_artist": "GERBURG JAHNKE – Frau Jahnke hat eingeladen",
+        "event_date": "2025-08-19T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-duplicate-1/"
+    },
+    "2025-08-22 - BLÄCK FÖÖSS – Live 2025": {
+        "event_artist": "BLÄCK FÖÖSS – Live 2025",
+        "event_date": "2025-08-22T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blaeck-foeoess-tour-2023-duplicate-1/"
+    },
+    "2025-08-23 - ALAIN FREI – ALLES NEU!": {
+        "event_artist": "ALAIN FREI – ALLES NEU!",
+        "event_date": "2025-08-23T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei-all-in-ausverkauft-duplicate-1/"
+    },
+    "2025-08-24 - SUZI QUATRO & BAND – Live 2025": {
+        "event_artist": "SUZI QUATRO & BAND – Live 2025",
+        "event_date": "2025-08-24T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/suzi-quatro-band-duplicate-1/"
+    },
+    "2025-08-25 - WOLFGANG NIEDECKEN – Zwischen Start & Ziel": {
+        "event_artist": "WOLFGANG NIEDECKEN – Zwischen Start & Ziel",
+        "event_date": "2025-08-25T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel-duplicate-1/"
+    },
+    "2025-08-26 - WOLFGANG NIEDECKEN – Zwischen Start & Ziel": {
+        "event_artist": "WOLFGANG NIEDECKEN – Zwischen Start & Ziel",
+        "event_date": "2025-08-26T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel/"
+    },
+    "2025-08-27 - MARLEY‘S GHOST – A Tribute to Bob Marley": {
+        "event_artist": "MARLEY‘S GHOST – A Tribute to Bob Marley",
+        "event_date": "2025-08-27T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley-698/"
+    },
+    "2025-08-28 - COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann": {
+        "event_artist": "COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann",
+        "event_date": "2025-08-28T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/comedy-for-hope-duplicate-1/"
+    },
+    "2025-08-29 - Bülent Ceylan – Yallah Hopp! Open hAir": {
+        "event_artist": "Bülent Ceylan – Yallah Hopp! Open hAir",
+        "event_date": "2025-08-29T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/buelent-ceylan-yallah-hopp-open-hair/"
+    },
+    "2025-08-30 - Johann König – Wer Pläne macht wird ausgelacht!": {
+        "event_artist": "Johann König – Wer Pläne macht wird ausgelacht!",
+        "event_date": "2025-08-30T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/johann-koenig-wer-plaene-macht-wird-ausgelacht-2/"
+    },
+    "2025-08-31 - FRAU HÖPKER – bittet zum Gesang": {
+        "event_artist": "FRAU HÖPKER – bittet zum Gesang",
+        "event_date": "2025-08-31T17:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-duplicate-1-2/"
+    },
+    "2025-09-02 - MO-TORRES –  Open-Air 2025": {
+        "event_artist": "MO-TORRES –  Open-Air 2025",
+        "event_date": "2025-09-02T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mo-torres-open-air-2025/"
+    },
+    "2025-09-03 - Amsterdam Klezmer Band – Bomba Pop Tour": {
+        "event_artist": "Amsterdam Klezmer Band – Bomba Pop Tour",
+        "event_date": "2025-09-03T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/amsterdam-klezmer-band-bomba-pop-tour/"
+    },
+    "2025-09-04 - RAY WILSON’S GENESIS": {
+        "event_artist": "RAY WILSON’S GENESIS",
+        "event_date": "2025-09-04T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/ray-wilsons-genesis/"
+    },
+    "2025-09-05 - TILL BRÖNNER – Mit Dieter Ilg": {
+        "event_artist": "TILL BRÖNNER – Mit Dieter Ilg",
+        "event_date": "2025-09-05T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/till-broenner-mit-dieter-ilg/"
+    },
+    "2025-09-06 - Tinseltown Rebellion Band plays Frank Zappa": {
+        "event_artist": "Tinseltown Rebellion Band plays Frank Zappa",
+        "event_date": "2025-09-06T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tinseltown-rebellion-band-plays-frank-zappa/"
+    },
+    "2025-09-07 - Herbert Knebels – Affentheater Voll Karacho!": {
+        "event_artist": "Herbert Knebels – Affentheater Voll Karacho!",
+        "event_date": "2025-09-07T18:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/herbert-knebels-affentheater-voll-karacho/"
+    },
+    "2025-09-09 - Benefizshow: REBELLCOMEDY + FRIENDS": {
+        "event_artist": "Benefizshow: REBELLCOMEDY + FRIENDS",
+        "event_date": "2025-09-09T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2022-796-615-741/"
+    },
+    "2025-09-10 - STARBUGS COMEDY – CRASH BOOM BANG!": {
+        "event_artist": "STARBUGS COMEDY – CRASH BOOM BANG!",
+        "event_date": "2025-09-10T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/starbugs-comedy-crash-boom-bang/"
+    },
+    "2025-09-12 - Die Schlagzeugmafia – Backstreet Noise": {
+        "event_artist": "Die Schlagzeugmafia – Backstreet Noise",
+        "event_date": "2025-09-12T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/"
+    },
+    "2025-09-13 - NEUER CHOR WÜRSELEN – „MitteninsHerz“": {
+        "event_artist": "NEUER CHOR WÜRSELEN – „MitteninsHerz“",
+        "event_date": "2025-09-13T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/neuer-chor-wuerselen-mit-band-gluecksmomente-das-finale-967/"
+    },
+    "2025-09-14 - BLIND OUT – Das große Finale": {
         "event_artist": "BLIND OUT – Das große Finale",
         "event_date": "2025-09-14T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale/"
     },
-    "2026-05-31 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "Tanja Raich Mitsingkonzert",
-        "event_date": "2026-05-31T17:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert/"
+    "2026-06-04 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-04T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
     },
-    "2026-05-29 - Altes Rathaus, Kaiserstraße 36, 52146 Würselen": {
-        "event_artist": "eden west",
-        "event_date": "2026-05-29T20:00:00",
-        "event_location": "Altes Rathaus, Kaiserstraße 36, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/eden-west/"
+    "2026-06-05 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-05T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-06 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-06T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-07 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-07T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-12 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-12T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-13 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-13T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-14 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-14T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-19 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-19T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-20 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-20T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-21 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-21T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-26 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-26T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-27 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-27T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-06-28 - DAS DA Theater - Romeo & Julia – Musical": {
+        "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
+        "event_date": "2026-06-28T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
     }
 }
