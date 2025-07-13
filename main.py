@@ -1,4 +1,4 @@
 import bwcrawl, transform2ical
 
-bwcrawl.run()
+bwcrawl
 transform2ical.run()
