@@ -72,7 +72,7 @@ def runBurg(events) -> None:
                     else None
                 )
 
-                key_text = f"{dt.strftime("%Y-%m-%d")} - {artist_text}"
+                key_text = f"{dt.strftime('%Y-%m-%d')} - {artist_text}"
 
                 events[key_text] = {
                     "event_artist": artist_text,
@@ -128,7 +128,7 @@ def runDasDa(events) -> None:
                     event_date = date.isoformat()
 
                     # Key
-                    key_text = f"{date.strftime("%Y-%m-%d")} - {artist_text}"
+                    key_text = f"{date.strftime('%Y-%m-%d')} - {artist_text}"
 
                     events.update(
                         {
