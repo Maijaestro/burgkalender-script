@@ -3,19 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260411T180000Z
-SUMMARY:Elsa & Flavio – Brasilianischer Latin-Jazz
-UID:eca501dde6a6619566a3978fbf822198
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/elsa-flavio-brasilianischer-latin-jazz/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250215T190000Z
-SUMMARY:Claudia Michelsen liest aus den Memoiren von Marlene Dietrich
-UID:d5396a1d268bc152100b7d398b60b203
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/claudia-michielsen-liest-ueber-das-leben-von-marlene-dietrich/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250608T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:f4c709a4351b76eb3f83a073aacd289b
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -27,11 +19,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/motrip-live-2024/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250405T180000Z
-SUMMARY:Matthias Härtwig lädt ein – We Are All You
-UID:fbf43a6d2b676bc13df57b0c6407e61f
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/matthias-haertwig-laedt-ein-we-are-all-you/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260613T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:2b1c313858fcd58debc07d286c53ab92
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -40,6 +32,14 @@ DTSTART:20250907T160000Z
 SUMMARY:Herbert Knebels – Affentheater Voll Karacho!
 UID:78b2dd141a5ca2fa99b031b843e2319d
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/herbert-knebels-affentheater-voll-karacho/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250614T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:02684cd6957898c19b606a71042c4977
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -67,11 +67,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/starbugs-comedy-crash-boom
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260308T180000Z
-SUMMARY:Mata Voices – A Cappella Frauen-Ensemble
-UID:500a9628f2554881dc6f244cdd1776d4
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260628T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:3ee451f5e39a31b389203bd765bca13e
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -83,11 +83,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-bridget-jone
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250131T190000Z
-SUMMARY:Tango X
-UID:cc0cdfe91010b365972dd8db8fae8a29
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/tango-x/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260626T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:5e44a3231c3178f59f591ba8319e8891
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -96,6 +96,22 @@ DTSTART:20250830T173000Z
 SUMMARY:Johann König – Wer Pläne macht wird ausgelacht!
 UID:7df8ef6823587af68633c677c70ac0ea
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/johann-koenig-wer-plaene-macht-wird-ausgelacht-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240706T100000Z
+SUMMARY:DAS DA Theater - Findus zieht um auf Burg Wilhelmstein
+UID:536103d23d003a575bd0217ff37fee57
+URL:https://dasda.de/das-da-theater/programm/spielzeit-23-24/findus-zieht-um-burg-wilhelmstein
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260606T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:681a2fb4a7f7b47d78f1a6b33f5dfe22
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -115,19 +131,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/tinseltown-rebellion-band-
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241221T190000Z
-SUMMARY:Fliegender Wechsel Weihnachts-Impro Theater
-UID:a8028099f07cd5f4d4417fc989b6e5e6
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/fliegender-wechsel-weihnachts-imro-theater/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20250629T180000Z
-SUMMARY:DAS DA THEATER – „Frühlings Erwachen”                                                        Rock-Musical    vom 05.-29. Juni 2025
-UID:b26adee792b7161842686136f891745c
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-pettersson-findus-eine-geburtstagstorte-fuer-die-katze-507-994-606-701-535-317-165-979-569-233-872/
+DTSTART:20250615T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:e647328bf5a1a24923af76d1d5c36108
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -136,14 +144,6 @@ DTSTART:20250719T180000Z
 SUMMARY:SONA JOBARTEH – Die Stimme Gambias
 UID:79416004fc54f7c8da765e23d0eb0d24
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/sona-jobarteh-die-stimme-gambias/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260425T180000Z
-SUMMARY:Dance of Joy – Klezmer
-UID:edeaa8e9ecbaffa1a8ea05cc0920351f
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/dance-of-joy-klezmer/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -171,14 +171,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/lafee-kriegerin-tour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251207T160000Z
-SUMMARY:Tanja Raich – Mitsingkonzert – Weihnachts Special
-UID:89c6ce0a3aa9e298886e9b6fdc9d2668
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachts-special/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250803T173000Z
 SUMMARY:The Music of HANS ZIMMER & Others
@@ -203,14 +195,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2025-duplicat
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241122T190000Z
-SUMMARY:Stephan Kaußen – Lesung: “Zeitenwende” wurde abgesagt
-UID:2483d5d22c3aa74631dd60a9a9cc1599
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250904T180000Z
 SUMMARY:RAY WILSON’S GENESIS
@@ -224,6 +208,14 @@ DTSTART:20250914T160000Z
 SUMMARY:BLIND OUT – Das große Finale
 UID:573f644343f7539fc8ca2bec165e48fb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250621T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:10c7649e22017a76d68baa6a94487ede
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -243,14 +235,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blaeck-foeoess-tour-2023-d
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260529T180000Z
-SUMMARY:eden west
-UID:c2c60dac2f0a247f457796d74a84e448
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/eden-west/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250801T173000Z
 SUMMARY:SPIDER MURPHY GANG – Rock’n’Roll –  Mir schpuin eh nix anders
@@ -259,19 +243,19 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/spider-murphy-gang-mir-sch
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251025T180000Z
-SUMMARY:Dominik Friedrich – Gitarre Pur
-UID:f3876b952ec3ae5f48788718af524ad5
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/dominik-friedrich-gitarre-pur/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250808T180000Z
 SUMMARY:MILOW – Boy made out of stars – LIVE 2025
 UID:cbcc3f49eb1ac3731ae5409954969a95
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/milow-boy-made-out-of-stars-live-2025/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260607T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:24cf93fc3d57cc9746041c8edf8e47a5
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -291,22 +275,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-spitznam
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260531T150000Z
-SUMMARY:Tanja Raich Mitsingkonzert
-UID:1a92cf2b69fbfb3fb7efc45f358c3391
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250426T180000Z
-SUMMARY:Don Clarke – Ein Abend mit Don Clarke
-UID:29d84b70f0b2bfa9055a246d8f8a9881
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/don-clarke-ein-abend-mit-don-clarke/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250805T190000Z
 SUMMARY:OPEN AIR KINO – Wunderschöner
@@ -320,6 +288,14 @@ DTSTART:20240828T190000Z
 SUMMARY:ZWEI ZU EINS – OpenAir-Kino 2024
 UID:ca640d167e146092146def500a8ee0a8
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260619T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:9e20150e19c0a3eb908d3d98003b0f4b
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -355,14 +331,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-alter-weisse
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250406T170000Z
-SUMMARY:Carmela de Feo – groß! blond! erfolgreich! – Ausverkauft!
-UID:ea89a5782345d89e6371d05c2b384303
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/carmela-de-feo-gross-blond-erfolgreich/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240901T170000Z
 SUMMARY:KASALLA – Live 2024
@@ -371,11 +339,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-290/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250517T180000Z
-SUMMARY:Poetry Slam mit Satznachvorn
-UID:1d930edd20274ef455c59fcf560499b4
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/poetry-slam-mit-satznachvorn-2/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250613T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:28ce7395f542e16d1e0e964769e54c0c
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -395,11 +363,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/sophia/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250118T190000Z
-SUMMARY:Lagerfeuer Trio
-UID:61ebcef46a30d9457f6ca54b78c99e62
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260604T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:4a0b5aab2b9a7059f4078cd84009446a
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -435,14 +403,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-2
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241115T190000Z
-SUMMARY:Stephan Kaußen – Lesung: “Zeitenwende”
-UID:1362689816cfd0e4b849c69ab484f94c
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/stephan-kaussen-lesung-zeitenwende/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250708T173000Z
 SUMMARY:Höhner 2025
@@ -451,35 +411,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251108T190000Z
-SUMMARY:NoireRouge – “Von Zarah bis Knef”
-UID:275dd3487fd84b4bc2696d58b090297a
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/noirerouge-von-zarah-bis-knef/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241012T180000Z
-SUMMARY:Ingmar Stadelmann – KOMMT IHR KLAR?
-UID:4fdc9176a47b2b6f1f1ab5412079e912
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/ingmar-stadelmann/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260117T190000Z
-SUMMARY:Andy Houscheid und Rhani Krija – Jazz-Pop\, Liedermacher\, World
-UID:baa55e27c6e93f2309c0da0708bb8588
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/andy-houscheid-und-rhani-krija-jazz-pop-liedermacher-world/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241031T190000Z
-SUMMARY:DTNR – Nachholkonzert vom Frühjahr
-UID:332723d0b765510482472fb98d44381d
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/dtnr-a-capella-gruppe-und-der-chor-binsingen/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240706T130000Z
+SUMMARY:DAS DA Theater - Die Konferenz der Tiere auf Burg Wilhelmstein
+UID:f760611daeeae2d229403a58baea0dd3
+URL:https://dasda.de/das-da-theater/programm/spielzeit-23-24/die-konferenz-der-tiere-burg-wilhelmstein
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -491,14 +427,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250525T170000Z
-SUMMARY:Les Brünettes – Jubiläumskonzert
-UID:18dd75f08bd27108df90e19137e8b641
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/les-bruenettes-jubilaeumskonzert/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240904T190000Z
 SUMMARY:BACK TO BLACK – OpenAir-Kino 2024
@@ -507,11 +435,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-2
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250504T150000Z
-SUMMARY:Mitsingkonzert mit Tanja Raich
-UID:48495830fcd349de4491e8c758951fed
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/mitsingkonzert-mit-tanja-raich/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250620T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:a5e76d35ffa3a3e5c3167bb64ee345ad
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -547,14 +475,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/buelent-ceylan-yallah-hopp
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260509T180000Z
-SUMMARY:Poetry Slam mit Satznachvorn
-UID:c107b7c7a85d5399b3e9ff1614e46479
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/poetry-slam-mit-satznachvorn-3/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250912T173000Z
 SUMMARY:Die Schlagzeugmafia – Backstreet Noise
@@ -563,11 +483,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praese
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251011T180000Z
-SUMMARY:Fliegender Wechsel Impro-Theater
-UID:52755ca779b7dce6fa416561fb0ca2e4
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/fliegender-wechsel-impro-theater/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260612T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:21650ba50f44b7bfcace05123754eb10
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -587,11 +507,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250308T190000Z
-SUMMARY:Photoshow Antarktis – mit Fotograph André Schumacher
-UID:2360cf98fe1aa2dff714d616e7589fad
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/photoshow-antarktis-mit-fotograph-andre-schumacher/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250816T130000Z
+SUMMARY:KASALLA – Live 2025 – Familienkonzert
+UID:0dd65a8f4d6d386c650bb4936fa9846a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2025-duplicate-1-2/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -636,26 +556,18 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250607T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:e8a445559041e6c5d1470b83d766f888
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250819T170000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
 UID:ae784d85cf7c83684e5330f1b12d23ff
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-duplicate-1/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241026T180000Z
-SUMMARY:Antigua
-UID:530e01cded498f78da57fa69be0d77ed
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/antigua/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250329T190000Z
-SUMMARY:The Xperience
-UID:af529271db1696162f2c542d52433cf6
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-xperience/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -691,43 +603,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-ge
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260314T190000Z
-SUMMARY:Olivier Chavet Quintett – “Elements” – Jazz trifft Natur
-UID:07ee3cb8e1ca0a9a1410062be1b5fc85
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/olivier-chavet-quintett-elements-jazz-trifft-natur/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241109T190000Z
-SUMMARY:Altfrid M. Sicking Septett
-UID:68448a01f57e728c1c77503ca83d01f0
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/altfrid-m-sicking/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260206T190000Z
-SUMMARY:Christina Rommel – Schokolade – Das Konzert
-UID:c6cd58151823e137a55a2be61f75c3a8
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/christina-rommel-schokolade-das-konzert/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250727T170000Z
 SUMMARY:THE HOOTERS „45 ALIVE“ – 45th Anniversary Tour 2025
 UID:fac6d712b171435bf69fbfd1d8f0580b
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters-40th-anniversary-tour-duplicate-1/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241123T190000Z
-SUMMARY:Lotte Walda & Band
-UID:224b174cdb583d89d5ca453064b1fca7
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/lotte-walda-band/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -747,19 +627,27 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/neuer-chor-wuerselen-mit-b
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250221T190000Z
-SUMMARY:Tina Teubner – Ohne dich war es immer so schön
-UID:aa9cd494e9f214d1c7dd616385ee6fdc
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/tina-teubner-ohne-dich-war-es-immer-so-schoen/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260620T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:f5908a9842b9109932cff971b0cb44ac
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260222T180000Z
-SUMMARY:Bernd Begemann
-UID:2f700e835cff5e8dd2a1757b21da8bd9
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/bernd-begemann/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20240913T180000Z
+SUMMARY:GÖTZ ALSMANN – …bei Nacht…
+UID:4a0805a6c4e76515a27dcf1ad8a41ab7
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann-bei-nacht/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250628T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:783cf73d665a90f34cc5c491be9a925a
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -779,11 +667,19 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei-all-in-ausverka
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251206T190000Z
-SUMMARY:Rocky Raccoon & Felix Janosa – Die Beatles\, das Universum und der Rest
-UID:bb72531d6998d0b0c028ac3bb18701b3
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/rocky-raccoon-felix-janosa-die-beatles-das-universum-und-der-rest/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250606T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:9ff642ba4c9aed21d3fe9c97337ca148
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260627T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:8522cbeda4b377499ab75ed114d01c1d
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -792,14 +688,6 @@ DTSTART:20240909T180000Z
 SUMMARY:MARLEY‘S GHOST – A Tribute to Bob Marley – Nachholtermin für das ausgefallene Konzert vom 15.08.2024
 UID:ffb0f883d94cd8eb87be2a261b3612cb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260228T190000Z
-SUMMARY:Serhat Dogan – Lachkräfte gesucht
-UID:f768e7e1e4a0ef8a180ba4968f856374
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/serhat-dogan-lachkraefte-gesucht/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -828,6 +716,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250803T133000Z
+SUMMARY:PROGRAMMÄNDERUNG!  The Music of DER KÖNIG DER LÖWEN – Live in Concert
+UID:57b2bfa8182be2f0aec64283c0a0bb19
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-music-of-avatar-der-herr-der-elemente-live-in-concert/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240910T173000Z
 SUMMARY:Benefizshow: REBELLCOMEDY + FRIENDS 2024
 UID:ed96d184dffaf782db8988a12a5440d1
@@ -835,11 +731,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-f
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260328T180000Z
-SUMMARY:Bluesabend: Bluesaders und Somebody Wrong Bluesband
-UID:cc80f5dfcdfa7ddcf045ba0657953669
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/bluesabend-bluesaders-und-somebody-wrong-bluesband/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250605T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:221bf07fe349ce1e9993fe907f0a3e1b
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -851,19 +747,19 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/live-podcast-mit-martin-ru
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20251115T190000Z
-SUMMARY:Jürgen Becker – Deine Disco
-UID:a7d8f17e9d5c3a389cc3d89d38e44d68
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/juergen-becker-die-ursache-liegt-in-der-zukunft-2/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260614T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:7340bed2ad459e915b98da74e7b2732a
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20260131T190000Z
-SUMMARY:Lagerfeuer Trio
-UID:131d56733dd875f9258f18290a4d890b
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/lagerfeuer-trio/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250629T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:9a7f2e307fdfe163ba9c1cf33197451a
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -876,6 +772,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250627T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:68337cc4d27d448dccb6ce514e4aa160
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250905T173000Z
 SUMMARY:TILL BRÖNNER – Mit Dieter Ilg
 UID:d4becf0c1f4689364ec0e3690b7ddd59
@@ -883,26 +787,26 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/till-broenner-mit-dieter-i
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20241208T160000Z
-SUMMARY:Tanja Raich – Mitsingkonzert – Weihnachtsspecial
-UID:a26c5c1845ea53b1e1c71907fe08a6bf
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachtsspecial/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Altes Rathaus\, Kaiserstraße 36\, 52146 Würselen
-DTSTART:20250315T190000Z
-SUMMARY:Kollektiv Gedankensprung – Märchenstückchen
-UID:19f9ea0d6d96cc2523270d2498cf047e
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/kollektiv-gedankensprung-maerchenstueckchen/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260605T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:1502700619f1275495507cd1483b3a29
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20240913T180000Z
-SUMMARY:GÖTZ ALSMANN – …bei Nacht…
-UID:4a0805a6c4e76515a27dcf1ad8a41ab7
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann-bei-nacht/
+DTSTART:20260621T180000Z
+SUMMARY:DAS DA Theater - Romeo & Julia – Musical
+UID:49e8a06c3a818d471130e148dba4ac6b
+URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20250622T180000Z
+SUMMARY:DAS DA Theater - Frühlings Erwachen
+UID:7afb72c3c90e54fb5652205df332d5a1
+URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 END:VCALENDAR
