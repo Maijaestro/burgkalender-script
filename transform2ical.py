@@ -1,17 +1,29 @@
 from ics import Calendar, Event
 from datetime import datetime, timedelta
-import json, pytz, hashlib
+from typing import Dict, Any
+import json, pytz, hashlib, logging
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(levelname)s: %(message)s'
+)
+logger = logging.getLogger(__name__)
+
+# File path constants
+EVENTS_JSON_FILE = "events.json"
+EVENTS_ICAL_FILE = "events.ics"
 
 
-def generate_uid(event):
+def generate_uid(event: Dict[str, Any]) -> str:
     event_date = datetime.fromisoformat(event["event_date"]).date()
     unique_string = f"{event['event_artist']}_{event_date}"
     return hashlib.md5(unique_string.encode()).hexdigest()
 
 
-def run():
+def run() -> None:
     # JSON-Datei laden
-    with open("events.json", "r", encoding="utf-8") as f:
+    with open(EVENTS_JSON_FILE, "r", encoding="utf-8") as f:
         events_data = json.load(f)
 
     # Kalender erstellen
@@ -42,8 +54,10 @@ def run():
         calendar.events.add(e)
 
     # iCal-Datei speichern
-    with open("events.ics", "w") as f:
+    with open(EVENTS_ICAL_FILE, "w") as f:
         f.writelines(calendar)
+
+    logger.info(f"✓ Generated {EVENTS_ICAL_FILE} with {len(calendar.events)} events")
 
 
 if __name__ == "__main__":

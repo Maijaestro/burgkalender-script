@@ -1,11 +1,22 @@
 import re
 import shutil
+import logging
 from typing import List, Tuple
 import requests, json, os
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from dateparser import parse
 from bs4 import BeautifulSoup
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(levelname)s: %(message)s'
+)
+logger = logging.getLogger(__name__)
+
+# File path constants
+EVENTS_JSON_FILE = "events.json"
 
 
 def runBurg(events) -> None:
@@ -42,7 +53,7 @@ def runBurg(events) -> None:
                     else "Unbekannter Künstler"
                 )
                 if re.search(r"vom\s+\d{1,2}\.\s*[-–]", artist_text):
-                    print(f"⛔ Event übersprungen (Mehrtagesreihe): {artist_text}")
+                    logger.info(f"⛔ Event übersprungen (Mehrtagesreihe): {artist_text}")
                     continue
 
                 # Datum & Uhrzeit
@@ -142,15 +153,15 @@ def runDasDa(events) -> None:
                     )
             pass
         else:
-            print(f"Fehler beim Abrufen der Seite: {response.status_code}")
+            logger.error(f"Fehler beim Abrufen der Seite: {response.status_code}")
 
     except requests.exceptions.Timeout:
-        print("Die Anfrage hat zu lange gedauert und wurde abgebrochen.")
+        logger.error("Die Anfrage hat zu lange gedauert und wurde abgebrochen.")
     except requests.exceptions.RequestException as e:
-        print(f"Ein Fehler ist aufgetreten: {e}")
+        logger.error(f"Ein Fehler ist aufgetreten: {e}")
 
 
-def saveToFile(events: dict, filename: str = "events.json") -> None:
+def saveToFile(events: dict, filename: str = EVENTS_JSON_FILE) -> None:
     backup_file = filename + ".bak"
     temp_file = filename + ".tmp"
 
@@ -175,8 +186,10 @@ def saveToFile(events: dict, filename: str = "events.json") -> None:
         if os.path.exists(backup_file):
             os.remove(backup_file)
 
+        logger.info(f"✓ Saved {len(sorted_events)} events to {filename}")
+
     except Exception as e:
-        print(f"💥 Fehler beim Speichern: {e}")
+        logger.error(f"💥 Fehler beim Speichern: {e}")
         if os.path.exists(backup_file):
             shutil.copyfile(backup_file, filename)
         if os.path.exists(temp_file):
@@ -194,7 +207,8 @@ def processLink(url: str, session: requests.Session) -> Tuple[str, List[str]]:
             return title, dates
         return "Kein Titel", []
     except Exception as e:
-        print(f"❗ Fehler beim Abrufen der Detailseite: {e}")
+        logger.warning(f"❗ Fehler beim Abrufen der Detailseite: {e}")
+        return "Kein Titel", []
 
 
 def extract_event_dates(detail_soup: BeautifulSoup) -> List[str]:
@@ -260,8 +274,12 @@ def load_masonry_events(session: requests.Session, start_date: str) -> list:
     return events_html
 
 
-if __name__ == "__main__":
+def run() -> None:
     events = {}
     runBurg(events)
     runDasDa(events)
     saveToFile(events)
+
+
+if __name__ == "__main__":
+    run()
