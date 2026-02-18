@@ -403,6 +403,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260417T220000Z
+SUMMARY:BLIND DATE 2026
+UID:cfebd202baee20b5e180822fe6fe7ee4
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250724T180000Z
 SUMMARY:FLORIAN KÜNSTLER – LIVE 2025
@@ -1064,6 +1072,14 @@ DTSTART:20260825T173000Z
 SUMMARY:DICK BRAVE – Back for More
 UID:d93cfb6cf4818d5b0cfce28fad03eaf2
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260917T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:69c37f8193904ea178a8d5260d47b2a7
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
