@@ -867,6 +867,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/faun-live-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260918T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:5262172e3dad4b738084e741de40efde
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250727T170000Z
 SUMMARY:THE HOOTERS „45 ALIVE“ – 45th Anniversary Tour 2025
@@ -904,6 +912,14 @@ DTSTART:20260819T173000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen …
 UID:0cdbfdf348b2e61c79c77bf1944a35a4
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260418T220000Z
+SUMMARY:BLIND DATE 2026
+UID:4a53f16d909a051b56b6e77105e3fbad
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
