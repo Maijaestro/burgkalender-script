@@ -1035,6 +1035,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/serhat-dogan-lachkraefte-g
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260919T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:3075866321ca6006a99251ecff70d63a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260902T173000Z
 SUMMARY:SUZI QUATRO – Rock and Roll Legend
@@ -1128,6 +1136,14 @@ DTSTART:20240903T173000Z
 SUMMARY:Live Podcast mit MARTIN RÜTTER und KATHARINA ADICK – Tierisch-Menschlich
 UID:e9f6ce5bb43b16217a60fca6fe8b801b
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/live-podcast-mit-martin-ruetter-und-katharina-adick-tierisch-menschlich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260419T220000Z
+SUMMARY:BLIND DATE 2026
+UID:0d5c240c9941fa2379e92c356788edab
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
