@@ -235,6 +235,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/cantoamore-meets-popchor-q
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260420T220000Z
+SUMMARY:BLIND DATE 2026
+UID:d7a112fd35301b86f6df347f807f8101
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260904T180000Z
 SUMMARY:CHRISTOPH SIEBER – Weitermachen!
@@ -1151,6 +1159,14 @@ LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260709T180000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:5f60ff675264a21d840ae16461a7b594
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260920T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:9513a448118fe708206a50426563f9d2
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
