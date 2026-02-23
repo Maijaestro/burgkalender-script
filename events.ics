@@ -835,6 +835,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260922T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:dd3c655ef3f8116e43cd057bb1a51740
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250814T173000Z
 SUMMARY:DORO – 40 Jahre Metal-Queen
@@ -1080,6 +1088,14 @@ DTSTART:20250909T173000Z
 SUMMARY:Benefizshow: REBELLCOMEDY + FRIENDS
 UID:da764a7fa32fad5e1d57351c34e5f2d9
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2022-796-615-741/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260422T220000Z
+SUMMARY:BLIND DATE 2026
+UID:da62c193a81cc8fc4dd70b39288a64fb
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
