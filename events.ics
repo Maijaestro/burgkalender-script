@@ -227,6 +227,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260823T220000Z
+SUMMARY:Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”
+UID:7449d2910950bd8ad54ea2fcf8a89bfc
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250615T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -592,6 +600,14 @@ DTSTART:20250710T180000Z
 SUMMARY:MICHAEL MITTERMEIER – FLASHBACK – Die Rückkehr der Zukunft
 UID:53323977bab8b54b75e5ea0ff6a1cfee
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/michael-mittermeier-zapped-ein-tv-junkie-kehrt-zurueck-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260923T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:211825381dd69b6710c7481bd1de3581
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1224,6 +1240,14 @@ DTSTART:20250629T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
 UID:9a7f2e307fdfe163ba9c1cf33197451a
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260423T220000Z
+SUMMARY:BLIND DATE 2026
+UID:dfd5560610b1166d4b6e65f8c76c9a03
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
