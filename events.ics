@@ -307,6 +307,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/lafee-kriegerin-tour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260824T220000Z
+SUMMARY:Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”
+UID:d719c9a760a9f5f4749594f779f8b78e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250803T173000Z
 SUMMARY:The Music of HANS ZIMMER & Others
@@ -1139,6 +1147,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/leger/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260424T220000Z
+SUMMARY:BLIND DATE 2026
+UID:b0cf43d51b3b345a24f3fab01ba409ce
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250803T133000Z
 SUMMARY:PROGRAMMÄNDERUNG!  The Music of DER KÖNIG DER LÖWEN – Live in Concert
@@ -1192,6 +1208,14 @@ DTSTART:20240903T173000Z
 SUMMARY:Live Podcast mit MARTIN RÜTTER und KATHARINA ADICK – Tierisch-Menschlich
 UID:e9f6ce5bb43b16217a60fca6fe8b801b
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/live-podcast-mit-martin-ruetter-und-katharina-adick-tierisch-menschlich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260924T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:336f0bc12c8345bf1a994caf41c91998
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

@@ -599,6 +599,12 @@
         "event_location": "Unbekannter Ort",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
+    "2026-04-25 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-04-25T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
     "2026-06-04 - DAS DA Theater - Romeo & Julia – Musical": {
         "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
         "event_date": "2026-06-04T20:00:00",
@@ -845,6 +851,12 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more/"
     },
+    "2026-08-25 - Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”": {
+        "event_artist": "Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”",
+        "event_date": "2026-08-25T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/"
+    },
     "2026-08-26 - ANNETT LOUISAN – 22 Jahre Bohème – Das Jubiläumskonzert": {
         "event_artist": "ANNETT LOUISAN – 22 Jahre Bohème – Das Jubiläumskonzert",
         "event_date": "2026-08-26T19:30:00",
@@ -980,6 +992,12 @@
     "2026-09-24 - GÖTZ ALSMANN … bei Nacht …": {
         "event_artist": "GÖTZ ALSMANN … bei Nacht …",
         "event_date": "2026-09-24T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
+    },
+    "2026-09-25 - GÖTZ ALSMANN … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
+        "event_date": "2026-09-25T00:00:00",
         "event_location": "Unbekannter Ort",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     }
