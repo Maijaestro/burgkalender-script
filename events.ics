@@ -315,6 +315,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-fra
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260925T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:5929edcc84c6d75c83359036565b950c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250803T173000Z
 SUMMARY:The Music of HANS ZIMMER & Others
@@ -955,6 +963,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-d
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260825T220000Z
+SUMMARY:Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”
+UID:1156ec656165c6f7f8ad7d5acc650b2d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260830T150000Z
 SUMMARY:FRAU HÖPKER – bittet zum Gesang-
@@ -968,6 +984,14 @@ DTSTART:20260819T173000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen …
 UID:0cdbfdf348b2e61c79c77bf1944a35a4
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260425T220000Z
+SUMMARY:BLIND DATE 2026
+UID:14510efdd3ad49d769fe25dcea64dc2e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

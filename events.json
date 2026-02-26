@@ -605,6 +605,12 @@
         "event_location": "Unbekannter Ort",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
+    "2026-04-26 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-04-26T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
     "2026-06-04 - DAS DA Theater - Romeo & Julia – Musical": {
         "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
         "event_date": "2026-06-04T20:00:00",
@@ -863,6 +869,12 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annett-louisan-22-jahre-boheme-das-jubilaeumskonzert/"
     },
+    "2026-08-26 - Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”": {
+        "event_artist": "Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”",
+        "event_date": "2026-08-26T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/"
+    },
     "2026-08-27 - Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“": {
         "event_artist": "Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“",
         "event_date": "2026-08-27T19:30:00",
@@ -998,6 +1010,12 @@
     "2026-09-25 - GÖTZ ALSMANN … bei Nacht …": {
         "event_artist": "GÖTZ ALSMANN … bei Nacht …",
         "event_date": "2026-09-25T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
+    },
+    "2026-09-26 - GÖTZ ALSMANN … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
+        "event_date": "2026-09-26T00:00:00",
         "event_location": "Unbekannter Ort",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     }
