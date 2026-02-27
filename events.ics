@@ -316,6 +316,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Unbekannter Ort
+DTSTART:20260826T220000Z
+SUMMARY:Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”
+UID:fc1c158ef7fa34b577834128352b516b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
 DTSTART:20260925T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:5929edcc84c6d75c83359036565b950c
@@ -1027,6 +1035,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260926T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:fb4fc4834fb1581f4d380f53630ceaec
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240913T180000Z
 SUMMARY:GÖTZ ALSMANN – …bei Nacht…
@@ -1344,6 +1360,14 @@ DTSTART:20260621T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:49e8a06c3a818d471130e148dba4ac6b
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260426T220000Z
+SUMMARY:BLIND DATE 2026
+UID:bdf613bdde87c545f6e442e77b29856d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
