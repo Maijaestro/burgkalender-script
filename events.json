@@ -551,6 +551,30 @@
         "event_location": "Unbekannter Ort",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/serhat-dogan-lachkraefte-gesucht/"
     },
+    "2026-03-16 - FIDDLER’S GREEN": {
+        "event_artist": "FIDDLER’S GREEN",
+        "event_date": "2026-03-16T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/"
+    },
+    "2026-03-26 - CARA – Celtic Folk mit Herz, Seele und Charakter": {
+        "event_artist": "CARA – Celtic Folk mit Herz, Seele und Charakter",
+        "event_date": "2026-03-26T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/"
+    },
+    "2026-03-28 - Serhat Dogan – Lachkräfte gesucht": {
+        "event_artist": "Serhat Dogan – Lachkräfte gesucht",
+        "event_date": "2026-03-28T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/serhat-dogan-lachkraefte-gesucht/"
+    },
+    "2026-04-01 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-04-01T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
     "2026-04-17 - BLIND DATE 2026": {
         "event_artist": "BLIND DATE 2026",
         "event_date": "2026-04-17T00:00:00",
@@ -773,6 +797,12 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidman-for-a-better-world/"
     },
+    "2026-08-01 - Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”": {
+        "event_artist": "Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”",
+        "event_date": "2026-08-01T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/"
+    },
     "2026-08-02 - KARAT – 50+1 Jubiläumstour": {
         "event_artist": "KARAT – 50+1 Jubiläumstour",
         "event_date": "2026-08-02T19:00:00",
@@ -928,6 +958,12 @@
         "event_date": "2026-09-01T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/bodo-wartke-in-guter-begleitung/"
+    },
+    "2026-09-01 - GÖTZ ALSMANN … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
+        "event_date": "2026-09-01T00:00:00",
+        "event_location": "Unbekannter Ort",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     },
     "2026-09-02 - SUZI QUATRO – Rock and Roll Legend": {
         "event_artist": "SUZI QUATRO – Rock and Roll Legend",

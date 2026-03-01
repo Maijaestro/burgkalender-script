@@ -139,6 +139,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260731T220000Z
+SUMMARY:Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”
+UID:dbaced4dc0880c86c4ade7bd7dbaf5d0
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260908T180000Z
 SUMMARY:FORCED TO MODE – „The Devotional Tribute To Depeche Mode“
@@ -208,6 +216,14 @@ DTSTART:20260820T173000Z
 SUMMARY:DICK BRAVE – Back for More- Zusatztermin!
 UID:81c721f057cd4e0c63a5032be2d918bb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260315T230000Z
+SUMMARY:FIDDLER’S GREEN
+UID:ca8a4e65a55f5499c5d5cdc19f31b87d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -539,6 +555,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/q-revival-band-god-save-th
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260831T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:676cd6b6a7aacac756d213289dd1928b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250723T180000Z
 SUMMARY:SIMON OSLENDER TRIO – LIVE 2025
@@ -624,6 +648,14 @@ DTSTART:20250710T180000Z
 SUMMARY:MICHAEL MITTERMEIER – FLASHBACK – Die Rückkehr der Zukunft
 UID:53323977bab8b54b75e5ea0ff6a1cfee
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/michael-mittermeier-zapped-ein-tv-junkie-kehrt-zurueck-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260325T230000Z
+SUMMARY:CARA – Celtic Folk mit Herz\, Seele und Charakter
+UID:43a1e040ce8b04acc99d14a4087e7970
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1188,10 +1220,10 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Unbekannter Ort
-DTSTART:20260916T220000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:bd0945a8c046e4d8d660c5c7c2f9e55a
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+DTSTART:20260331T220000Z
+SUMMARY:BLIND DATE 2026
+UID:d6010ebe8d6a2f0da6edc3fa6c8548ef
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1208,6 +1240,14 @@ DTSTART:20260424T220000Z
 SUMMARY:BLIND DATE 2026
 UID:b0cf43d51b3b345a24f3fab01ba409ce
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260916T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:bd0945a8c046e4d8d660c5c7c2f9e55a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1328,6 +1368,14 @@ DTSTART:20250629T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
 UID:9a7f2e307fdfe163ba9c1cf33197451a
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260327T230000Z
+SUMMARY:Serhat Dogan – Lachkräfte gesucht
+UID:a0015a701adda2c2606db3c2899b9d69
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/serhat-dogan-lachkraefte-gesucht/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
