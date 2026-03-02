@@ -67,6 +67,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/herbert-knebels-affentheat
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260401T220000Z
+SUMMARY:BLIND DATE 2026
+UID:7e116c5cce49dc578646567be58fed46
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260809T170000Z
 SUMMARY:ECOS DE SIBONEY – Die Enkel des weltberühmten “Buena Vista Social Club”
@@ -120,6 +128,14 @@ DTSTART:20250910T173000Z
 SUMMARY:STARBUGS COMEDY – CRASH BOOM BANG!
 UID:52d5338c4a5cce789b8f2299b3783459
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/starbugs-comedy-crash-boom-bang/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260801T220000Z
+SUMMARY:Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”
+UID:9d3713f962c942c50e7d1ecd0dcd2769
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -616,6 +632,14 @@ DTSTART:20250711T170000Z
 SUMMARY:Sophia
 UID:ad035bbb12747ddd44eac39c777cdebf
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/sophia/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260326T230000Z
+SUMMARY:Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“
+UID:3fb529719742d855ce9c69804e850f9b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/daphne-de-luxe-artgerecht-ein-tierisch-menschliches-programm/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1448,6 +1472,14 @@ DTSTART:20260704T160000Z
 SUMMARY:BLIND DATE 2026
 UID:120490d380bf0987fc1862bface53252
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260901T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:a4f863e91fc09bab5d31ed21fa4ea3c5
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
