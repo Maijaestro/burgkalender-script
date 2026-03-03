@@ -75,6 +75,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260402T220000Z
+SUMMARY:BLIND DATE 2026
+UID:8818cf6cc58c801f7ed043d8455f2051
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260809T170000Z
 SUMMARY:ECOS DE SIBONEY – Die Enkel des weltberühmten “Buena Vista Social Club”
@@ -939,6 +947,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260828T180000Z
+SUMMARY:SahneMixx “Die größten Hits von Udo Jürgens”!
+UID:f8541f340c30936d659b59683823a052
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/sahnemixx-die-groessten-hits-von-udo-juergens/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Unbekannter Ort
 DTSTART:20260922T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
@@ -1236,6 +1252,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Unbekannter Ort
+DTSTART:20260802T220000Z
+SUMMARY:Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”
+UID:b3045bdf152781ccc71eacff90504ad9
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
 DTSTART:20260827T220000Z
 SUMMARY:Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”
 UID:ff798c70837963cae0ad31d4cde648d4
@@ -1416,6 +1440,14 @@ DTSTART:20260913T160000Z
 SUMMARY:BLIND OUT – Das große Finale
 UID:7e2ea923bea6d433af1734505a2dda4d
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260902T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:2fe72fe948027040cab00c322f6bd7e1
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
