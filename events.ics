@@ -11,6 +11,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-f
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260903T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:4ec53cec75b96ce1137b3528d45db3d3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260816T170000Z
 SUMMARY:FIDDLER’S GREEN
@@ -763,6 +771,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260803T220000Z
+SUMMARY:Half the mata Crew – A Cappella Frauen-Ensemble und der Frauenchor “Die Pfefferschoten”
+UID:97bc15e37256b93efa4e52122dd9c3b6
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/mata-voices-a-cappella-frauen-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240904T190000Z
 SUMMARY:BACK TO BLACK – OpenAir-Kino 2024
@@ -971,6 +987,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/doro-pesch-40-jahre-metal-
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260403T220000Z
+SUMMARY:BLIND DATE 2026
+UID:1b56166057d6ebdf7ff3bd47372eee5c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260903T170000Z
 SUMMARY:COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann
@@ -1000,6 +1024,14 @@ DTSTART:20250831T150000Z
 SUMMARY:FRAU HÖPKER – bittet zum Gesang
 UID:e7e52396e9a88d508488334dc69c8430
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-duplicate-1-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unbekannter Ort
+DTSTART:20260313T230000Z
+SUMMARY:Olivier Chavet Quintett – “Elements” – Jazz trifft Natur
+UID:07ee3cb8e1ca0a9a1410062be1b5fc85
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/olivier-chavet-quintett-elements-jazz-trifft-natur/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
