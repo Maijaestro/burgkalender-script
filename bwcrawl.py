@@ -65,8 +65,8 @@ def runBurg(events) -> None:
                 dt = parse(datetime_string)
                 event_date = dt.isoformat()
 
-                # Ort
-                location_tag = event.find(class_="mec-events-address")
+                # Ort (initial articles use mec-events-address, masonry articles use mec-event-loc-place)
+                location_tag = event.find(class_="mec-events-address") or event.find(class_="mec-event-loc-place")
                 location_text = (
                     location_tag.get_text(strip=True)
                     if location_tag
