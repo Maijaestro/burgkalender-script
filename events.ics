@@ -507,6 +507,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260405T220000Z
+SUMMARY:BLIND DATE 2026
+UID:75fec51a72f4c15945cf195096e33da3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240902T173000Z
 SUMMARY:KASALLA – Live 2024
@@ -896,6 +904,14 @@ DTSTART:20250819T170000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
 UID:ae784d85cf7c83684e5330f1b12d23ff
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260905T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:6afe623ab14c18b66c26712abeafdf65
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

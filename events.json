@@ -575,6 +575,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
+    "2026-04-06 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-04-06T00:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
     "2026-04-17 - BLIND DATE 2026": {
         "event_artist": "BLIND DATE 2026",
         "event_date": "2026-04-17T00:00:00",
@@ -982,6 +988,12 @@
         "event_date": "2026-09-06T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/cantoamore-meets-popchor-queen-special/"
+    },
+    "2026-09-06 - GÖTZ ALSMANN … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
+        "event_date": "2026-09-06T00:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     },
     "2026-09-08 - FORCED TO MODE – „The Devotional Tribute To Depeche Mode“": {
         "event_artist": "FORCED TO MODE – „The Devotional Tribute To Depeche Mode“",
