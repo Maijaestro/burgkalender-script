@@ -243,6 +243,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/tinseltown-rebellion-band-
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260906T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:93ce46c221d01d9571e4ef28fb66860e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260802T170000Z
 SUMMARY:KARAT – 50+1 Jubiläumstour
@@ -1432,6 +1440,14 @@ DTSTART:20260621T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:49e8a06c3a818d471130e148dba4ac6b
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260406T220000Z
+SUMMARY:BLIND DATE 2026
+UID:4ef7b89c0d053efddea5f3466f5f2067
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
