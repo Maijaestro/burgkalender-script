@@ -139,6 +139,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-sons-of-buena-vista/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260407T220000Z
+SUMMARY:BLIND DATE 2026
+UID:d7ab9fb8ae81e2c640ad159b997bec4a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250910T173000Z
 SUMMARY:STARBUGS COMEDY – CRASH BOOM BANG!
@@ -184,6 +192,14 @@ DTSTART:20260626T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:5e44a3231c3178f59f591ba8319e8891
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260907T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:0e83022b585eb9a073b2faf15ea13a6d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
