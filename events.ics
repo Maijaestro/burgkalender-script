@@ -123,6 +123,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidman-for-a-better
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260908T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:44cffb1fa7277fb4bf04f440c20714a1
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260416T220000Z
 SUMMARY:BLIND DATE 2026
@@ -555,6 +563,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/stunk-unplugged-tour-2024/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260408T220000Z
+SUMMARY:BLIND DATE 2026
+UID:85dd8821fe27bffb09f15860b343801a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260814T173000Z
 SUMMARY:Q-REVIVAL BAND – God Save The Queen
@@ -627,7 +643,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/sophia/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260326T230000Z
 SUMMARY:Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“
 UID:3fb529719742d855ce9c69804e850f9b
