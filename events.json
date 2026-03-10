@@ -599,6 +599,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
+    "2026-04-10 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-04-10T00:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
     "2026-04-17 - BLIND DATE 2026": {
         "event_artist": "BLIND DATE 2026",
         "event_date": "2026-04-17T00:00:00",
@@ -754,6 +760,18 @@
         "event_date": "2026-07-04T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
+    "2026-07-05 - DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”": {
+        "event_artist": "DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”",
+        "event_date": "2026-07-05T11:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026/"
+    },
+    "2026-07-05 - DAS DA THEATER Familientag – “Ronja Räubertochter”": {
+        "event_artist": "DAS DA THEATER Familientag – “Ronja Räubertochter”",
+        "event_date": "2026-07-05T15:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-ronja-raeubertochter/"
     },
     "2026-07-08 - Höhner 2026": {
         "event_artist": "Höhner 2026",
@@ -1001,6 +1019,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     },
+    "2026-09-05 - Hermes House Band & Lou Bega": {
+        "event_artist": "Hermes House Band & Lou Bega",
+        "event_date": "2026-09-05T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/"
+    },
     "2026-09-06 - CANTOAMORE meets POPCHOR – Queen Special": {
         "event_artist": "CANTOAMORE meets POPCHOR – Queen Special",
         "event_date": "2026-09-06T19:30:00",
@@ -1040,6 +1064,12 @@
     "2026-09-09 - GÖTZ ALSMANN … bei Nacht …": {
         "event_artist": "GÖTZ ALSMANN … bei Nacht …",
         "event_date": "2026-09-09T00:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
+    },
+    "2026-09-10 - GÖTZ ALSMANN … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
+        "event_date": "2026-09-10T00:00:00",
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     },
