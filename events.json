@@ -605,6 +605,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
+    "2026-04-11 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-04-11T00:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
     "2026-04-17 - BLIND DATE 2026": {
         "event_artist": "BLIND DATE 2026",
         "event_date": "2026-04-17T00:00:00",
@@ -1078,6 +1084,12 @@
         "event_date": "2026-09-11T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/die-feisten-moskito-2026/"
+    },
+    "2026-09-11 - GÖTZ ALSMANN … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
+        "event_date": "2026-09-11T00:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     },
     "2026-09-12 - KUNST OHNE GRENZEN – AN ARTISTIC TAIWANESE OPERA": {
         "event_artist": "KUNST OHNE GRENZEN – AN ARTISTIC TAIWANESE OPERA",
