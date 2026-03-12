@@ -11,6 +11,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-f
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260911T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:942437cdd225dfedb1ae458de58a904c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260705T133000Z
 SUMMARY:DAS DA THEATER Familientag – “Ronja Räubertochter”
@@ -288,6 +296,14 @@ DTSTART:20260802T170000Z
 SUMMARY:KARAT – 50+1 Jubiläumstour
 UID:4ff696e05b4d3afd206abca1b0dbae33
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260411T220000Z
+SUMMARY:BLIND DATE 2026
+UID:00246287299f9a140dceaa1bdcb3a5c3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
