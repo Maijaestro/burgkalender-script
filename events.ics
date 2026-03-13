@@ -795,6 +795,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-2
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260912T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:8cef91c0139d73ca6949e7fa6111868a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250620T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -1559,6 +1567,14 @@ LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260426T220000Z
 SUMMARY:BLIND DATE 2026
 UID:bdf613bdde87c545f6e442e77b29856d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260412T220000Z
+SUMMARY:BLIND DATE 2026
+UID:c0256b5015da94ea44742a8fc6bfc092
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
