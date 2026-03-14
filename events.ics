@@ -1475,6 +1475,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260913T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:e502ee7494fee380f11c0b0d792547ed
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260927T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
@@ -1528,6 +1536,14 @@ DTSTART:20250627T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
 UID:68337cc4d27d448dccb6ce514e4aa160
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260413T220000Z
+SUMMARY:BLIND DATE 2026
+UID:d985353fd4221ae3da4d461f3f8a1972
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
