@@ -164,6 +164,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein
+DTSTART:20260414T220000Z
+SUMMARY:BLIND DATE 2026
+UID:aa6155715a70b56665622bcd723e2ff5
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
 DTSTART:20260407T220000Z
 SUMMARY:BLIND DATE 2026
 UID:d7ab9fb8ae81e2c640ad159b997bec4a
@@ -287,6 +295,14 @@ LOCATION:Burg Wilhelmstein
 DTSTART:20260906T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:93ce46c221d01d9571e4ef28fb66860e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260914T220000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:e45f4bc6627746a07ddbf1374fbb81f9
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
