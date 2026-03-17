@@ -155,7 +155,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260416T220000Z
 SUMMARY:BLIND DATE 2026
 UID:54bf96583b236b4152ff0b71b0108273
@@ -1355,7 +1355,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260916T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:bd0945a8c046e4d8d660c5c7c2f9e55a
