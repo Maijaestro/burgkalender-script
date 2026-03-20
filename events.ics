@@ -1283,7 +1283,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260919T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:3075866321ca6006a99251ecff70d63a
@@ -1427,7 +1427,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260419T220000Z
 SUMMARY:BLIND DATE 2026
 UID:0d5c240c9941fa2379e92c356788edab
