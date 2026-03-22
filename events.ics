@@ -219,7 +219,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-bridget-jone
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260421T220000Z
 SUMMARY:BLIND DATE 2026
 UID:df44a031c8431da2ebaa5bebb325c12b
@@ -579,7 +579,7 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260921T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:7875bf2c26636036785900d63012136a
