@@ -1043,7 +1043,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/sahnemixx-die-groessten-hi
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260922T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:dd3c655ef3f8116e43cd057bb1a51740
@@ -1307,7 +1307,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-f
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260422T220000Z
 SUMMARY:BLIND DATE 2026
 UID:da62c193a81cc8fc4dd70b39288a64fb
