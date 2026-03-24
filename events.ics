@@ -739,7 +739,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260923T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:211825381dd69b6710c7481bd1de3581
@@ -1531,7 +1531,7 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260423T220000Z
 SUMMARY:BLIND DATE 2026
 UID:dfd5560610b1166d4b6e65f8c76c9a03
