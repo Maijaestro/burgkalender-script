@@ -1347,7 +1347,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/leger/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260424T220000Z
 SUMMARY:BLIND DATE 2026
 UID:b0cf43d51b3b345a24f3fab01ba409ce
@@ -1419,7 +1419,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/live-podcast-mit-martin-ru
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260924T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:336f0bc12c8345bf1a994caf41c91998
