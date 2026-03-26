@@ -56,12 +56,22 @@ def runBurg(events) -> None:
                     logger.info(f"⛔ Event übersprungen (Mehrtagesreihe): {artist_text}")
                     continue
 
+                # Info-Link (extracted early so it can be used for time fallback)
+                info_tag = event.find(class_="mec-booking-button")
+                info_text = (
+                    info_tag.get("href")
+                    if info_tag and info_tag.has_attr("href")
+                    else None
+                )
+
                 # Datum & Uhrzeit
                 date_tag = event.find(class_="mec-event-date")
                 time_tag = event.find(class_="mec-start-time")
                 date_raw = date_tag.get_text(strip=True) if date_tag else ""
-                time_raw = time_tag.get_text(strip=True) if time_tag else "00:00"
-                datetime_string = f"{date_raw} {time_raw}"
+                time_raw = time_tag.get_text(strip=True) if time_tag else ""
+                if not time_raw and info_text:
+                    time_raw = extract_event_time(info_text, session)
+                datetime_string = f"{date_raw} {time_raw}".strip()
                 dt = parse(datetime_string)
                 event_date = dt.isoformat()
 
@@ -74,14 +84,6 @@ def runBurg(events) -> None:
                 )
                 if "Altes Rathaus" in location_text:
                     continue
-
-                # Info-Link
-                info_tag = event.find(class_="mec-booking-button")
-                info_text = (
-                    info_tag.get("href")
-                    if info_tag and info_tag.has_attr("href")
-                    else None
-                )
 
                 key_text = f"{dt.strftime('%Y-%m-%d')} - {artist_text}"
 
@@ -232,6 +234,26 @@ def extract_event_title(detail_soup) -> str:
     if title_tag:
         return title_tag.get_text(separator=" ", strip=True)
     return "Kein Titel gefunden"
+
+
+def extract_event_time(url: str, session: requests.Session) -> str:
+    """Fetch an event detail page and return the start time (e.g. '19:00'), or '' if not found.
+
+    The Burg Wilhelmstein site renders event metadata as <h3>Zeit…</h3><dd>HH:MM</dd>.
+    """
+    try:
+        resp = session.get(url, timeout=10)
+        if resp.status_code != 200:
+            return ""
+        soup = BeautifulSoup(resp.content, "html.parser")
+        for tag in soup.find_all(["h3", "dt"]):
+            if tag.get_text(strip=True).startswith("Zeit"):
+                dd = tag.find_next_sibling("dd")
+                if dd:
+                    return dd.get_text(strip=True)
+    except Exception:
+        pass
+    return ""
 
 
 def load_masonry_events(session: requests.Session, start_date: str) -> list:
