@@ -403,7 +403,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/lafee-kriegerin-tour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260925T220000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:5929edcc84c6d75c83359036565b950c
@@ -1163,7 +1163,7 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
+LOCATION:Burg Wilhelmstein
 DTSTART:20260425T220000Z
 SUMMARY:BLIND DATE 2026
 UID:14510efdd3ad49d769fe25dcea64dc2e
