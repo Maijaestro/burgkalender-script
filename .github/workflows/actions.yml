@@ -36,13 +36,13 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "updated files" --allow-empty)
 
       - name: push changes
-        uses: ad-m/github-push-action@v0.8.0
+        uses: ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df  # v0.8.0
         with:
           github_token: ${{ secrets.API_TOKEN_GITHUB }}
-          branch: main 
+          branch: main
 
       - name: push changes to different repo
-        uses: dmnemec/copy_file_to_another_repo_action@main
+        uses: dmnemec/copy_file_to_another_repo_action@bbebd3da22e4a37d04dca5f782edd5201cb97083  # main @ 2026-03-26
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:

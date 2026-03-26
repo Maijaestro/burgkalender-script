@@ -73,6 +73,9 @@ def runBurg(events) -> None:
                     time_raw = extract_event_time(info_text, session)
                 datetime_string = f"{date_raw} {time_raw}".strip()
                 dt = parse(datetime_string)
+                if dt is None:
+                    logger.warning(f"⚠️ Datum nicht parsebar, Event übersprungen: '{datetime_string}' ({artist_text})")
+                    continue
                 event_date = dt.isoformat()
 
                 # Ort (initial articles use mec-events-address, masonry articles use mec-event-loc-place)
@@ -85,7 +88,7 @@ def runBurg(events) -> None:
                 if "Altes Rathaus" in location_text:
                     continue
 
-                key_text = f"{dt.strftime('%Y-%m-%d')} - {artist_text}"
+                key_text = f"{dt.strftime('%Y-%m-%d %H:%M')} - {artist_text}"
 
                 events[key_text] = {
                     "event_artist": artist_text,
@@ -95,12 +98,12 @@ def runBurg(events) -> None:
                 }
             pass
         else:
-            print(f"Fehler beim Abrufen der Seite: {response.status_code}")
+            logger.error(f"Fehler beim Abrufen der Seite: {response.status_code}")
 
     except requests.exceptions.Timeout:
-        print("Die Anfrage hat zu lange gedauert und wurde abgebrochen.")
+        logger.error("Die Anfrage hat zu lange gedauert und wurde abgebrochen.")
     except requests.exceptions.RequestException as e:
-        print(f"Ein Fehler ist aufgetreten: {e}")
+        logger.error(f"Ein Fehler ist aufgetreten: {e}")
 
 
 def runDasDa(events) -> None:
@@ -138,10 +141,13 @@ def runDasDa(events) -> None:
                 for date_raw in dates:
                     # Date
                     date = parse(date_raw)
+                    if date is None:
+                        logger.warning(f"⚠️ Datum nicht parsebar, Event übersprungen: '{date_raw}' ({artist_text})")
+                        continue
                     event_date = date.isoformat()
 
                     # Key
-                    key_text = f"{date.strftime('%Y-%m-%d')} - {artist_text}"
+                    key_text = f"{date.strftime('%Y-%m-%d %H:%M')} - {artist_text}"
 
                     events.update(
                         {
@@ -262,12 +268,15 @@ def extract_event_time(url: str, session: requests.Session) -> str:
     return ""
 
 
+MAX_MASONRY_PAGES = 20
+
+
 def load_masonry_events(session: requests.Session, start_date: str) -> list:
     url = "https://www.burg-wilhelmstein.com/wp-admin/admin-ajax.php"
     events_html = []
     offset = 1
 
-    while True:
+    while offset <= MAX_MASONRY_PAGES:
         payload = {
             "action": "mec_masonry_load_more",
             "mec_offset": str(offset),
@@ -279,7 +288,7 @@ def load_masonry_events(session: requests.Session, start_date: str) -> list:
             "Content-Type": "application/x-www-form-urlencoded",
         }
 
-        response = session.post(url, data=payload, headers=headers)
+        response = session.post(url, data=payload, headers=headers, timeout=10)
         soup = BeautifulSoup(response.text, "html.parser")
         masonry_items = soup.find_all("article")
 
@@ -298,6 +307,8 @@ def load_masonry_events(session: requests.Session, start_date: str) -> list:
 
         start_date = new_start_date
         offset += 1
+    else:
+        logger.warning(f"⚠️ Masonry pagination hit page limit ({MAX_MASONRY_PAGES}), may be truncated")
 
     return events_html
 
@@ -306,6 +317,9 @@ def run() -> None:
     events = {}
     runBurg(events)
     runDasDa(events)
+    if not events:
+        logger.error("💥 No events scraped — skipping save to avoid wiping future events")
+        return
     saveToFile(events)
 
 

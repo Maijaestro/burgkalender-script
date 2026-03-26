@@ -41,7 +41,10 @@ def run() -> None:
         e.name = event["event_artist"]
 
         start_time = datetime.fromisoformat(event["event_date"])
-        start_time = tz.localize(start_time)
+        if start_time.tzinfo is None:
+            start_time = tz.localize(start_time)
+        else:
+            start_time = start_time.astimezone(tz)
         e.begin = start_time
         e.duration = timedelta(hours=2)
 
