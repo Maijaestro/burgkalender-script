@@ -173,8 +173,14 @@ def saveToFile(events: dict, filename: str = EVENTS_JSON_FILE) -> None:
     except (FileNotFoundError, json.JSONDecodeError):
         old_events = {}
 
-    old_events.update(events)
-    sorted_events = dict(sorted(old_events.items()))
+    today = __import__("datetime").date.today().isoformat()
+
+    # Past events are kept as historical record.
+    # Future events are replaced by what the current scrape found,
+    # so stale entries (e.g. cancelled/rescheduled shows) are removed.
+    past_events = {k: v for k, v in old_events.items() if k[:10] < today}
+    past_events.update(events)
+    sorted_events = dict(sorted(past_events.items()))
 
     try:
         if os.path.exists(filename):
