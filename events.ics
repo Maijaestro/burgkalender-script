@@ -611,6 +611,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-23-24/die-konferenz-der-t
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260428T160000Z
+SUMMARY:BLIND DATE 2026
+UID:99fa9e198d5433a7e2a229474f2156b6
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250720T170000Z
 SUMMARY:JUDITH HILL – Letters from a Black Widow
@@ -947,14 +955,6 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260927T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:fb4fc4834fb1581f4d380f53630ceaec
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240913T180000Z
 SUMMARY:GÖTZ ALSMANN – …bei Nacht…
@@ -1139,6 +1139,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260928T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:ac2f2a2df2cf33577558536fcb84fd8a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250629T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -1192,14 +1200,6 @@ DTSTART:20260621T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:49e8a06c3a818d471130e148dba4ac6b
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260427T160000Z
-SUMMARY:BLIND DATE 2026
-UID:bdf613bdde87c545f6e442e77b29856d
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
