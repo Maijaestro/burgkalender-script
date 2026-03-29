@@ -611,14 +611,6 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-23-24/die-konferenz-der-t
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260428T160000Z
-SUMMARY:BLIND DATE 2026
-UID:99fa9e198d5433a7e2a229474f2156b6
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250720T170000Z
 SUMMARY:JUDITH HILL – Letters from a Black Widow
@@ -827,6 +819,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260429T160000Z
+SUMMARY:BLIND DATE 2026
+UID:a9d5ed35d8103bf3ca3bb226ea61c44b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260828T180000Z
 SUMMARY:SahneMixx “Die größten Hits von Udo Jürgens”!
@@ -1019,6 +1019,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260929T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:c22a796bbd9334f1d17db6689b205a64
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240909T180000Z
 SUMMARY:MARLEY‘S GHOST – A Tribute to Bob Marley – Nachholtermin für das ausgefallene Konzert vom 15.08.2024
@@ -1136,14 +1144,6 @@ DTSTART:20260614T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:7340bed2ad459e915b98da74e7b2732a
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260928T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:ac2f2a2df2cf33577558536fcb84fd8a
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
