@@ -196,6 +196,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein
+DTSTART:20260930T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:05b6527efec2c98a0bf890b8063e46c3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
 DTSTART:20260316T180000Z
 SUMMARY:FIDDLER’S GREEN
 UID:ca8a4e65a55f5499c5d5cdc19f31b87d
@@ -523,6 +531,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/sophia/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260327T183000Z
+SUMMARY:Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“
+UID:3fb529719742d855ce9c69804e850f9b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/daphne-de-luxe-artgerecht-ein-tierisch-menschliches-programm/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260604T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
@@ -819,14 +835,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260429T160000Z
-SUMMARY:BLIND DATE 2026
-UID:a9d5ed35d8103bf3ca3bb226ea61c44b
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260828T180000Z
 SUMMARY:SahneMixx “Die größten Hits von Udo Jürgens”!
@@ -912,6 +920,14 @@ DTSTART:20250726T173000Z
 SUMMARY:SCHILLER – Sommertraum 2025
 UID:853947b2114f839ad47626fbc987d108
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260430T160000Z
+SUMMARY:BLIND DATE 2026
+UID:47011f877603d43a9aaf160e15412c70
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1016,14 +1032,6 @@ DTSTART:20260627T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:8522cbeda4b377499ab75ed114d01c1d
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260929T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:c22a796bbd9334f1d17db6689b205a64
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
