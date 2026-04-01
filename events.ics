@@ -196,14 +196,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein
-DTSTART:20260930T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:05b6527efec2c98a0bf890b8063e46c3
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
 DTSTART:20260316T180000Z
 SUMMARY:FIDDLER’S GREEN
 UID:ca8a4e65a55f5499c5d5cdc19f31b87d
@@ -216,6 +208,14 @@ DTSTART:20250906T180000Z
 SUMMARY:Tinseltown Rebellion Band plays Frank Zappa
 UID:345925c5b013b21b33b32fab1825c676
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/tinseltown-rebellion-band-plays-frank-zappa/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260416T170000Z
+SUMMARY:FIDDLER’S GREEN
+UID:e86c0697245a74f148d1500e3047e6a3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -403,6 +403,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260426T170000Z
+SUMMARY:CARA – Celtic Folk mit Herz\, Seele und Charakter
+UID:51bcda3597f201b754f84d78264bee3b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250724T180000Z
 SUMMARY:FLORIAN KÜNSTLER – LIVE 2025
@@ -472,6 +480,14 @@ DTSTART:20260814T173000Z
 SUMMARY:Q-REVIVAL BAND – God Save The Queen
 UID:fbdfc4c7da12fbcc4b0ad4130275e79d
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/q-revival-band-god-save-the-queen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260901T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:676cd6b6a7aacac756d213289dd1928b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -923,14 +939,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-d
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260430T160000Z
-SUMMARY:BLIND DATE 2026
-UID:47011f877603d43a9aaf160e15412c70
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260830T150000Z
 SUMMARY:FRAU HÖPKER – bittet zum Gesang-
@@ -1064,6 +1072,14 @@ DTSTART:20240905T181500Z
 SUMMARY:DUNE: PART TWO – OpenAir-Kino 2024
 UID:20214b0fed3aeaf058a09ed206412524
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-286-349-255/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260401T160000Z
+SUMMARY:BLIND DATE 2026
+UID:d6010ebe8d6a2f0da6edc3fa6c8548ef
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
