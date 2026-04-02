@@ -641,6 +641,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
+    "2026-04-02 18:00 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-04-02T18:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
     "2026-04-16 19:00 - FIDDLER’S GREEN": {
         "event_artist": "FIDDLER’S GREEN",
         "event_date": "2026-04-16T19:00:00",
@@ -953,17 +959,17 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/bodo-wartke-in-guter-begleitung/"
     },
-    "2026-09-01 20:00 - GÖTZ ALSMANN … bei Nacht …": {
-        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
-        "event_date": "2026-09-01T20:00:00",
-        "event_location": "Burg Wilhelmstein",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
-    },
     "2026-09-02 19:30 - SUZI QUATRO – Rock and Roll Legend": {
         "event_artist": "SUZI QUATRO – Rock and Roll Legend",
         "event_date": "2026-09-02T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/suzi-quatro-rock-and-roll-legend/"
+    },
+    "2026-09-02 20:00 - GÖTZ ALSMANN … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
+        "event_date": "2026-09-02T20:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     },
     "2026-09-03 19:00 - COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann": {
         "event_artist": "COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann",
