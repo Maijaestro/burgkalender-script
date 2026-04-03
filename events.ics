@@ -83,6 +83,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260403T160000Z
+SUMMARY:BLIND DATE 2026
+UID:8818cf6cc58c801f7ed043d8455f2051
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260809T170000Z
 SUMMARY:ECOS DE SIBONEY – Die Enkel des weltberühmten “Buena Vista Social Club”
@@ -1187,6 +1195,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-final
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260903T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:2fe72fe948027040cab00c322f6bd7e1
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250824T170000Z
 SUMMARY:SUZI QUATRO & BAND – Live 2025
@@ -1232,14 +1248,6 @@ DTSTART:20260704T160000Z
 SUMMARY:BLIND DATE 2026
 UID:120490d380bf0987fc1862bface53252
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260902T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:a4f863e91fc09bab5d31ed21fa4ea3c5
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
