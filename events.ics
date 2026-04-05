@@ -27,14 +27,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260904T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:4ec53cec75b96ce1137b3528d45db3d3
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250608T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -1171,6 +1163,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260905T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:6cf55f1e9a4ef6727d1a30d44905e5da
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260905T180000Z
 SUMMARY:Hermes House Band & Lou Bega
@@ -1192,6 +1192,14 @@ DTSTART:20260614T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:7340bed2ad459e915b98da74e7b2732a
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260405T160000Z
+SUMMARY:BLIND DATE 2026
+UID:9b5ca5d6abc0a1ac4172b3d6c86e556f
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
