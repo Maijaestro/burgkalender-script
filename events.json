@@ -665,6 +665,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
+    "2026-04-06 18:00 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-04-06T18:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
     "2026-04-16 19:00 - FIDDLER’S GREEN": {
         "event_artist": "FIDDLER’S GREEN",
         "event_date": "2026-04-16T19:00:00",
@@ -995,12 +1001,6 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/christoph-sieber-weitermachen/"
     },
-    "2026-09-05 20:00 - GÖTZ ALSMANN … bei Nacht …": {
-        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
-        "event_date": "2026-09-05T20:00:00",
-        "event_location": "Burg Wilhelmstein",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
-    },
     "2026-09-05 20:00 - Hermes House Band & Lou Bega": {
         "event_artist": "Hermes House Band & Lou Bega",
         "event_date": "2026-09-05T20:00:00",
@@ -1012,6 +1012,12 @@
         "event_date": "2026-09-06T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/cantoamore-meets-popchor-queen-special/"
+    },
+    "2026-09-06 20:00 - GÖTZ ALSMANN … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
+        "event_date": "2026-09-06T20:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     },
     "2026-09-08 20:00 - FORCED TO MODE – „The Devotional Tribute To Depeche Mode“": {
         "event_artist": "FORCED TO MODE – „The Devotional Tribute To Depeche Mode“",

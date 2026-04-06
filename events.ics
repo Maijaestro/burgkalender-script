@@ -475,6 +475,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260406T160000Z
+SUMMARY:BLIND DATE 2026
+UID:75fec51a72f4c15945cf195096e33da3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240902T173000Z
 SUMMARY:KASALLA – Live 2024
@@ -859,6 +867,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260906T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:6afe623ab14c18b66c26712abeafdf65
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260828T180000Z
 SUMMARY:SahneMixx “Die größten Hits von Udo Jürgens”!
@@ -1159,14 +1175,6 @@ LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260709T180000Z
 SUMMARY:GÖTZ ALSMANN … bei Nacht …
 UID:5f60ff675264a21d840ae16461a7b594
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260905T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:6cf55f1e9a4ef6727d1a30d44905e5da
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
