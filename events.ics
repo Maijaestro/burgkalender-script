@@ -123,14 +123,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidman-for-a-better
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260909T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:44cffb1fa7277fb4bf04f440c20714a1
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250713T170000Z
 SUMMARY:The Sons of Buena Vista
@@ -875,6 +867,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/tom-gaebel-his-orchestra/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260910T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:241c6219c37e91635c704a396385eb97
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250607T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -1200,6 +1200,14 @@ DTSTART:20260905T180000Z
 SUMMARY:Hermes House Band & Lou Bega
 UID:a81d1bb939e8c5e716ce974bf08c6f9e
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260410T160000Z
+SUMMARY:BLIND DATE 2026
+UID:29621c938449afc8495791dda0e0848c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
