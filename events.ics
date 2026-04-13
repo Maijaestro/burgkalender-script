@@ -11,14 +11,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-f
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260912T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:942437cdd225dfedb1ae458de58a904c
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260705T133000Z
 SUMMARY:DAS DA THEATER Familientag – “Ronja Räubertochter”
@@ -707,6 +699,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-2
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260913T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:8cef91c0139d73ca6949e7fa6111868a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250620T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -760,6 +760,14 @@ DTSTART:20260612T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:21650ba50f44b7bfcace05123754eb10
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260813T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:f5c52c3f5ad04f45f3434656fc7a75e3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1311,6 +1319,14 @@ LOCATION:Burg Wilhelmstein
 DTSTART:20260407T160000Z
 SUMMARY:BLIND DATE 2026
 UID:4ef7b89c0d053efddea5f3466f5f2067
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260413T160000Z
+SUMMARY:BLIND DATE 2026
+UID:c0256b5015da94ea44742a8fc6bfc092
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
