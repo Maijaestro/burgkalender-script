@@ -699,14 +699,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-2
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260913T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:8cef91c0139d73ca6949e7fa6111868a
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250620T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -760,14 +752,6 @@ DTSTART:20260612T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:21650ba50f44b7bfcace05123754eb10
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260813T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:f5c52c3f5ad04f45f3434656fc7a75e3
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1163,6 +1147,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/leger/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260814T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:e465db5280d69771655d405a137b53b4
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250803T133000Z
 SUMMARY:PROGRAMMÄNDERUNG!  The Music of DER KÖNIG DER LÖWEN – Live in Concert
@@ -1259,11 +1251,27 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260914T180000Z
+SUMMARY:GÖTZ ALSMANN … bei Nacht …
+UID:e502ee7494fee380f11c0b0d792547ed
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250629T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
 UID:9a7f2e307fdfe163ba9c1cf33197451a
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260717T190000Z
+SUMMARY:OPEN AIR KINO – Alter weißer Mann
+UID:88ade09ac0fdcbcfb371457ab0c46514
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-alter-weisser-mann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1288,6 +1296,14 @@ DTSTART:20250627T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
 UID:68337cc4d27d448dccb6ce514e4aa160
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260414T160000Z
+SUMMARY:BLIND DATE 2026
+UID:d985353fd4221ae3da4d461f3f8a1972
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
