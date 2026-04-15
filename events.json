@@ -719,6 +719,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
+    "2026-04-15 18:00 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-04-15T18:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
     "2026-04-16 19:00 - FIDDLER’S GREEN": {
         "event_artist": "FIDDLER’S GREEN",
         "event_date": "2026-04-16T19:00:00",
@@ -935,17 +941,17 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/helge-schneider-ellebogen-vom-tich/"
     },
-    "2026-08-14 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
-        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-08-14T19:30:00",
-        "event_location": "Stadthalle Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
-    },
     "2026-08-14 19:30 - Q-REVIVAL BAND – God Save The Queen": {
         "event_artist": "Q-REVIVAL BAND – God Save The Queen",
         "event_date": "2026-08-14T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/q-revival-band-god-save-the-queen/"
+    },
+    "2026-08-15 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
+        "event_date": "2026-08-15T19:30:00",
+        "event_location": "Stadthalle Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
     "2026-08-15 19:30 - SCHILLER – Sommerklang 2026": {
         "event_artist": "SCHILLER – Sommerklang 2026",
@@ -1103,9 +1109,9 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale-2026/"
     },
-    "2026-09-14 20:00 - GÖTZ ALSMANN … bei Nacht …": {
+    "2026-09-15 20:00 - GÖTZ ALSMANN … bei Nacht …": {
         "event_artist": "GÖTZ ALSMANN … bei Nacht …",
-        "event_date": "2026-09-14T20:00:00",
+        "event_date": "2026-09-15T20:00:00",
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     }
