@@ -605,6 +605,12 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale/"
     },
+    "2026-02-16 19:00 - KARAT –  DIE KULTBAND AUS DEM OSTEN": {
+        "event_artist": "KARAT –  DIE KULTBAND AUS DEM OSTEN",
+        "event_date": "2026-02-16T19:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
+    },
     "2026-03-16 - FIDDLER’S GREEN": {
         "event_artist": "FIDDLER’S GREEN",
         "event_date": "2026-03-16T19:00:00",
@@ -725,23 +731,17 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
-    "2026-04-16 19:00 - FIDDLER’S GREEN": {
-        "event_artist": "FIDDLER’S GREEN",
-        "event_date": "2026-04-16T19:00:00",
-        "event_location": "Burg Wilhelmstein",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/"
-    },
-    "2026-04-26 19:00 - CARA – Celtic Folk mit Herz, Seele und Charakter": {
-        "event_artist": "CARA – Celtic Folk mit Herz, Seele und Charakter",
-        "event_date": "2026-04-26T19:00:00",
-        "event_location": "Burg Wilhelmstein",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/"
-    },
     "2026-05-08 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
         "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
         "event_date": "2026-05-08T19:30:00",
         "event_location": "Klosterstraße 74; 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
+    },
+    "2026-05-16 20:00 - Hermes House Band & Lou Bega": {
+        "event_artist": "Hermes House Band & Lou Bega",
+        "event_date": "2026-05-16T20:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/"
     },
     "2026-06-04 20:00 - DAS DA Theater - Romeo & Julia – Musical": {
         "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
@@ -869,12 +869,6 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/nightwash-live-open-air-2026/"
     },
-    "2026-07-17 21:00 - OPEN AIR KINO – Alter weißer Mann": {
-        "event_artist": "OPEN AIR KINO – Alter weißer Mann",
-        "event_date": "2026-07-17T21:00:00",
-        "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-alter-weisser-mann/"
-    },
     "2026-07-23 19:30 - FAUN – Live 2026": {
         "event_artist": "FAUN – Live 2026",
         "event_date": "2026-07-23T19:30:00",
@@ -911,8 +905,8 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidman-for-a-better-world/"
     },
-    "2026-08-02 19:00 - KARAT – 50+1 Jubiläumstour": {
-        "event_artist": "KARAT – 50+1 Jubiläumstour",
+    "2026-08-02 19:00 - KARAT –  DIE KULTBAND AUS DEM OSTEN": {
+        "event_artist": "KARAT –  DIE KULTBAND AUS DEM OSTEN",
         "event_date": "2026-08-02T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
@@ -947,12 +941,6 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/q-revival-band-god-save-the-queen/"
     },
-    "2026-08-15 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
-        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-08-15T19:30:00",
-        "event_location": "Stadthalle Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
-    },
     "2026-08-15 19:30 - SCHILLER – Sommerklang 2026": {
         "event_artist": "SCHILLER – Sommerklang 2026",
         "event_date": "2026-08-15T19:30:00",
@@ -964,6 +952,12 @@
         "event_date": "2026-08-16T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/"
+    },
+    "2026-08-16 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
+        "event_date": "2026-08-16T19:30:00",
+        "event_location": "Stadthalle Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
     "2026-08-19 19:30 - GERBURG JAHNKE – Frau Jahnke hat eingeladen …": {
         "event_artist": "GERBURG JAHNKE – Frau Jahnke hat eingeladen …",
@@ -1108,11 +1102,5 @@
         "event_date": "2026-09-13T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale-2026/"
-    },
-    "2026-09-15 20:00 - GÖTZ ALSMANN … bei Nacht …": {
-        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
-        "event_date": "2026-09-15T20:00:00",
-        "event_location": "Burg Wilhelmstein",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
     }
 }

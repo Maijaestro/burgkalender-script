@@ -244,30 +244,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein
-DTSTART:20260915T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:e45f4bc6627746a07ddbf1374fbb81f9
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260416T170000Z
-SUMMARY:FIDDLER’S GREEN
-UID:e86c0697245a74f148d1500e3047e6a3
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260802T170000Z
-SUMMARY:KARAT – 50+1 Jubiläumstour
-UID:4ff696e05b4d3afd206abca1b0dbae33
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
 DTSTART:20260412T160000Z
 SUMMARY:BLIND DATE 2026
 UID:00246287299f9a140dceaa1bdcb3a5c3
@@ -280,14 +256,6 @@ DTSTART:20250615T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
 UID:e647328bf5a1a24923af76d1d5c36108
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260815T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:832457a6c1fa519d3e987de7c1cd530f
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -456,14 +424,6 @@ DTSTART:20260607T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:24cf93fc3d57cc9746041c8edf8e47a5
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260426T170000Z
-SUMMARY:CARA – Celtic Folk mit Herz\, Seele und Charakter
-UID:51bcda3597f201b754f84d78264bee3b
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -859,6 +819,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-duplicat
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260816T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:4dbeaf1ea43e6ec5bb688f96686d63f1
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250730T190000Z
 SUMMARY:OPEN AIR KINO – Die leisen und die großen Töne
@@ -920,6 +888,14 @@ DTSTART:20250819T170000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
 UID:ae784d85cf7c83684e5330f1b12d23ff
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260802T170000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:d6a498d9148d5e1a5ea26b9c1f494ffa
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1139,6 +1115,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/suzi-quatro-rock-and-roll-
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260216T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:e051e078bf526804e8e5d505b86dd8e6
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250909T173000Z
 SUMMARY:Benefizshow: REBELLCOMEDY + FRIENDS
@@ -1152,6 +1136,14 @@ DTSTART:20240905T181500Z
 SUMMARY:DUNE: PART TWO – OpenAir-Kino 2024
 UID:20214b0fed3aeaf058a09ed206412524
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-286-349-255/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260516T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:43c9c17621fe9f5902534a529dbb3919
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1272,14 +1264,6 @@ DTSTART:20250629T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
 UID:9a7f2e307fdfe163ba9c1cf33197451a
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260717T190000Z
-SUMMARY:OPEN AIR KINO – Alter weißer Mann
-UID:88ade09ac0fdcbcfb371457ab0c46514
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-alter-weisser-mann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
