@@ -739,6 +739,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260517T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:03de49a0eb2fcd0152a2cbd78b9574ab
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260705T093000Z
 SUMMARY:DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”
@@ -819,14 +827,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-duplicat
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260816T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:4dbeaf1ea43e6ec5bb688f96686d63f1
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250730T190000Z
 SUMMARY:OPEN AIR KINO – Die leisen und die großen Töne
@@ -848,6 +848,14 @@ DTSTART:20250826T170000Z
 SUMMARY:WOLFGANG NIEDECKEN – Zwischen Start & Ziel
 UID:2de7fcd24957c532ee2a0f3cb3a156bb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260217T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:964dc2dfd72bef541b6a16a28c43b03f
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -995,6 +1003,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-d
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260817T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:f6a0ff554d5708653e09382d625a7d5b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260830T150000Z
 SUMMARY:FRAU HÖPKER – bittet zum Gesang-
@@ -1136,14 +1152,6 @@ DTSTART:20240905T181500Z
 SUMMARY:DUNE: PART TWO – OpenAir-Kino 2024
 UID:20214b0fed3aeaf058a09ed206412524
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-286-349-255/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260516T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:43c9c17621fe9f5902534a529dbb3919
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
