@@ -451,6 +451,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260518T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:7e3b9db0da9629b1651effc971746a08
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250805T190000Z
 SUMMARY:OPEN AIR KINO – Wunderschöner
@@ -675,6 +683,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260818T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:a94773e582f69a2e7adbd13d7e3aa4eb
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240904T190000Z
 SUMMARY:BACK TO BLACK – OpenAir-Kino 2024
@@ -723,6 +739,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/buelent-ceylan-yallah-hopp
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260218T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:d0005c82c2f53b0d29c37948b6d55c5e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250912T173000Z
 SUMMARY:Die Schlagzeugmafia – Backstreet Noise
@@ -736,14 +760,6 @@ DTSTART:20260612T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:21650ba50f44b7bfcace05123754eb10
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260517T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:03de49a0eb2fcd0152a2cbd78b9574ab
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1000,14 +1016,6 @@ DTSTART:20250726T173000Z
 SUMMARY:SCHILLER – Sommertraum 2025
 UID:853947b2114f839ad47626fbc987d108
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-duplicate-1/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260817T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:f6a0ff554d5708653e09382d625a7d5b
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
