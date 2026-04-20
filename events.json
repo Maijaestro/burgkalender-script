@@ -629,6 +629,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
     },
+    "2026-02-20 19:00 - KARAT –  DIE KULTBAND AUS DEM OSTEN": {
+        "event_artist": "KARAT –  DIE KULTBAND AUS DEM OSTEN",
+        "event_date": "2026-02-20T19:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
+    },
     "2026-03-16 - FIDDLER’S GREEN": {
         "event_artist": "FIDDLER’S GREEN",
         "event_date": "2026-03-16T19:00:00",
@@ -755,9 +761,9 @@
         "event_location": "Klosterstraße 74; 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
-    "2026-05-19 20:00 - Hermes House Band & Lou Bega": {
+    "2026-05-20 20:00 - Hermes House Band & Lou Bega": {
         "event_artist": "Hermes House Band & Lou Bega",
-        "event_date": "2026-05-19T20:00:00",
+        "event_date": "2026-05-20T20:00:00",
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/"
     },
@@ -887,6 +893,18 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/nightwash-live-open-air-2026/"
     },
+    "2026-07-17 21:00 - OPEN AIR KINO – Extrawurst": {
+        "event_artist": "OPEN AIR KINO – Extrawurst",
+        "event_date": "2026-07-17T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-extrawurst-2/"
+    },
+    "2026-07-18 21:00 - OPEN AIR KINO – Der Astronaut – Project Hail Mary": {
+        "event_artist": "OPEN AIR KINO – Der Astronaut – Project Hail Mary",
+        "event_date": "2026-07-18T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-astronaut-project-hail-mary/"
+    },
     "2026-07-23 19:30 - FAUN – Live 2026": {
         "event_artist": "FAUN – Live 2026",
         "event_date": "2026-07-23T19:30:00",
@@ -911,6 +929,18 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/"
     },
+    "2026-07-29 21:00 - OPEN AIR KINO – Horst Schlämmer sucht das Glück": {
+        "event_artist": "OPEN AIR KINO – Horst Schlämmer sucht das Glück",
+        "event_date": "2026-07-29T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-horst-schlaemmer-sucht-das-glueck/"
+    },
+    "2026-07-30 21:00 - OPEN AIR KINO –  Mamma Mia": {
+        "event_artist": "OPEN AIR KINO –  Mamma Mia",
+        "event_date": "2026-07-30T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-mama-mia/"
+    },
     "2026-07-31 19:30 - MO-TORRES – Open-Air 2026": {
         "event_artist": "MO-TORRES – Open-Air 2026",
         "event_date": "2026-07-31T19:30:00",
@@ -928,6 +958,24 @@
         "event_date": "2026-08-02T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
+    },
+    "2026-08-04 21:00 - OPEN AIR KINO –   Ein fast perfekter Antrag": {
+        "event_artist": "OPEN AIR KINO –   Ein fast perfekter Antrag",
+        "event_date": "2026-08-04T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ein-fast-perfekter-antrag/"
+    },
+    "2026-08-05 21:00 - OPEN AIR KINO – Michael": {
+        "event_artist": "OPEN AIR KINO – Michael",
+        "event_date": "2026-08-05T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-michael/"
+    },
+    "2026-08-06 21:00 - OPEN AIR KINO – Der Held vom Bahnhof Friedrichstraße": {
+        "event_artist": "OPEN AIR KINO – Der Held vom Bahnhof Friedrichstraße",
+        "event_date": "2026-08-06T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-held-vom-bahnhof-friedrichstrasse/"
     },
     "2026-08-07 19:30 - HEINZ RUDOLF KUNZE – Das sagt der Richtige": {
         "event_artist": "HEINZ RUDOLF KUNZE – Das sagt der Richtige",
@@ -953,6 +1001,24 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/helge-schneider-ellebogen-vom-tich/"
     },
+    "2026-08-11 21:00 - OPEN AIR KINO – Der Teufel trägt Prada 2": {
+        "event_artist": "OPEN AIR KINO – Der Teufel trägt Prada 2",
+        "event_date": "2026-08-11T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-teufel-traegt-prada-2/"
+    },
+    "2026-08-12 21:00 - OPEN AIR KINO – Extrawurst": {
+        "event_artist": "OPEN AIR KINO – Extrawurst",
+        "event_date": "2026-08-12T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-extrawurst/"
+    },
+    "2026-08-13 21:00 - OPEN AIR KINO – Chéri, ich komme – Die Erfindung der Lust": {
+        "event_artist": "OPEN AIR KINO – Chéri, ich komme – Die Erfindung der Lust",
+        "event_date": "2026-08-13T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-cheri-ich-komme-die-erfindung-der-lust/"
+    },
     "2026-08-14 19:30 - Q-REVIVAL BAND – God Save The Queen": {
         "event_artist": "Q-REVIVAL BAND – God Save The Queen",
         "event_date": "2026-08-14T19:30:00",
@@ -971,17 +1037,29 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/"
     },
-    "2026-08-19 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
-        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-08-19T19:30:00",
-        "event_location": "Stadthalle Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
+    "2026-08-17 21:00 - OPEN AIR KINO –  No Hit Wonder": {
+        "event_artist": "OPEN AIR KINO –  No Hit Wonder",
+        "event_date": "2026-08-17T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-no-hit-wonder/"
+    },
+    "2026-08-18 21:00 - OPEN AIR KINO –  Ach, diese Lücke, diese entsetzliche Lücke": {
+        "event_artist": "OPEN AIR KINO –  Ach, diese Lücke, diese entsetzliche Lücke",
+        "event_date": "2026-08-18T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ach-diese-luecke-diese-entsetzliche-luecke/"
     },
     "2026-08-19 19:30 - GERBURG JAHNKE – Frau Jahnke hat eingeladen …": {
         "event_artist": "GERBURG JAHNKE – Frau Jahnke hat eingeladen …",
         "event_date": "2026-08-19T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-2/"
+    },
+    "2026-08-20 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
+        "event_date": "2026-08-20T19:30:00",
+        "event_location": "Stadthalle Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
     "2026-08-20 19:30 - DICK BRAVE – Back for More- Zusatztermin!": {
         "event_artist": "DICK BRAVE – Back for More- Zusatztermin!",

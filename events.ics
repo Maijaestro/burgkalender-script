@@ -123,14 +123,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidman-for-a-better
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260819T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:f4aa52a062aae913a4e450e50178ed39
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250713T170000Z
 SUMMARY:The Sons of Buena Vista
@@ -168,6 +160,14 @@ DTSTART:20260628T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:3ee451f5e39a31b389203bd765bca13e
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260812T190000Z
+SUMMARY:OPEN AIR KINO – Extrawurst
+UID:a07f94a90155d8e5853f2528b5b70180
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-extrawurst/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -280,6 +280,14 @@ DTSTART:20260904T180000Z
 SUMMARY:CHRISTOPH SIEBER – Weitermachen!
 UID:3800060073e7d2ac35f251e6a2af563f
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/christoph-sieber-weitermachen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260805T190000Z
+SUMMARY:OPEN AIR KINO – Michael
+UID:fa287425e45cc7cf5698506352cf4337
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-michael/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -540,6 +548,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260818T190000Z
+SUMMARY:OPEN AIR KINO –  Ach\, diese Lücke\, diese entsetzliche Lücke
+UID:7623560feb1c8a00cca6e47ea184b4d8
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ach-diese-luecke-diese-entsetzliche-luecke/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240901T170000Z
 SUMMARY:KASALLA – Live 2024
 UID:10e65657433b8a1c5930ef305e1d79ea
@@ -580,6 +596,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein
+DTSTART:20260520T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:91f3e3eba619bd836fd78fea11d1fe82
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
 DTSTART:20260327T183000Z
 SUMMARY:Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“
 UID:3fb529719742d855ce9c69804e850f9b
@@ -600,6 +624,14 @@ DTSTART:20250718T180000Z
 SUMMARY:A TRIBUTE TO AMY – DIE Amy Winehouse Show
 UID:78315d0517403c461555db0e837acace
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/a-tribute-to-amy-die-amy-winehouse-show/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260718T190000Z
+SUMMARY:OPEN AIR KINO – Der Astronaut – Project Hail Mary
+UID:51463914f2bd297add9cc351cd347368
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-astronaut-project-hail-mary/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -683,6 +715,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260820T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:26d497dd6cc932430d6aaaf43bf4eeb4
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240904T190000Z
 SUMMARY:BACK TO BLACK – OpenAir-Kino 2024
@@ -704,6 +744,14 @@ DTSTART:20250705T160000Z
 SUMMARY:BLIND DATE 2025
 UID:45b8951a219fbb78741a304b86abb769
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2024-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260817T190000Z
+SUMMARY:OPEN AIR KINO –  No Hit Wonder
+UID:d48e3d6f908285d30b5aef3ad34c47e2
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-no-hit-wonder/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -740,6 +788,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260804T190000Z
+SUMMARY:OPEN AIR KINO –   Ein fast perfekter Antrag
+UID:f97f1b3d7969cd191bcbb87fefe73944
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ein-fast-perfekter-antrag/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250912T173000Z
 SUMMARY:Die Schlagzeugmafia – Backstreet Noise
 UID:71fd385c307cec68800eb14895ee9ab2
@@ -760,6 +816,14 @@ DTSTART:20260705T093000Z
 SUMMARY:DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”
 UID:b634e618f07a90fa25b2c233ecd849cd
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260811T190000Z
+SUMMARY:OPEN AIR KINO – Der Teufel trägt Prada 2
+UID:80c27afce555f37ce54e7fef535378f0
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-teufel-traegt-prada-2/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -835,14 +899,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-duplicat
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260519T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:1d5f0dc9835c5e921b9ac1ac547b965a
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250730T190000Z
 SUMMARY:OPEN AIR KINO – Die leisen und die großen Töne
@@ -912,6 +968,14 @@ DTSTART:20250819T170000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
 UID:ae784d85cf7c83684e5330f1b12d23ff
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260813T190000Z
+SUMMARY:OPEN AIR KINO – Chéri\, ich komme – Die Erfindung der Lust
+UID:7242d38e08353ac59fa86234b087d6d3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-cheri-ich-komme-die-erfindung-der-lust/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1040,6 +1104,14 @@ DTSTART:20260819T173000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen …
 UID:0cdbfdf348b2e61c79c77bf1944a35a4
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260730T190000Z
+SUMMARY:OPEN AIR KINO –  Mamma Mia
+UID:fdb70ba10ab358ec8619f8a9a3a98e6c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-mama-mia/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1187,6 +1259,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/leger/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260220T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:e647edc5f25ccf0a373a140f244be810
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250803T133000Z
 SUMMARY:PROGRAMMÄNDERUNG!  The Music of DER KÖNIG DER LÖWEN – Live in Concert
@@ -1228,10 +1308,34 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260806T190000Z
+SUMMARY:OPEN AIR KINO – Der Held vom Bahnhof Friedrichstraße
+UID:a7922eef61c8ac66da36a133507ba192
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-held-vom-bahnhof-friedrichstrasse/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260717T190000Z
+SUMMARY:OPEN AIR KINO – Extrawurst
+UID:5e75f3216b439eb71d2fe32a530595fc
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-extrawurst-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240903T173000Z
 SUMMARY:Live Podcast mit MARTIN RÜTTER und KATHARINA ADICK – Tierisch-Menschlich
 UID:e9f6ce5bb43b16217a60fca6fe8b801b
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/live-podcast-mit-martin-ruetter-und-katharina-adick-tierisch-menschlich/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260729T190000Z
+SUMMARY:OPEN AIR KINO – Horst Schlämmer sucht das Glück
+UID:e635a4b4e1a620d52fc15a0b4633f145
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-horst-schlaemmer-sucht-das-glueck/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
