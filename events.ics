@@ -91,6 +91,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260521T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:3704992d73f82f37c53faade32473745
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260809T170000Z
 SUMMARY:ECOS DE SIBONEY – Die Enkel des weltberühmten “Buena Vista Social Club”
@@ -232,6 +240,14 @@ DTSTART:20260820T173000Z
 SUMMARY:DICK BRAVE – Back for More- Zusatztermin!
 UID:81c721f057cd4e0c63a5032be2d918bb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260221T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:6b78c072e7739bec6b06cadfad831530
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -596,14 +612,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein
-DTSTART:20260520T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:91f3e3eba619bd836fd78fea11d1fe82
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
 DTSTART:20260327T183000Z
 SUMMARY:Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“
 UID:3fb529719742d855ce9c69804e850f9b
@@ -632,6 +640,14 @@ DTSTART:20260718T190000Z
 SUMMARY:OPEN AIR KINO – Der Astronaut – Project Hail Mary
 UID:51463914f2bd297add9cc351cd347368
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-astronaut-project-hail-mary/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260821T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:85b6153c68de1c7a8f64841690fbf469
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -712,14 +728,6 @@ DTSTART:20250720T170000Z
 SUMMARY:JUDITH HILL – Letters from a Black Widow
 UID:e70829feb79fb3d2c91a74f0b0fc69e7
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a-black-widow/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260820T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:26d497dd6cc932430d6aaaf43bf4eeb4
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
