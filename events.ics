@@ -467,14 +467,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-spitznam
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260522T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:474938ff2ee7bac8d6de8e9ea0f49f95
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260822T173000Z
 SUMMARY:KASALLA – Live 2026
@@ -616,6 +608,14 @@ DTSTART:20260327T183000Z
 SUMMARY:Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“
 UID:3fb529719742d855ce9c69804e850f9b
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/daphne-de-luxe-artgerecht-ein-tierisch-menschliches-programm/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260823T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:8ed46f7e0b34a30fbc92bd72a6776301
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -968,6 +968,14 @@ DTSTART:20250819T170000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
 UID:ae784d85cf7c83684e5330f1b12d23ff
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260223T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:eb9425ed23e580a054642250e38bd31a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1387,6 +1395,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260523T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:b69725e92acc68038e894baf775f6d1b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250629T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -1408,14 +1424,6 @@ DTSTART:20260913T160000Z
 SUMMARY:BLIND OUT – Das große Finale
 UID:7e2ea923bea6d433af1734505a2dda4d
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260822T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:00ffd87d578b5a305d3af1b24f970af5
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
