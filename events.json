@@ -653,6 +653,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
     },
+    "2026-02-24 19:00 - KARAT –  DIE KULTBAND AUS DEM OSTEN": {
+        "event_artist": "KARAT –  DIE KULTBAND AUS DEM OSTEN",
+        "event_date": "2026-02-24T19:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
+    },
     "2026-03-16 - FIDDLER’S GREEN": {
         "event_artist": "FIDDLER’S GREEN",
         "event_date": "2026-03-16T19:00:00",
@@ -779,9 +785,9 @@
         "event_location": "Klosterstraße 74; 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
-    "2026-05-23 20:00 - Hermes House Band & Lou Bega": {
+    "2026-05-24 20:00 - Hermes House Band & Lou Bega": {
         "event_artist": "Hermes House Band & Lou Bega",
-        "event_date": "2026-05-23T20:00:00",
+        "event_date": "2026-05-24T20:00:00",
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/"
     },
@@ -1103,9 +1109,9 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/matti-klein-soul-trio-meets-max-mutzke/"
     },
-    "2026-08-23 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+    "2026-08-24 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
         "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-08-23T19:30:00",
+        "event_date": "2026-08-24T19:30:00",
         "event_location": "Stadthalle Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
@@ -1216,5 +1222,11 @@
         "event_date": "2026-09-13T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale-2026/"
+    },
+    "2026-10-10 20:00 - Supertramp Revival Band – Best of": {
+        "event_artist": "Supertramp Revival Band – Best of",
+        "event_date": "2026-10-10T20:00:00",
+        "event_location": "Klosterstraße 74; 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/"
     }
 }

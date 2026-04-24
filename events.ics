@@ -27,6 +27,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Klosterstraße 74\; 52146 Würselen
+DTSTART:20261010T180000Z
+SUMMARY:Supertramp Revival Band – Best of
+UID:8e0203572de1587f951dfeb8a8e3a15d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250608T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -72,6 +80,14 @@ DTSTART:20250907T160000Z
 SUMMARY:Herbert Knebels – Affentheater Voll Karacho!
 UID:78b2dd141a5ca2fa99b031b843e2319d
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/herbert-knebels-affentheater-voll-karacho/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260224T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:74207e5251427af8bd9403c43b149377
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -611,14 +627,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/daphne-de-luxe-artgerecht-
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260823T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:8ed46f7e0b34a30fbc92bd72a6776301
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260604T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
@@ -840,6 +848,14 @@ DTSTART:20240831T173000Z
 SUMMARY:GERBURG JAHNKE – Frau Jahnke hat eingeladen
 UID:1ed5f155b01064c923570ebab7df15eb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260824T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:c7eb1d5ddded771573a9da56e0ffacfb
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1275,6 +1291,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260524T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:568dde641a1e174c77d4f355ec320efc
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250803T133000Z
 SUMMARY:PROGRAMMÄNDERUNG!  The Music of DER KÖNIG DER LÖWEN – Live in Concert
@@ -1392,14 +1416,6 @@ DTSTART:20260405T160000Z
 SUMMARY:BLIND DATE 2026
 UID:9b5ca5d6abc0a1ac4172b3d6c86e556f
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260523T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:b69725e92acc68038e894baf775f6d1b
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
