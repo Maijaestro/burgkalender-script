@@ -27,14 +27,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Klosterstraße 74\; 52146 Würselen
-DTSTART:20261010T180000Z
-SUMMARY:Supertramp Revival Band – Best of
-UID:8e0203572de1587f951dfeb8a8e3a15d
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250608T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
@@ -851,14 +843,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260824T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:c7eb1d5ddded771573a9da56e0ffacfb
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260725T180000Z
 SUMMARY:MISS ALLIE – PARADIESVOGEL TOUR 2025/26
@@ -1083,6 +1067,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/bodo-wartke-in-guter-begle
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260825T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:8a52a206a4c44e2aeb5cbc329fa6a0af
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260723T173000Z
 SUMMARY:FAUN – Live 2026
@@ -1291,14 +1283,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260524T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:568dde641a1e174c77d4f355ec320efc
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250803T133000Z
 SUMMARY:PROGRAMMÄNDERUNG!  The Music of DER KÖNIG DER LÖWEN – Live in Concert
@@ -1456,6 +1440,22 @@ DTSTART:20250627T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
 UID:68337cc4d27d448dccb6ce514e4aa160
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260225T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:aad9f9a2a98828ea7436463de4f3b2d3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260525T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:da53ececfc6ec43bfc6263623ae46b39
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
