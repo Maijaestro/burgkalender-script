@@ -163,6 +163,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/starbugs-comedy-crash-boom
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260226T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:92c4b8549e9d34ff0f8e1953631e755f
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260628T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
@@ -1067,14 +1075,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/bodo-wartke-in-guter-begle
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260825T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:8a52a206a4c44e2aeb5cbc329fa6a0af
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260723T173000Z
 SUMMARY:FAUN – Live 2026
@@ -1112,6 +1112,14 @@ DTSTART:20260830T150000Z
 SUMMARY:FRAU HÖPKER – bittet zum Gesang-
 UID:b557b5e264a90255bf8071f4ad7911ef
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260526T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:7fbd78650f83823b71888a66eac2d333
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1299,6 +1307,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260826T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:66304e95eacd6f41207a7a21f11df08d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240910T173000Z
 SUMMARY:Benefizshow: REBELLCOMEDY + FRIENDS 2024
@@ -1448,14 +1464,6 @@ DTSTART:20260225T180000Z
 SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
 UID:aad9f9a2a98828ea7436463de4f3b2d3
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260525T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:da53ececfc6ec43bfc6263623ae46b39
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
