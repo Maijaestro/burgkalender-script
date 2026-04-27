@@ -671,6 +671,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
     },
+    "2026-02-27 19:00 - KARAT –  DIE KULTBAND AUS DEM OSTEN": {
+        "event_artist": "KARAT –  DIE KULTBAND AUS DEM OSTEN",
+        "event_date": "2026-02-27T19:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
+    },
     "2026-03-16 - FIDDLER’S GREEN": {
         "event_artist": "FIDDLER’S GREEN",
         "event_date": "2026-03-16T19:00:00",
@@ -797,9 +803,9 @@
         "event_location": "Klosterstraße 74; 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
-    "2026-05-26 20:00 - Hermes House Band & Lou Bega": {
+    "2026-05-27 20:00 - Hermes House Band & Lou Bega": {
         "event_artist": "Hermes House Band & Lou Bega",
-        "event_date": "2026-05-26T20:00:00",
+        "event_date": "2026-05-27T20:00:00",
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/"
     },
@@ -1133,9 +1139,9 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annett-louisan-22-jahre-boheme-das-jubilaeumskonzert/"
     },
-    "2026-08-26 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+    "2026-08-27 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
         "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-08-26T19:30:00",
+        "event_date": "2026-08-27T19:30:00",
         "event_location": "Stadthalle Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
