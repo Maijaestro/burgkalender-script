@@ -131,14 +131,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidman-for-a-better
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260827T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:bccdaacc9f248cf3aa95a9f8343db20e
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250713T170000Z
 SUMMARY:The Sons of Buena Vista
@@ -707,6 +699,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mammamia2024-675-595-684-2
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260228T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:da30fe4414c7f6802feba7f0fd6d3238
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250708T173000Z
 SUMMARY:Höhner 2025
@@ -816,6 +816,14 @@ DTSTART:20260804T190000Z
 SUMMARY:OPEN AIR KINO –   Ein fast perfekter Antrag
 UID:f97f1b3d7969cd191bcbb87fefe73944
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ein-fast-perfekter-antrag/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260528T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:8b64ca99b9160652879fa3c3caf0de3c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1315,6 +1323,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260828T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:211e408495f3b8d1cd3f21eb4286e4e0
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240910T173000Z
 SUMMARY:Benefizshow: REBELLCOMEDY + FRIENDS 2024
@@ -1368,14 +1384,6 @@ DTSTART:20260729T190000Z
 SUMMARY:OPEN AIR KINO – Horst Schlämmer sucht das Glück
 UID:e635a4b4e1a620d52fc15a0b4633f145
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-horst-schlaemmer-sucht-das-glueck/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260527T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:43373f32130df3ca74e2bcc54de4fdf3
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
