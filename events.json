@@ -809,9 +809,9 @@
         "event_location": "Klosterstraße 74; 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
-    "2026-05-29 20:00 - Hermes House Band & Lou Bega": {
+    "2026-05-30 20:00 - Hermes House Band & Lou Bega": {
         "event_artist": "Hermes House Band & Lou Bega",
-        "event_date": "2026-05-29T20:00:00",
+        "event_date": "2026-05-30T20:00:00",
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/"
     },
@@ -1163,12 +1163,6 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sahnemixx-die-groessten-hits-von-udo-juergens/"
     },
-    "2026-08-29 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
-        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-08-29T19:30:00",
-        "event_location": "Stadthalle Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
-    },
     "2026-08-29 20:00 - PAUL POTTS – Unforgettable Moments": {
         "event_artist": "PAUL POTTS – Unforgettable Moments",
         "event_date": "2026-08-29T20:00:00",
@@ -1180,6 +1174,12 @@
         "event_date": "2026-08-30T17:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-2026/"
+    },
+    "2026-08-30 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
+        "event_date": "2026-08-30T19:30:00",
+        "event_location": "Stadthalle Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
     "2026-09-01 19:30 - BODO WARTKE – In guter Begleitung": {
         "event_artist": "BODO WARTKE – In guter Begleitung",

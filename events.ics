@@ -1171,6 +1171,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260830T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:b3263c1158141206ad1ecfc53f544fab
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240913T180000Z
 SUMMARY:GÖTZ ALSMANN – …bei Nacht…
@@ -1379,14 +1387,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260529T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:b9d9d4b545bbb0c55ab0dda87ac9b086
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260905T180000Z
 SUMMARY:Hermes House Band & Lou Bega
@@ -1507,14 +1507,6 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260829T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:1944f8c7dc71e09685caf146a8510735
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein
 DTSTART:20260407T160000Z
 SUMMARY:BLIND DATE 2026
@@ -1536,6 +1528,14 @@ DTSTART:20260704T160000Z
 SUMMARY:BLIND DATE 2026
 UID:120490d380bf0987fc1862bface53252
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260530T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:fcc0802b1d4633ffb6af7a3ce87184f4
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
