@@ -627,6 +627,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/daphne-de-luxe-artgerecht-
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260501T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:b322c39a8f24a97a64a8721284ac6e73
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260604T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
@@ -736,6 +744,14 @@ DTSTART:20250720T170000Z
 SUMMARY:JUDITH HILL – Letters from a Black Widow
 UID:e70829feb79fb3d2c91a74f0b0fc69e7
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a-black-widow/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260801T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:f37ff4f19ce2ae9368d73e64a85c6ea9
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1012,6 +1028,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein
+DTSTART:20260201T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:f0a62be0fec58e63feef7f7f86010567
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
 DTSTART:20260219T180000Z
 SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
 UID:24c15b2eca2828661804d355893ddde1
@@ -1168,14 +1192,6 @@ DTSTART:20260620T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:f5908a9842b9109932cff971b0cb44ac
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260830T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:b3263c1158141206ad1ecfc53f544fab
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1528,14 +1544,6 @@ DTSTART:20260704T160000Z
 SUMMARY:BLIND DATE 2026
 UID:120490d380bf0987fc1862bface53252
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein
-DTSTART:20260530T180000Z
-SUMMARY:Hermes House Band & Lou Bega
-UID:fcc0802b1d4633ffb6af7a3ce87184f4
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
