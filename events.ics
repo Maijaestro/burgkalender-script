@@ -179,6 +179,14 @@ URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260502T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:7919ca352f20fd7b1496fe107ddbe46d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260812T190000Z
 SUMMARY:OPEN AIR KINO – Extrawurst
@@ -747,14 +755,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/judith-hill-letters-from-a
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260801T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:f37ff4f19ce2ae9368d73e64a85c6ea9
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein
 DTSTART:20260227T180000Z
 SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
@@ -840,6 +840,14 @@ DTSTART:20250912T173000Z
 SUMMARY:Die Schlagzeugmafia – Backstreet Noise
 UID:71fd385c307cec68800eb14895ee9ab2
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praesentiert/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260802T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:abfcc2a7fe1690988fdfb91ced551784
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1232,6 +1240,14 @@ DTSTART:20250823T180000Z
 SUMMARY:ALAIN FREI – ALLES NEU!
 UID:8445e576a67e290cc8926398e3981a2c
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei-all-in-ausverkauft-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260202T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:9853778b0b4247f3a076fa3b3e31da40
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

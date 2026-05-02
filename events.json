@@ -611,6 +611,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
     },
+    "2026-02-02 19:00 - KARAT –  DIE KULTBAND AUS DEM OSTEN": {
+        "event_artist": "KARAT –  DIE KULTBAND AUS DEM OSTEN",
+        "event_date": "2026-02-02T19:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
+    },
     "2026-02-16 19:00 - KARAT –  DIE KULTBAND AUS DEM OSTEN": {
         "event_artist": "KARAT –  DIE KULTBAND AUS DEM OSTEN",
         "event_date": "2026-02-16T19:00:00",
@@ -815,6 +821,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/"
     },
+    "2026-05-02 20:00 - Hermes House Band & Lou Bega": {
+        "event_artist": "Hermes House Band & Lou Bega",
+        "event_date": "2026-05-02T20:00:00",
+        "event_location": "Burg Wilhelmstein",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/"
+    },
     "2026-05-08 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
         "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
         "event_date": "2026-05-08T19:30:00",
@@ -1007,17 +1019,17 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidman-for-a-better-world/"
     },
-    "2026-08-01 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
-        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-08-01T19:30:00",
-        "event_location": "Stadthalle Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
-    },
     "2026-08-02 19:00 - KARAT –  DIE KULTBAND AUS DEM OSTEN": {
         "event_artist": "KARAT –  DIE KULTBAND AUS DEM OSTEN",
         "event_date": "2026-08-02T19:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
+    },
+    "2026-08-02 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
+        "event_date": "2026-08-02T19:30:00",
+        "event_location": "Stadthalle Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
     "2026-08-04 21:00 - OPEN AIR KINO –   Ein fast perfekter Antrag": {
         "event_artist": "OPEN AIR KINO –   Ein fast perfekter Antrag",
