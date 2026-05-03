@@ -68,6 +68,9 @@ def runBurg(events) -> None:
                 date_tag = event.find(class_="mec-event-date")
                 time_tag = event.find(class_="mec-start-time")
                 date_raw = date_tag.get_text(strip=True) if date_tag else ""
+                if not date_raw:
+                    logger.warning(f"⚠️ Kein Datum gefunden, Event übersprungen: '{artist_text}'")
+                    continue
                 time_raw = time_tag.get_text(strip=True) if time_tag else ""
                 if not time_raw and info_text:
                     time_raw = extract_event_time(info_text, session)
@@ -75,6 +78,10 @@ def runBurg(events) -> None:
                 dt = parse(datetime_string)
                 if dt is None:
                     logger.warning(f"⚠️ Datum nicht parsebar, Event übersprungen: '{datetime_string}' ({artist_text})")
+                    continue
+                today = __import__("datetime").date.today()
+                if dt.date() <= today:
+                    logger.warning(f"⚠️ Gepartes Datum liegt in der Vergangenheit oder ist heute, Event übersprungen: '{datetime_string}' ({artist_text})")
                     continue
                 event_date = dt.isoformat()
 
