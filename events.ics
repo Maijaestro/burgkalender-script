@@ -19,6 +19,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260503T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:26e779a10da808ee62017b7af4200d03
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260816T170000Z
 SUMMARY:FIDDLER’S GREEN
@@ -843,14 +851,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-schlagzeugmafia-praese
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260802T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:abfcc2a7fe1690988fdfb91ced551784
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260612T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
@@ -880,6 +880,14 @@ DTSTART:20250828T173000Z
 SUMMARY:COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann
 UID:8511e9b02244613122a69a0e28f6ffbf
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/comedy-for-hope-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260803T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:53410c9bc51b3f754f7b065974cc704b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -968,6 +976,14 @@ DTSTART:20250826T170000Z
 SUMMARY:WOLFGANG NIEDECKEN – Zwischen Start & Ziel
 UID:2de7fcd24957c532ee2a0f3cb3a156bb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/wolfgang-niedecken-zwischen-start-ziel/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein
+DTSTART:20260203T180000Z
+SUMMARY:KARAT –  DIE KULTBAND AUS DEM OSTEN
+UID:5ee7cc8e907cfceda78f5e4dfce363d5
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
