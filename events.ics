@@ -819,6 +819,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ein-fast-per
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260805T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:eafd30a939ae5e0f3969346fb9d12b1f
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250912T173000Z
 SUMMARY:Die Schlagzeugmafia – Backstreet Noise
@@ -1144,14 +1152,6 @@ DTSTART:20260830T150000Z
 SUMMARY:FRAU HÖPKER – bittet zum Gesang-
 UID:b557b5e264a90255bf8071f4ad7911ef
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260804T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:c7f79ea752c68014c991cdf514e5fc0f
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
