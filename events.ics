@@ -819,14 +819,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ein-fast-per
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260805T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:eafd30a939ae5e0f3969346fb9d12b1f
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250912T173000Z
 SUMMARY:Die Schlagzeugmafia – Backstreet Noise
@@ -979,11 +971,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/nightwash-open-air-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260808T173000Z
-SUMMARY:TOM GAEBEL & HIS ORCHESTRA – Sinatra Summer Swing
-UID:e842cfed57b49807f9c33b0469eabe06
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/tom-gaebel-his-orchestra/
+LOCATION:Stadthalle Würselen
+DTSTART:20260806T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:c3d8ed1d6847e943c117932aa92782e7
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -992,6 +984,14 @@ DTSTART:20260411T160000Z
 SUMMARY:BLIND DATE 2026
 UID:1d953a49c58b9f1b159744df2e819654
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260808T173000Z
+SUMMARY:TOM GAEBEL & HIS ORCHESTRA – Sinatra Summer Swing
+UID:e842cfed57b49807f9c33b0469eabe06
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tom-gaebel-his-orchestra/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
