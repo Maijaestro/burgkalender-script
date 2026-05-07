@@ -1031,17 +1031,17 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-michael/"
     },
-    "2026-08-06 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
-        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-08-06T19:30:00",
-        "event_location": "Stadthalle Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
-    },
     "2026-08-06 21:00 - OPEN AIR KINO – Der Held vom Bahnhof Friedrichstraße": {
         "event_artist": "OPEN AIR KINO – Der Held vom Bahnhof Friedrichstraße",
         "event_date": "2026-08-06T21:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-held-vom-bahnhof-friedrichstrasse/"
+    },
+    "2026-08-07 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
+        "event_date": "2026-08-07T19:30:00",
+        "event_location": "Stadthalle Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
     "2026-08-07 19:30 - HEINZ RUDOLF KUNZE – Das sagt der Richtige": {
         "event_artist": "HEINZ RUDOLF KUNZE – Das sagt der Richtige",
