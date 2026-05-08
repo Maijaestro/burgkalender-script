@@ -555,14 +555,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/q-revival-band-god-save-th
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260807T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:2b3ad6fc0c5f157d1b6617669a824534
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250723T180000Z
 SUMMARY:SIMON OSLENDER TRIO – LIVE 2025
@@ -720,6 +712,14 @@ DTSTART:20250708T173000Z
 SUMMARY:Höhner 2025
 UID:6dbda11b5b5aac4a0fa5b04d5b0ede02
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260808T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:0086ac0dbe6cac9ea49988a5311a75e1
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -912,14 +912,6 @@ DTSTART:20240908T170000Z
 SUMMARY:HEINZ-RUDOLF KUNZE – Wie der Name schon sagt – Das neue Soloprogramm
 UID:fe816e69ebc2a75529bb14c31e1ac316
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/heinz_rudolf-kunze-wie-der-name-schon-sagt-das-neue-soloprogramm/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Klosterstraße 74\; 52146 Würselen
-DTSTART:20260508T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:cc469ba0f8e2e31722f900f27bd780c5
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

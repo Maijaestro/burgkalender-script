@@ -821,12 +821,6 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
-    "2026-05-08 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
-        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-05-08T19:30:00",
-        "event_location": "Klosterstraße 74; 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
-    },
     "2026-06-04 20:00 - DAS DA Theater - Romeo & Julia – Musical": {
         "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
         "event_date": "2026-06-04T20:00:00",
@@ -1037,17 +1031,17 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-held-vom-bahnhof-friedrichstrasse/"
     },
-    "2026-08-07 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
-        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
-        "event_date": "2026-08-07T19:30:00",
-        "event_location": "Stadthalle Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
-    },
     "2026-08-07 19:30 - HEINZ RUDOLF KUNZE – Das sagt der Richtige": {
         "event_artist": "HEINZ RUDOLF KUNZE – Das sagt der Richtige",
         "event_date": "2026-08-07T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/heinz-rudolf-kunze-das-sagt-der-richtige/"
+    },
+    "2026-08-08 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
+        "event_date": "2026-08-08T19:30:00",
+        "event_location": "Stadthalle Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
     },
     "2026-08-08 19:30 - TOM GAEBEL & HIS ORCHESTRA – Sinatra Summer Swing": {
         "event_artist": "TOM GAEBEL & HIS ORCHESTRA – Sinatra Summer Swing",
