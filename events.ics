@@ -3,6 +3,14 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Stadthalle Würselen
+DTSTART:20260809T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:a86665e3a9908a371093d4cfeb486c80
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260909T173000Z
 SUMMARY:Benefizshow: RebellComedy & friends
@@ -712,14 +720,6 @@ DTSTART:20250708T173000Z
 SUMMARY:Höhner 2025
 UID:6dbda11b5b5aac4a0fa5b04d5b0ede02
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260808T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:0086ac0dbe6cac9ea49988a5311a75e1
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
