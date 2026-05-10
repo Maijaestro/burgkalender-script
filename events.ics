@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stadthalle Würselen
-DTSTART:20260809T173000Z
-SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
-UID:a86665e3a9908a371093d4cfeb486c80
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260909T173000Z
 SUMMARY:Benefizshow: RebellComedy & friends
