@@ -1246,5 +1246,11 @@
         "event_date": "2026-09-13T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale-2026/"
+    },
+    "2026-10-10 20:00 - Supertramp Revival Band – Best of": {
+        "event_artist": "Supertramp Revival Band – Best of",
+        "event_date": "2026-10-10T20:00:00",
+        "event_location": "Klosterstraße 74; 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/"
     }
 }

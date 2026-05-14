@@ -27,6 +27,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Klosterstraße 74\; 52146 Würselen
+DTSTART:20261010T180000Z
+SUMMARY:Supertramp Revival Band – Best of
+UID:8e0203572de1587f951dfeb8a8e3a15d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250608T180000Z
 SUMMARY:DAS DA Theater - Frühlings Erwachen
