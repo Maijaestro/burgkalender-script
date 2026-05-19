@@ -636,6 +636,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260705T110000Z
+SUMMARY:DAS DA THEATER Familientag – *ZUSATZTERMIN* -“Das NEINhorn und der Geburtstag”
+UID:dd3918d2e65691322e58d7bbb86402de
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026-zusatztermin/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260604T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:4a0b5aab2b9a7059f4078cd84009446a
