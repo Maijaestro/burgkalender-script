@@ -435,6 +435,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/daphne-de-luxe-artgerecht-
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Klosterstraße 74\; 52146 Würselen
+DTSTART:20261218T190000Z
+SUMMARY:Tanja Raich – Mitsingkonzert – Weihnachtsspecial
+UID:49bd0a10befe45ba07453026625c0e97
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachtsspecial-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260829T180000Z
 SUMMARY:PAUL POTTS – Unforgettable Moments
