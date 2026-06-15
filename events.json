@@ -898,5 +898,371 @@
         "event_date": "2026-06-28T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-07-04 18:00 - BLIND DATE 2026": {
+        "event_artist": "BLIND DATE 2026",
+        "event_date": "2026-07-04T18:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
+    "2026-07-05 11:30 - DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”": {
+        "event_artist": "DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”",
+        "event_date": "2026-07-05T11:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026/"
+    },
+    "2026-07-05 13:00 - DAS DA THEATER Familientag – *ZUSATZTERMIN* -“Das NEINhorn und der Geburtstag”": {
+        "event_artist": "DAS DA THEATER Familientag – *ZUSATZTERMIN* -“Das NEINhorn und der Geburtstag”",
+        "event_date": "2026-07-05T13:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026-zusatztermin/"
+    },
+    "2026-07-05 15:30 - DAS DA THEATER Familientag – “Ronja Räubertochter”": {
+        "event_artist": "DAS DA THEATER Familientag – “Ronja Räubertochter”",
+        "event_date": "2026-07-05T15:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-ronja-raeubertochter/"
+    },
+    "2026-07-08 19:30 - Höhner 2026": {
+        "event_artist": "Höhner 2026",
+        "event_date": "2026-07-08T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2026/"
+    },
+    "2026-07-09 20:00 - GÖTZ ALSMANN … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN … bei Nacht …",
+        "event_date": "2026-07-09T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
+    },
+    "2026-07-10 19:30 - DRUCKLUFT 2026": {
+        "event_artist": "DRUCKLUFT 2026",
+        "event_date": "2026-07-10T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/druckluft-2026/"
+    },
+    "2026-07-12 18:30 - CHRIS DE BURGH – A summer night with Chris de Burgh": {
+        "event_artist": "CHRIS DE BURGH – A summer night with Chris de Burgh",
+        "event_date": "2026-07-12T18:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/chris-de-burgh-a-summer-night-with-chris-de-burgh/"
+    },
+    "2026-07-16 19:30 - NIGHTWASH LIVE – Open Air 2026": {
+        "event_artist": "NIGHTWASH LIVE – Open Air 2026",
+        "event_date": "2026-07-16T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/nightwash-live-open-air-2026/"
+    },
+    "2026-07-17 21:00 - OPEN AIR KINO – Extrawurst": {
+        "event_artist": "OPEN AIR KINO – Extrawurst",
+        "event_date": "2026-07-17T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-extrawurst-2/"
+    },
+    "2026-07-18 21:00 - OPEN AIR KINO – Der Astronaut – Project Hail Mary": {
+        "event_artist": "OPEN AIR KINO – Der Astronaut – Project Hail Mary",
+        "event_date": "2026-07-18T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-astronaut-project-hail-mary/"
+    },
+    "2026-07-23 19:30 - FAUN – Live 2026": {
+        "event_artist": "FAUN – Live 2026",
+        "event_date": "2026-07-23T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/faun-live-2026/"
+    },
+    "2026-07-24 20:00 - SOPHIA – „Durch die Blume“-Sommertour 2026": {
+        "event_artist": "SOPHIA – „Durch die Blume“-Sommertour 2026",
+        "event_date": "2026-07-24T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sophia-durch-die-blume-sommertour-2026/"
+    },
+    "2026-07-25 20:00 - MISS ALLIE – PARADIESVOGEL TOUR 2025/26": {
+        "event_artist": "MISS ALLIE – PARADIESVOGEL TOUR 2025/26",
+        "event_date": "2026-07-25T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/miss-allie-paradiesvogel-tour-2025-26/"
+    },
+    "2026-07-26 19:00 - CARA – Celtic Folk mit Herz, Seele und Charakter": {
+        "event_artist": "CARA – Celtic Folk mit Herz, Seele und Charakter",
+        "event_date": "2026-07-26T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/"
+    },
+    "2026-07-29 21:00 - OPEN AIR KINO – Horst Schlämmer sucht das Glück": {
+        "event_artist": "OPEN AIR KINO – Horst Schlämmer sucht das Glück",
+        "event_date": "2026-07-29T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-horst-schlaemmer-sucht-das-glueck/"
+    },
+    "2026-07-30 21:00 - OPEN AIR KINO –  Mamma Mia": {
+        "event_artist": "OPEN AIR KINO –  Mamma Mia",
+        "event_date": "2026-07-30T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-mama-mia/"
+    },
+    "2026-07-31 19:30 - MO-TORRES – Open-Air 2026": {
+        "event_artist": "MO-TORRES – Open-Air 2026",
+        "event_date": "2026-07-31T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/mo-torres-open-air-2026/"
+    },
+    "2026-08-01 19:00 - GIORA FEIDMAN – For a better world": {
+        "event_artist": "GIORA FEIDMAN – For a better world",
+        "event_date": "2026-08-01T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/giora-feidman-for-a-better-world/"
+    },
+    "2026-08-02 19:00 - KARAT –  DIE KULTBAND AUS DEM OSTEN": {
+        "event_artist": "KARAT –  DIE KULTBAND AUS DEM OSTEN",
+        "event_date": "2026-08-02T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/"
+    },
+    "2026-08-04 21:00 - OPEN AIR KINO –   Ein fast perfekter Antrag": {
+        "event_artist": "OPEN AIR KINO –   Ein fast perfekter Antrag",
+        "event_date": "2026-08-04T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ein-fast-perfekter-antrag/"
+    },
+    "2026-08-05 21:00 - OPEN AIR KINO – Michael": {
+        "event_artist": "OPEN AIR KINO – Michael",
+        "event_date": "2026-08-05T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-michael/"
+    },
+    "2026-08-06 21:00 - OPEN AIR KINO – Der Held vom Bahnhof Friedrichstraße": {
+        "event_artist": "OPEN AIR KINO – Der Held vom Bahnhof Friedrichstraße",
+        "event_date": "2026-08-06T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-held-vom-bahnhof-friedrichstrasse/"
+    },
+    "2026-08-07 19:30 - HEINZ RUDOLF KUNZE – Das sagt der Richtige": {
+        "event_artist": "HEINZ RUDOLF KUNZE – Das sagt der Richtige",
+        "event_date": "2026-08-07T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/heinz-rudolf-kunze-das-sagt-der-richtige/"
+    },
+    "2026-08-08 19:30 - TOM GAEBEL & HIS ORCHESTRA – Sinatra Summer Swing": {
+        "event_artist": "TOM GAEBEL & HIS ORCHESTRA – Sinatra Summer Swing",
+        "event_date": "2026-08-08T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tom-gaebel-his-orchestra/"
+    },
+    "2026-08-09 19:00 - ECOS DE SIBONEY – Die Enkel des weltberühmten “Buena Vista Social Club”": {
+        "event_artist": "ECOS DE SIBONEY – Die Enkel des weltberühmten “Buena Vista Social Club”",
+        "event_date": "2026-08-09T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/ecos-de-siboney/"
+    },
+    "2026-08-10 19:30 - HELGE SCHNEIDER – Ellebogen vom Tich": {
+        "event_artist": "HELGE SCHNEIDER – Ellebogen vom Tich",
+        "event_date": "2026-08-10T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/helge-schneider-ellebogen-vom-tich/"
+    },
+    "2026-08-11 21:00 - OPEN AIR KINO – Der Teufel trägt Prada 2": {
+        "event_artist": "OPEN AIR KINO – Der Teufel trägt Prada 2",
+        "event_date": "2026-08-11T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-teufel-traegt-prada-2/"
+    },
+    "2026-08-12 21:00 - OPEN AIR KINO – Extrawurst": {
+        "event_artist": "OPEN AIR KINO – Extrawurst",
+        "event_date": "2026-08-12T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-extrawurst/"
+    },
+    "2026-08-13 21:00 - OPEN AIR KINO – Chéri, ich komme – Die Erfindung der Lust": {
+        "event_artist": "OPEN AIR KINO – Chéri, ich komme – Die Erfindung der Lust",
+        "event_date": "2026-08-13T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-cheri-ich-komme-die-erfindung-der-lust/"
+    },
+    "2026-08-14 19:30 - Q-REVIVAL BAND – God Save The Queen": {
+        "event_artist": "Q-REVIVAL BAND – God Save The Queen",
+        "event_date": "2026-08-14T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/q-revival-band-god-save-the-queen/"
+    },
+    "2026-08-15 19:30 - SCHILLER – Sommerklang 2026": {
+        "event_artist": "SCHILLER – Sommerklang 2026",
+        "event_date": "2026-08-15T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerklang-2026/"
+    },
+    "2026-08-16 19:00 - FIDDLER’S GREEN": {
+        "event_artist": "FIDDLER’S GREEN",
+        "event_date": "2026-08-16T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/"
+    },
+    "2026-08-17 21:00 - OPEN AIR KINO –  No Hit Wonder": {
+        "event_artist": "OPEN AIR KINO –  No Hit Wonder",
+        "event_date": "2026-08-17T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-no-hit-wonder/"
+    },
+    "2026-08-18 21:00 - OPEN AIR KINO –  Ach, diese Lücke, diese entsetzliche Lücke": {
+        "event_artist": "OPEN AIR KINO –  Ach, diese Lücke, diese entsetzliche Lücke",
+        "event_date": "2026-08-18T21:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ach-diese-luecke-diese-entsetzliche-luecke/"
+    },
+    "2026-08-19 19:30 - GERBURG JAHNKE – Frau Jahnke hat eingeladen …": {
+        "event_artist": "GERBURG JAHNKE – Frau Jahnke hat eingeladen …",
+        "event_date": "2026-08-19T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-2/"
+    },
+    "2026-08-20 19:30 - DICK BRAVE – Back for More- Zusatztermin!": {
+        "event_artist": "DICK BRAVE – Back for More- Zusatztermin!",
+        "event_date": "2026-08-20T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more-2/"
+    },
+    "2026-08-21 19:30 - KASALLA – Live 2026": {
+        "event_artist": "KASALLA – Live 2026",
+        "event_date": "2026-08-21T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2026-2/"
+    },
+    "2026-08-22 15:00 - KASALLA – Live 2026 (Familienkonzert)": {
+        "event_artist": "KASALLA – Live 2026 (Familienkonzert)",
+        "event_date": "2026-08-22T15:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2026-familienkonzert/"
+    },
+    "2026-08-22 19:30 - KASALLA – Live 2026": {
+        "event_artist": "KASALLA – Live 2026",
+        "event_date": "2026-08-22T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2026/"
+    },
+    "2026-08-23 19:00 - MATTI KLEIN SOUL TRIO meets MAX MUTZKE": {
+        "event_artist": "MATTI KLEIN SOUL TRIO meets MAX MUTZKE",
+        "event_date": "2026-08-23T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/matti-klein-soul-trio-meets-max-mutzke/"
+    },
+    "2026-08-25 19:30 - DICK BRAVE – Back for More": {
+        "event_artist": "DICK BRAVE – Back for More",
+        "event_date": "2026-08-25T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more/"
+    },
+    "2026-08-26 19:30 - ANNETT LOUISAN – 22 Jahre Bohème – Das Jubiläumskonzert": {
+        "event_artist": "ANNETT LOUISAN – 22 Jahre Bohème – Das Jubiläumskonzert",
+        "event_date": "2026-08-26T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annett-louisan-22-jahre-boheme-das-jubilaeumskonzert/"
+    },
+    "2026-08-27 19:30 - Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“": {
+        "event_artist": "Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“",
+        "event_date": "2026-08-27T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/daphne-de-luxe-artgerecht-ein-tierisch-menschliches-programm/"
+    },
+    "2026-08-28 20:00 - KONZERT ABGESAGT – KONSTANTIN WECKER TRIO – Der Liebe zuliebe": {
+        "event_artist": "KONZERT ABGESAGT – KONSTANTIN WECKER TRIO – Der Liebe zuliebe",
+        "event_date": "2026-08-28T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/konstantin-wecker-trio-der-liebe-zuliebe/"
+    },
+    "2026-08-28 20:00 - SahneMixx “Die größten Hits von Udo Jürgens”!": {
+        "event_artist": "SahneMixx “Die größten Hits von Udo Jürgens”!",
+        "event_date": "2026-08-28T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/sahnemixx-die-groessten-hits-von-udo-juergens/"
+    },
+    "2026-08-29 20:00 - PAUL POTTS – Unforgettable Moments": {
+        "event_artist": "PAUL POTTS – Unforgettable Moments",
+        "event_date": "2026-08-29T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/paul-potts-unforgettable-moments/"
+    },
+    "2026-08-30 17:00 - FRAU HÖPKER – bittet zum Gesang-": {
+        "event_artist": "FRAU HÖPKER – bittet zum Gesang-",
+        "event_date": "2026-08-30T17:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-2026/"
+    },
+    "2026-09-01 19:30 - BODO WARTKE – In guter Begleitung": {
+        "event_artist": "BODO WARTKE – In guter Begleitung",
+        "event_date": "2026-09-01T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/bodo-wartke-in-guter-begleitung/"
+    },
+    "2026-09-02 19:30 - SUZI QUATRO – Rock and Roll Legend": {
+        "event_artist": "SUZI QUATRO – Rock and Roll Legend",
+        "event_date": "2026-09-02T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/suzi-quatro-rock-and-roll-legend/"
+    },
+    "2026-09-03 19:00 - COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann": {
+        "event_artist": "COMEDY FOR HOPE – präsentiert von Chris Tall & Ingmar Stadelmann",
+        "event_date": "2026-09-03T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/comedy-for-hope-praesentiert-von-chris-tall-ingmar-stadelmann/"
+    },
+    "2026-09-04 20:00 - CHRISTOPH SIEBER – Weitermachen!": {
+        "event_artist": "CHRISTOPH SIEBER – Weitermachen!",
+        "event_date": "2026-09-04T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/christoph-sieber-weitermachen/"
+    },
+    "2026-09-05 20:00 - Hermes House Band & Lou Bega": {
+        "event_artist": "Hermes House Band & Lou Bega",
+        "event_date": "2026-09-05T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/"
+    },
+    "2026-09-06 19:30 - CANTOAMORE meets POPCHOR – Queen Special": {
+        "event_artist": "CANTOAMORE meets POPCHOR – Queen Special",
+        "event_date": "2026-09-06T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/cantoamore-meets-popchor-queen-special/"
+    },
+    "2026-09-08 20:00 - FORCED TO MODE – „The Devotional Tribute To Depeche Mode“": {
+        "event_artist": "FORCED TO MODE – „The Devotional Tribute To Depeche Mode“",
+        "event_date": "2026-09-08T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/forced-to-mode-the-devotional-tribute-to-depeche-mode/"
+    },
+    "2026-09-09 19:30 - Benefizshow: RebellComedy & friends": {
+        "event_artist": "Benefizshow: RebellComedy & friends",
+        "event_date": "2026-09-09T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2026/"
+    },
+    "2026-09-11 20:00 - DIE FEISTEN – Moskito": {
+        "event_artist": "DIE FEISTEN – Moskito",
+        "event_date": "2026-09-11T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/die-feisten-moskito-2026/"
+    },
+    "2026-09-12 19:00 - KUNST OHNE GRENZEN – AN ARTISTIC TAIWANESE OPERA": {
+        "event_artist": "KUNST OHNE GRENZEN – AN ARTISTIC TAIWANESE OPERA",
+        "event_date": "2026-09-12T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kunst-ohne-grenzen-an-artistic-taiwanese-opera/"
+    },
+    "2026-09-13 18:00 - BLIND OUT – Das große Finale": {
+        "event_artist": "BLIND OUT – Das große Finale",
+        "event_date": "2026-09-13T18:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale-2026/"
+    },
+    "2026-10-10 20:00 - Supertramp Revival Band – Best of": {
+        "event_artist": "Supertramp Revival Band – Best of",
+        "event_date": "2026-10-10T20:00:00",
+        "event_location": "Klosterstraße 74; 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/"
+    },
+    "2026-12-18 20:00 - Tanja Raich – Mitsingkonzert – Weihnachtsspecial": {
+        "event_artist": "Tanja Raich – Mitsingkonzert – Weihnachtsspecial",
+        "event_date": "2026-12-18T20:00:00",
+        "event_location": "Klosterstraße 74; 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachtsspecial-2/"
     }
 }
