@@ -11,11 +11,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-f
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260705T133000Z
-SUMMARY:DAS DA THEATER Familientag – “Ronja Räubertochter”
-UID:d5e90bd8cc81afd3a1132150b876183a
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-ronja-raeubertochter/
+LOCATION:Klosterstraße 74\; 52146 Würselen
+DTSTART:20261010T180000Z
+SUMMARY:Supertramp Revival Band – Best of
+UID:8e0203572de1587f951dfeb8a8e3a15d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -24,14 +24,6 @@ DTSTART:20260816T170000Z
 SUMMARY:FIDDLER’S GREEN
 UID:3ea22f07be8eefb7d66264b04ba28ab4
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Klosterstraße 74\; 52146 Würselen
-DTSTART:20261010T180000Z
-SUMMARY:Supertramp Revival Band – Best of
-UID:8e0203572de1587f951dfeb8a8e3a15d
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -644,14 +636,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260705T110000Z
-SUMMARY:DAS DA THEATER Familientag – *ZUSATZTERMIN* -“Das NEINhorn und der Geburtstag”
-UID:dd3918d2e65691322e58d7bbb86402de
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026-zusatztermin/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260604T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:4a0b5aab2b9a7059f4078cd84009446a
@@ -856,14 +840,6 @@ DTSTART:20260612T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:21650ba50f44b7bfcace05123754eb10
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260705T093000Z
-SUMMARY:DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”
-UID:b634e618f07a90fa25b2c233ecd849cd
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
