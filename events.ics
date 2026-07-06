@@ -324,6 +324,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260709T180000Z
+SUMMARY:GÖTZ ALSMANN & BAND … bei Nacht …
+UID:485e125c2d86cb386ed4ce95c96f9fa6
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260807T173000Z
 SUMMARY:HEINZ RUDOLF KUNZE – Das sagt der Richtige
 UID:67d4e82865224c1a29774b9ed626833d
@@ -1384,14 +1392,6 @@ DTSTART:20260729T190000Z
 SUMMARY:OPEN AIR KINO – Horst Schlämmer sucht das Glück
 UID:e635a4b4e1a620d52fc15a0b4633f145
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-horst-schlaemmer-sucht-das-glueck/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260709T180000Z
-SUMMARY:GÖTZ ALSMANN … bei Nacht …
-UID:5f60ff675264a21d840ae16461a7b594
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
