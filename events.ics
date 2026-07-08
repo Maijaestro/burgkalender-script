@@ -732,14 +732,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260708T173000Z
-SUMMARY:Höhner 2026
-UID:74d12102aa810d38608ccf99469c722e
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240706T130000Z
 SUMMARY:DAS DA Theater - Die Konferenz der Tiere auf Burg Wilhelmstein
 UID:f760611daeeae2d229403a58baea0dd3
