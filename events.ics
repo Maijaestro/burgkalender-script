@@ -500,6 +500,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260725T180000Z
+SUMMARY:MISS ALLIE – PARADIESVOGEL TOUR
+UID:f605a21fd90c076fec0310c21760036b
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/miss-allie-paradiesvogel-tour-2025-26/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250805T190000Z
 SUMMARY:OPEN AIR KINO – Wunderschöner
 UID:dc72913d951c28d13c26ac9309fa18cb
@@ -860,14 +868,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260725T180000Z
-SUMMARY:MISS ALLIE – PARADIESVOGEL TOUR 2025/26
-UID:2d6208e5d15e3619286af4a24c3fa993
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/miss-allie-paradiesvogel-tour-2025-26/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250816T130000Z
 SUMMARY:KASALLA – Live 2025 – Familienkonzert
 UID:0dd65a8f4d6d386c650bb4936fa9846a
@@ -912,14 +912,6 @@ DTSTART:20250730T190000Z
 SUMMARY:OPEN AIR KINO – Die leisen und die großen Töne
 UID:9d479ed802fff70e3db270a149f10108
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-die-leisen-und-die-grossen-toene/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260710T173000Z
-SUMMARY:DRUCKLUFT 2026
-UID:7ffdbd4220f7cc97f933aa31ec172316
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/druckluft-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
