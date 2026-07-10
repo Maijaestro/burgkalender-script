@@ -1,7 +1,7 @@
 from ics import Calendar, Event
 from datetime import datetime, timedelta
 from typing import Dict, Any
-import json, pytz, hashlib, logging
+import json, pytz, hashlib, logging, re
 
 # Configure logging
 logging.basicConfig(
@@ -13,6 +13,21 @@ logger = logging.getLogger(__name__)
 # File path constants
 EVENTS_JSON_FILE = "events.json"
 EVENTS_ICAL_FILE = "events.ics"
+
+# Matches a run of letters (incl. German umlauts/ß) plus embedded
+# apostrophes, so e.g. "FIDDLER’S" is treated as one word. Hyphens are
+# deliberately excluded so each side of a compound like "MO-TORRES" is
+# capitalized independently ("Mo-Torres", not "Mo-torres").
+_WORD_RE = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿ'’‘]+")
+
+
+def fix_screaming_caps(text: str) -> str:
+    """Title-case words that are ALL CAPS in the source; leave already
+    mixed-case / stylized words (e.g. "LaFee", "NightWash") untouched."""
+    return _WORD_RE.sub(
+        lambda m: m.group(0).capitalize() if m.group(0).isupper() else m.group(0),
+        text,
+    )
 
 
 def generate_uid(event: Dict[str, Any]) -> str:
@@ -38,7 +53,7 @@ def run() -> None:
         key=lambda item: datetime.fromisoformat(item[1]["event_date"]),
     ):
         e = Event()
-        e.name = event["event_artist"]
+        e.name = fix_screaming_caps(event["event_artist"])
 
         start_time = datetime.fromisoformat(event["event_date"])
         if start_time.tzinfo is None:
