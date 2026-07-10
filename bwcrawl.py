@@ -75,13 +75,13 @@ def runBurg(events) -> None:
                 if not time_raw and info_text:
                     time_raw = extract_event_time(info_text, session)
                 datetime_string = f"{date_raw} {time_raw}".strip()
-                dt = parse(datetime_string)
+                dt = parse(datetime_string, settings={"STRICT_PARSING": True})
                 if dt is None:
                     logger.warning(f"⚠️ Datum nicht parsebar, Event übersprungen: '{datetime_string}' ({artist_text})")
                     continue
                 today = __import__("datetime").date.today()
-                if dt.date() <= today:
-                    logger.warning(f"⚠️ Gepartes Datum liegt in der Vergangenheit oder ist heute, Event übersprungen: '{datetime_string}' ({artist_text})")
+                if dt.date() < today:
+                    logger.warning(f"⚠️ Gepartes Datum liegt in der Vergangenheit, Event übersprungen: '{datetime_string}' ({artist_text})")
                     continue
                 event_date = dt.isoformat()
 
@@ -147,7 +147,7 @@ def runDasDa(events) -> None:
 
                 for date_raw in dates:
                     # Date
-                    date = parse(date_raw)
+                    date = parse(date_raw, settings={"STRICT_PARSING": True})
                     if date is None:
                         logger.warning(f"⚠️ Datum nicht parsebar, Event übersprungen: '{date_raw}' ({artist_text})")
                         continue

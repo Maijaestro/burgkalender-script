@@ -11,11 +11,11 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-f
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Klosterstraße 74\; 52146 Würselen
-DTSTART:20261010T180000Z
-SUMMARY:Supertramp Revival Band – Best of
-UID:8e0203572de1587f951dfeb8a8e3a15d
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260705T133000Z
+SUMMARY:DAS DA THEATER Familientag – “Ronja Räubertochter”
+UID:d5e90bd8cc81afd3a1132150b876183a
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-ronja-raeubertochter/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -24,6 +24,14 @@ DTSTART:20260816T170000Z
 SUMMARY:FIDDLER’S GREEN
 UID:3ea22f07be8eefb7d66264b04ba28ab4
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Klosterstraße 74\; 52146 Würselen
+DTSTART:20261010T180000Z
+SUMMARY:Supertramp Revival Band – Best of
+UID:8e0203572de1587f951dfeb8a8e3a15d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -320,6 +328,14 @@ DTSTART:20250719T180000Z
 SUMMARY:SONA JOBARTEH – Die Stimme Gambias
 UID:79416004fc54f7c8da765e23d0eb0d24
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/sona-jobarteh-die-stimme-gambias/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260709T180000Z
+SUMMARY:GÖTZ ALSMANN & BAND … bei Nacht …
+UID:485e125c2d86cb386ed4ce95c96f9fa6
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -644,6 +660,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260705T110000Z
+SUMMARY:DAS DA THEATER Familientag – *ZUSATZTERMIN* -“Das NEINhorn und der Geburtstag”
+UID:dd3918d2e65691322e58d7bbb86402de
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026-zusatztermin/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260604T180000Z
 SUMMARY:DAS DA Theater - Romeo & Julia – Musical
 UID:4a0b5aab2b9a7059f4078cd84009446a
@@ -728,6 +752,14 @@ DTSTART:20250708T173000Z
 SUMMARY:Höhner 2025
 UID:6dbda11b5b5aac4a0fa5b04d5b0ede02
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2024-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260708T173000Z
+SUMMARY:Höhner 2026
+UID:74d12102aa810d38608ccf99469c722e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -844,6 +876,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260705T093000Z
+SUMMARY:DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”
+UID:b634e618f07a90fa25b2c233ecd849cd
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260811T190000Z
 SUMMARY:OPEN AIR KINO – Der Teufel trägt Prada 2
 UID:80c27afce555f37ce54e7fef535378f0
@@ -899,6 +939,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/heinz_rudolf-kunze-wie-der
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Klosterstraße 74\; 52146 Würselen
+DTSTART:20260508T173000Z
+SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
+UID:cc469ba0f8e2e31722f900f27bd780c5
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250815T173000Z
 SUMMARY:KASALLA – Live 2025
@@ -912,6 +960,14 @@ DTSTART:20250730T190000Z
 SUMMARY:OPEN AIR KINO – Die leisen und die großen Töne
 UID:9d479ed802fff70e3db270a149f10108
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-die-leisen-und-die-grossen-toene/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260710T173000Z
+SUMMARY:DRUCKLUFT 2026
+UID:7ffdbd4220f7cc97f933aa31ec172316
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/druckluft-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1088,6 +1144,14 @@ DTSTART:20260723T173000Z
 SUMMARY:FAUN – Live 2026
 UID:b9e16b30999290c1be023610be13dbb1
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/faun-live-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260704T160000Z
+SUMMARY:Saisonstart – BLIND DATE 2026
+UID:ed8410740ae1b36be0de3f923e4a38e7
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H

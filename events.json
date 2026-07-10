@@ -821,6 +821,12 @@
         "event_location": "Burg Wilhelmstein",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
     },
+    "2026-05-08 19:30 - Annes Kampf – Anne Frank vs. Adolf Hitler": {
+        "event_artist": "Annes Kampf – Anne Frank vs. Adolf Hitler",
+        "event_date": "2026-05-08T19:30:00",
+        "event_location": "Klosterstraße 74; 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/"
+    },
     "2026-06-04 20:00 - DAS DA Theater - Romeo & Julia – Musical": {
         "event_artist": "DAS DA Theater - Romeo & Julia – Musical",
         "event_date": "2026-06-04T20:00:00",
@@ -898,6 +904,48 @@
         "event_date": "2026-06-28T20:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia"
+    },
+    "2026-07-04 18:00 - Saisonstart – BLIND DATE 2026": {
+        "event_artist": "Saisonstart – BLIND DATE 2026",
+        "event_date": "2026-07-04T18:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/"
+    },
+    "2026-07-05 11:30 - DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”": {
+        "event_artist": "DAS DA THEATER Familientag – “Das NEINhorn und der Geburtstag”",
+        "event_date": "2026-07-05T11:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026/"
+    },
+    "2026-07-05 13:00 - DAS DA THEATER Familientag – *ZUSATZTERMIN* -“Das NEINhorn und der Geburtstag”": {
+        "event_artist": "DAS DA THEATER Familientag – *ZUSATZTERMIN* -“Das NEINhorn und der Geburtstag”",
+        "event_date": "2026-07-05T13:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-das-neinhorn-2026-zusatztermin/"
+    },
+    "2026-07-05 15:30 - DAS DA THEATER Familientag – “Ronja Räubertochter”": {
+        "event_artist": "DAS DA THEATER Familientag – “Ronja Räubertochter”",
+        "event_date": "2026-07-05T15:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-ronja-raeubertochter/"
+    },
+    "2026-07-08 19:30 - Höhner 2026": {
+        "event_artist": "Höhner 2026",
+        "event_date": "2026-07-08T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2026/"
+    },
+    "2026-07-09 20:00 - GÖTZ ALSMANN & BAND … bei Nacht …": {
+        "event_artist": "GÖTZ ALSMANN & BAND … bei Nacht …",
+        "event_date": "2026-07-09T20:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/"
+    },
+    "2026-07-10 19:30 - DRUCKLUFT 2026": {
+        "event_artist": "DRUCKLUFT 2026",
+        "event_date": "2026-07-10T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/druckluft-2026/"
     },
     "2026-07-12 18:30 - CHRIS DE BURGH – A summer night with Chris de Burgh": {
         "event_artist": "CHRIS DE BURGH – A summer night with Chris de Burgh",
