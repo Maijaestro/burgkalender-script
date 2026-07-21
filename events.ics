@@ -188,6 +188,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260726T170000Z
+SUMMARY:Cara – Irish Folk
+UID:d294c44a26d4d25b8defbc97402aa22c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260812T190000Z
 SUMMARY:Open Air Kino – Extrawurst
 UID:a07f94a90155d8e5853f2528b5b70180
@@ -456,14 +464,6 @@ DTSTART:20260829T180000Z
 SUMMARY:Paul Potts – Unforgettable Moments
 UID:f417d6018263922d62aee05ed66d3d0d
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/paul-potts-unforgettable-moments/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260726T170000Z
-SUMMARY:Cara – Celtic Folk mit Herz\, Seele und Charakter
-UID:7daff160b6b17c26a02bfb872a40f6ec
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
