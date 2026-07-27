@@ -19,14 +19,6 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260816T170000Z
-SUMMARY:Fiddler’s Green
-UID:3ea22f07be8eefb7d66264b04ba28ab4
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Klosterstraße 74\; 52146 Würselen
 DTSTART:20261010T180000Z
 SUMMARY:Supertramp Revival Band – Best of
@@ -672,6 +664,14 @@ DTSTART:20260604T180000Z
 SUMMARY:Das Da Theater - Romeo & Julia – Musical
 UID:4a0b5aab2b9a7059f4078cd84009446a
 URL:https://dasda.de/das-da-theater/programm/spielzeit-25-26/romeo-und-julia
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260816T170000Z
+SUMMARY:Fiddler’s Green / Support: Liger
+UID:0a38954cf9fb1582bb0f2fcb9f28cebb
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
