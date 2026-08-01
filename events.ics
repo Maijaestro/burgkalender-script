@@ -516,6 +516,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260828T180000Z
+SUMMARY:SahneMixx – Die größten Hits von Udo Jürgens
+UID:66c15e5e58e294a0b450a98c247ed760
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/sahnemixx-die-groessten-hits-von-udo-juergens/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250805T190000Z
 SUMMARY:Open Air Kino – Wunderschöner
 UID:dc72913d951c28d13c26ac9309fa18cb
@@ -1072,14 +1080,6 @@ DTSTART:20260802T170000Z
 SUMMARY:Karat –  Die Kultband Aus Dem Osten
 UID:d6a498d9148d5e1a5ea26b9c1f494ffa
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Burg Wilhelmstein\, 52146 Würselen
-DTSTART:20260828T180000Z
-SUMMARY:SahneMixx “Die größten Hits von Udo Jürgens”!
-UID:f8541f340c30936d659b59683823a052
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/sahnemixx-die-groessten-hits-von-udo-juergens/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
