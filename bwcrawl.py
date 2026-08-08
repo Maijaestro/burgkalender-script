@@ -1,6 +1,7 @@
 import re
 import shutil
 import logging
+import datetime
 from typing import List, Tuple
 import requests, json, os
 from requests.adapters import HTTPAdapter
@@ -19,7 +20,13 @@ logger = logging.getLogger(__name__)
 EVENTS_JSON_FILE = "events.json"
 
 
-def runBurg(events) -> None:
+def runBurg(events) -> bool:
+    """Scrape Burg Wilhelmstein into `events`.
+
+    Returns True if the page was fetched and parsed, False on any network/HTTP
+    failure. A False result must never be treated as "no events at this venue" —
+    see run().
+    """
     url = "https://www.burg-wilhelmstein.com/tickets/"
 
     session = requests.Session()
@@ -79,7 +86,7 @@ def runBurg(events) -> None:
                 if dt is None:
                     logger.warning(f"⚠️ Datum nicht parsebar, Event übersprungen: '{datetime_string}' ({artist_text})")
                     continue
-                today = __import__("datetime").date.today()
+                today = datetime.date.today()
                 if dt.date() < today:
                     logger.warning(f"⚠️ Gepartes Datum liegt in der Vergangenheit, Event übersprungen: '{datetime_string}' ({artist_text})")
                     continue
@@ -103,17 +110,21 @@ def runBurg(events) -> None:
                     "event_location": location_text,
                     "event_info": info_text,
                 }
-            pass
+            return True
         else:
             logger.error(f"Fehler beim Abrufen der Seite: {response.status_code}")
+            return False
 
     except requests.exceptions.Timeout:
         logger.error("Die Anfrage hat zu lange gedauert und wurde abgebrochen.")
+        return False
     except requests.exceptions.RequestException as e:
         logger.error(f"Ein Fehler ist aufgetreten: {e}")
+        return False
 
 
-def runDasDa(events) -> None:
+def runDasDa(events) -> bool:
+    """Scrape DAS DA Theater into `events`. Returns False on network/HTTP failure."""
     url = "https://dasda.de/"
 
     session = requests.Session()
@@ -151,6 +162,9 @@ def runDasDa(events) -> None:
                     if date is None:
                         logger.warning(f"⚠️ Datum nicht parsebar, Event übersprungen: '{date_raw}' ({artist_text})")
                         continue
+                    if date.date() < datetime.date.today():
+                        logger.info(f"⛔ Event übersprungen (Vergangenheit): {date_raw} ({artist_text})")
+                        continue
                     event_date = date.isoformat()
 
                     # Key
@@ -166,17 +180,22 @@ def runDasDa(events) -> None:
                             }
                         }
                     )
-            pass
+            return True
         else:
             logger.error(f"Fehler beim Abrufen der Seite: {response.status_code}")
+            return False
 
     except requests.exceptions.Timeout:
         logger.error("Die Anfrage hat zu lange gedauert und wurde abgebrochen.")
+        return False
     except requests.exceptions.RequestException as e:
         logger.error(f"Ein Fehler ist aufgetreten: {e}")
+        return False
 
 
-def saveToFile(events: dict, filename: str = EVENTS_JSON_FILE) -> None:
+def saveToFile(
+    events: dict, filename: str = EVENTS_JSON_FILE, prune_future: bool = True
+) -> None:
     backup_file = filename + ".bak"
     temp_file = filename + ".tmp"
 
@@ -186,14 +205,19 @@ def saveToFile(events: dict, filename: str = EVENTS_JSON_FILE) -> None:
     except (FileNotFoundError, json.JSONDecodeError):
         old_events = {}
 
-    today = __import__("datetime").date.today().isoformat()
+    today = datetime.date.today().isoformat()
 
     # Past events are kept as historical record.
-    # Future events are replaced by what the current scrape found,
-    # so stale entries (e.g. cancelled/rescheduled shows) are removed.
-    past_events = {k: v for k, v in old_events.items() if k[:10] < today}
-    past_events.update(events)
-    sorted_events = dict(sorted(past_events.items()))
+    # Future events are replaced by what the current scrape found, so stale
+    # entries (e.g. cancelled/rescheduled shows) are removed — but only when
+    # every scraper actually succeeded (prune_future). After a failed scrape we
+    # cannot tell "cancelled" from "unreachable", so we merge without deleting.
+    if prune_future:
+        merged = {k: v for k, v in old_events.items() if k[:10] < today}
+    else:
+        merged = dict(old_events)
+    merged.update(events)
+    sorted_events = dict(sorted(merged.items()))
 
     try:
         if os.path.exists(filename):
@@ -322,11 +346,25 @@ def load_masonry_events(session: requests.Session, start_date: str) -> list:
 
 def run() -> None:
     events = {}
-    runBurg(events)
-    runDasDa(events)
-    if not events:
-        logger.error("💥 No events scraped — skipping save to avoid wiping future events")
-        return
+    burg_ok = runBurg(events)
+    dasda_ok = runDasDa(events)
+
+    if not (burg_ok and dasda_ok):
+        # A scraper that failed to fetch looks exactly like a venue with no
+        # upcoming events. Keep what we have, merge in whatever did come back,
+        # then fail loudly so the run doesn't go green on a broken scrape.
+        failed = [
+            name
+            for name, ok in (("Burg Wilhelmstein", burg_ok), ("DAS DA", dasda_ok))
+            if not ok
+        ]
+        logger.error(
+            f"💥 Scraper fehlgeschlagen ({', '.join(failed)}) — "
+            f"bestehende Termine bleiben erhalten"
+        )
+        saveToFile(events, prune_future=False)
+        raise RuntimeError(f"Scraper failed: {', '.join(failed)}")
+
     saveToFile(events)
 
 
