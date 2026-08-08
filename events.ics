@@ -4,10 +4,26 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260909T173000Z
+SUMMARY:Benefizshow: RebellComedy & friends
+UID:d81c881c13d4e88e18e7bb39fe6eed7c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260705T133000Z
 SUMMARY:Das Da Theater Familientag – “Ronja Räubertochter”
 UID:d5e90bd8cc81afd3a1132150b876183a
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/das-da-theater-familientag-ronja-raeubertochter/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Klosterstraße 74\; 52146 Würselen
+DTSTART:20261010T180000Z
+SUMMARY:Supertramp Revival Band – Best of
+UID:8e0203572de1587f951dfeb8a8e3a15d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/supertramp-revival-band-best-of/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -24,6 +40,14 @@ DTSTART:20260724T180000Z
 SUMMARY:Sophia – „Durch die Blume“-Sommertour 2026
 UID:5c27161b8eb8813d84e35725b38ff69c
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/sophia-durch-die-blume-sommertour-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260822T130000Z
+SUMMARY:Kasalla – Live 2026 (Familienkonzert)
+UID:b9193db514c8b85b6db8dc81b19a65d1
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2026-familienkonzert/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -156,6 +180,22 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260812T190000Z
+SUMMARY:Open Air Kino – Extrawurst
+UID:a07f94a90155d8e5853f2528b5b70180
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-extrawurst/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260908T180000Z
+SUMMARY:Forced To Mode – „The Devotional Tribute To Depeche Mode“
+UID:7ecf5c3a670ac962d32cbe49978efd5f
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/forced-to-mode-the-devotional-tribute-to-depeche-mode/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250731T190000Z
 SUMMARY:Open Air Kino – Bridget Jones – Verrückt nach ihm
 UID:39f5e5e00e637e69b6da1e27e9d138b3
@@ -203,6 +243,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/mo-torres-open-air-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260820T173000Z
+SUMMARY:Dick Brave – Back for More- Zusatztermin!
+UID:81c721f057cd4e0c63a5032be2d918bb
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein
 DTSTART:20260221T180000Z
 SUMMARY:Karat –  Die Kultband Aus Dem Osten
@@ -240,6 +288,22 @@ DTSTART:20250615T180000Z
 SUMMARY:Das Da Theater - Frühlings Erwachen
 UID:e647328bf5a1a24923af76d1d5c36108
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260906T173000Z
+SUMMARY:Cantoamore meets Popchor – Queen Special
+UID:1e10639d18d5d02a5c2d731786d7fbe7
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/cantoamore-meets-popchor-queen-special/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260904T180000Z
+SUMMARY:Christoph Sieber – Weitermachen!
+UID:3800060073e7d2ac35f251e6a2af563f
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/christoph-sieber-weitermachen/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -364,6 +428,30 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260827T173000Z
+SUMMARY:Daphne de Luxe – „Artgerecht – Ein tierisch menschliches Programm“
+UID:13d709c974be237e5af366d2cbf91b0c
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/daphne-de-luxe-artgerecht-ein-tierisch-menschliches-programm/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Klosterstraße 74\; 52146 Würselen
+DTSTART:20261218T190000Z
+SUMMARY:Tanja Raich – Mitsingkonzert – Weihnachtsspecial
+UID:49bd0a10befe45ba07453026625c0e97
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tanja-raich-mitsingkonzert-weihnachtsspecial-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260829T180000Z
+SUMMARY:Paul Potts – Unforgettable Moments
+UID:f417d6018263922d62aee05ed66d3d0d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/paul-potts-unforgettable-moments/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250801T173000Z
 SUMMARY:Spider Murphy Gang – Rock’n’Roll –  Mir schpuin eh nix anders
 UID:aa6b5c893334153153a25fd774d6aae2
@@ -404,10 +492,26 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260822T173000Z
+SUMMARY:Kasalla – Live 2026
+UID:8557599dcf4527dc4146a694e38f4124
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260725T180000Z
 SUMMARY:Miss Allie – Paradiesvogel Tour
 UID:f605a21fd90c076fec0310c21760036b
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/miss-allie-paradiesvogel-tour-2025-26/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260828T180000Z
+SUMMARY:SahneMixx – Die größten Hits von Udo Jürgens
+UID:66c15e5e58e294a0b450a98c247ed760
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/sahnemixx-die-groessten-hits-von-udo-juergens/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -468,6 +572,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260814T173000Z
+SUMMARY:Q-Revival Band – God Save The Queen
+UID:fbdfc4c7da12fbcc4b0ad4130275e79d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/q-revival-band-god-save-the-queen/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250723T180000Z
 SUMMARY:Simon Oslender Trio – Live 2025
 UID:20ad9cc62a2bdfe068792ae32b2f4a8d
@@ -484,10 +596,26 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260818T190000Z
+SUMMARY:Open Air Kino –  Ach\, diese Lücke\, diese entsetzliche Lücke
+UID:7623560feb1c8a00cca6e47ea184b4d8
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-ach-diese-luecke-diese-entsetzliche-luecke/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240901T170000Z
 SUMMARY:Kasalla – Live 2024
 UID:10e65657433b8a1c5930ef305e1d79ea
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2024-290/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260912T170000Z
+SUMMARY:Kunst Ohne Grenzen – An Artistic Taiwanese Opera
+UID:aa234fd0567a0937713c2e8e70125c2e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/kunst-ohne-grenzen-an-artistic-taiwanese-opera/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -540,6 +668,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260816T170000Z
+SUMMARY:Fiddler’s Green / Support: Liger
+UID:0a38954cf9fb1582bb0f2fcb9f28cebb
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/fiddlers-green-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250718T180000Z
 SUMMARY:A Tribute To Amy – Die Amy Winehouse Show
 UID:78315d0517403c461555db0e837acace
@@ -576,6 +712,14 @@ DTSTART:20260326T180000Z
 SUMMARY:Cara – Celtic Folk mit Herz\, Seele und Charakter
 UID:43a1e040ce8b04acc99d14a4087e7970
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/cara-celtic-folk-mit-herz-seele-und-charakter/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260810T173000Z
+SUMMARY:Helge Schneider – Ellebogen vom Tich
+UID:df9018e2d4c2832d8d49ca28089723bb
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/helge-schneider-ellebogen-vom-tich/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -668,6 +812,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260817T190000Z
+SUMMARY:Open Air Kino –  No Hit Wonder
+UID:d48e3d6f908285d30b5aef3ad34c47e2
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-no-hit-wonder/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240906T173000Z
 SUMMARY:Brings – Live 2024
 UID:f848c7c9ff97144d02ac385037984985
@@ -732,6 +884,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260811T190000Z
+SUMMARY:Open Air Kino – Der Teufel trägt Prada 2
+UID:80c27afce555f37ce54e7fef535378f0
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-der-teufel-traegt-prada-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250828T173000Z
 SUMMARY:Comedy For Hope – präsentiert von Chris Tall & Ingmar Stadelmann
 UID:8511e9b02244613122a69a0e28f6ffbf
@@ -752,6 +912,22 @@ DTSTART:20250816T130000Z
 SUMMARY:Kasalla – Live 2025 – Familienkonzert
 UID:0dd65a8f4d6d386c650bb4936fa9846a
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2025-duplicate-1-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260815T173000Z
+SUMMARY:Schiller – Sommerklang 2026
+UID:5e93bf7e6bfaa9605c7b6a89c94397f3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerklang-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260821T173000Z
+SUMMARY:Kasalla – Live 2026
+UID:9126320eed413ef99983f78619ce9299
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/kasalla-live-2026-2/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -827,6 +1003,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/nightwash-open-air-2025/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260808T173000Z
+SUMMARY:Tom Gaebel & His Orchestra – Sinatra Summer Swing
+UID:e842cfed57b49807f9c33b0469eabe06
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/tom-gaebel-his-orchestra/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein
 DTSTART:20260411T160000Z
 SUMMARY:Blind Date 2026
@@ -856,6 +1040,22 @@ DTSTART:20260223T180000Z
 SUMMARY:Karat –  Die Kultband Aus Dem Osten
 UID:eb9425ed23e580a054642250e38bd31a
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260809T170000Z
+SUMMARY:Ecos De Siboney – Die Erben des Buena Vista Social Club
+UID:ad67c1eb00604dcb657a22d5ccecb65e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/ecos-de-siboney/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260813T190000Z
+SUMMARY:Open Air Kino – Chéri\, ich komme – Die Erfindung der Lust
+UID:7242d38e08353ac59fa86234b087d6d3
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-cheri-ich-komme-die-erfindung-der-lust/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -900,6 +1100,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260903T170000Z
+SUMMARY:Comedy For Hope – präsentiert von Chris Tall & Ingmar Stadelmann
+UID:dcea43dadd49a9b5f31b3f0aacde3180
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/comedy-for-hope-praesentiert-von-chris-tall-ingmar-stadelmann/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250825T170000Z
 SUMMARY:Wolfgang Niedecken – Zwischen Start & Ziel
 UID:0418487b621804dae719eda6534e1367
@@ -920,6 +1128,14 @@ DTSTART:20250831T150000Z
 SUMMARY:Frau Höpker – bittet zum Gesang
 UID:e7e52396e9a88d508488334dc69c8430
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-duplicate-1-2/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260901T173000Z
+SUMMARY:Bodo Wartke – In guter Begleitung
+UID:ae0c7fd6c9bde2578296ea7b5d322670
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/bodo-wartke-in-guter-begleitung/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -948,10 +1164,34 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260828T180000Z
+SUMMARY:Konzert Abgesagt – Konstantin Wecker Trio – Der Liebe zuliebe
+UID:87beb51698f081ca08d0201cf174daa9
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/konstantin-wecker-trio-der-liebe-zuliebe/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20250726T173000Z
 SUMMARY:Schiller – Sommertraum 2025
 UID:853947b2114f839ad47626fbc987d108
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/schiller-sommerlust-2024-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260830T150000Z
+SUMMARY:Frau Höpker – bittet zum Gesang-
+UID:b557b5e264a90255bf8071f4ad7911ef
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-zum-gesang-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260819T173000Z
+SUMMARY:Gerburg Jahnke – Frau Jahnke hat eingeladen …
+UID:0cdbfdf348b2e61c79c77bf1944a35a4
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/gerburg-jahnke-frau-jahnke-hat-eingeladen-2/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1044,6 +1284,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260823T170000Z
+SUMMARY:Matti Klein Soul Trio meets Max Mutzke
+UID:c7565316f75390cf36c359922a200647
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/matti-klein-soul-trio-meets-max-mutzke/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20260627T180000Z
 SUMMARY:Das Da Theater - Romeo & Julia – Musical
 UID:8522cbeda4b377499ab75ed114d01c1d
@@ -1056,6 +1304,14 @@ DTSTART:20240909T180000Z
 SUMMARY:Marley‘s Ghost – A Tribute to Bob Marley – Nachholtermin für das ausgefallene Konzert vom 15.08.2024
 UID:ffb0f883d94cd8eb87be2a261b3612cb
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/marleys-ghost-a-tribute-to-bob-marley/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260902T173000Z
+SUMMARY:Suzi Quatro – Rock and Roll Legend
+UID:bb06910d9d7d6de4348532b620fe0b06
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/suzi-quatro-rock-and-roll-legend/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1116,6 +1372,14 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260825T173000Z
+SUMMARY:Dick Brave – Back for More
+UID:d93cfb6cf4818d5b0cfce28fad03eaf2
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/dick-brave-back-for-more/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
 DTSTART:20240910T173000Z
 SUMMARY:Benefizshow: Rebellcomedy + Friends 2024
 UID:ed96d184dffaf782db8988a12a5440d1
@@ -1128,6 +1392,14 @@ DTSTART:20250605T180000Z
 SUMMARY:Das Da Theater - Frühlings Erwachen
 UID:221bf07fe349ce1e9993fe907f0a3e1b
 URL:https://dasda.de/das-da-theater/programm/spielzeit-24-25/fruehlings-erwachen
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260911T180000Z
+SUMMARY:Die Feisten – Moskito
+UID:a6a22d8780aa6318a260776869578fe2
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/die-feisten-moskito-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1163,11 +1435,27 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/open-air-kino-horst-schlae
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260905T180000Z
+SUMMARY:Hermes House Band & Lou Bega
+UID:a81d1bb939e8c5e716ce974bf08c6f9e
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/hermes-house-band-lou-bega/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Burg Wilhelmstein
 DTSTART:20260410T160000Z
 SUMMARY:Blind Date 2026
 UID:29621c938449afc8495791dda0e0848c
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2026/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260826T173000Z
+SUMMARY:Annett Louisan – 22 Jahre Bohème – Das Jubiläumskonzert
+UID:46d092330ff2ccbfc471986a1d8cba93
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/annett-louisan-22-jahre-boheme-das-jubilaeumskonzert/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
@@ -1200,6 +1488,14 @@ DTSTART:20260222T180000Z
 SUMMARY:Karat –  Die Kultband Aus Dem Osten
 UID:4e9e7dc652d7b9de2dce744cebd61468
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/karat-501-jubilaeumstour/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+DTSTART:20260913T160000Z
+SUMMARY:Blind Out – Das große Finale
+UID:7e2ea923bea6d433af1734505a2dda4d
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-out-das-grosse-finale-2026/
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
