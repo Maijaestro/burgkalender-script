@@ -1,5 +1,5 @@
-from ics import Calendar, Event
-from datetime import datetime, timedelta
+from icalendar import Calendar, Event
+from datetime import datetime, timedelta, timezone
 from typing import Dict, Any
 import json, pytz, hashlib, logging, re
 
@@ -43,39 +43,48 @@ def run() -> None:
 
     # Kalender erstellen
     calendar = Calendar()
+    calendar.add("prodid", "-//burgkalender//burgkalender-script//DE")
+    calendar.add("version", "2.0")
 
     # Zeitzone setzen
     tz = pytz.timezone("Europe/Berlin")
 
-    # Ereignisse hinzufügen
+    # Ereignisse hinzufügen (events.json can hold the same show under an old
+    # time-less and a newer timed key; the UID is the same, so keep the first)
+    seen_uids = set()
     for key, event in sorted(
         events_data.items(),
         key=lambda item: datetime.fromisoformat(item[1]["event_date"]),
     ):
+        uid = generate_uid(event)
+        if uid in seen_uids:
+            continue
+        seen_uids.add(uid)
+
         e = Event()
-        e.name = fix_screaming_caps(event["event_artist"])
+        e.add("summary", fix_screaming_caps(event["event_artist"]))
 
         start_time = datetime.fromisoformat(event["event_date"])
         if start_time.tzinfo is None:
             start_time = tz.localize(start_time)
         else:
             start_time = start_time.astimezone(tz)
-        e.begin = start_time
-        e.duration = timedelta(hours=2)
+        e.add("dtstart", start_time.astimezone(timezone.utc))
+        e.add("duration", timedelta(hours=2))
 
-        e.location = event["event_location"]
+        e.add("location", event["event_location"])
 
-        e.url = event["event_info"]
+        e.add("url", event["event_info"])
 
-        e.uid = generate_uid(event)
+        e.add("uid", uid)
 
-        calendar.events.add(e)
+        calendar.add_component(e)
 
     # iCal-Datei speichern
-    with open(EVENTS_ICAL_FILE, "w") as f:
-        f.writelines(calendar)
+    with open(EVENTS_ICAL_FILE, "wb") as f:
+        f.write(calendar.to_ical())
 
-    logger.info(f"✓ Generated {EVENTS_ICAL_FILE} with {len(calendar.events)} events")
+    logger.info(f"✓ Generated {EVENTS_ICAL_FILE} with {len(calendar.subcomponents)} events")
 
 
 if __name__ == "__main__":
