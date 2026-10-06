@@ -15,6 +15,6 @@ soupsieve==2.10
 TatSu==5.15.1
 types-python-dateutil==2.9.0.20260807
 typing_extensions==4.16.0
-tzdata==2026.4
+tzdata==2026.5
 tzlocal==5.4.4
 urllib3==2.8.0
