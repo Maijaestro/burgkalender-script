@@ -1885,6 +1885,15 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/spider-murphy-gang-2
  027/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alain Frei – Alles Neu! 2027!
+DTSTART:20270821T173000Z
+DURATION:PT2H
+UID:e6accb3585c7b7ddd022e546a385d8e5
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei-all-in-au
+ sverkauft-duplicate-1-2027-505/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frau Höpker – bittet zum Gesang 2027
 DTSTART:20270822T150000Z
 DURATION:PT2H
