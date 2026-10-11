@@ -1760,7 +1760,7 @@ DTSTART:20270703T160000Z
 DURATION:PT2H
 UID:e5fc54829b29bc4e881900ff9031f0af
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date-2027/
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-date/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hooters – „Every Ticket Tells A Story“ Summer Tour 2027
@@ -1768,8 +1768,7 @@ DTSTART:20270706T173000Z
 DURATION:PT2H
 UID:825cee9fc87fd5caf9d8eeace7ae1cf6
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters-auf-ever
- y-ticket-tells-a-story-summer-tour-2027/
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michael Mittermeier – Oldboy … sind wir bald da?
@@ -1847,8 +1846,7 @@ DTSTART:20270717T173000Z
 DURATION:PT2H
 UID:4f371f9c08669b734233172d8ccc850d
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/a-tribute-to-amy-die
- -amy-winehouse-show-2027/
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/a-tribute-to-amy/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Götz Alsmann & Band
@@ -1856,7 +1854,7 @@ DTSTART:20270718T160000Z
 DURATION:PT2H
 UID:988951eeb95758501489a45159bd2f24
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann-2027/
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/goetz-alsmann/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Naturally 7 – Expect the Unexpected Tour
@@ -1864,7 +1862,7 @@ DTSTART:20270723T173000Z
 DURATION:PT2H
 UID:eb8354e47363cec1d16bd67e7d9cad53
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/naturally-7-2027/
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/naturally-7/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiller – Sommernacht Open Air 2027
@@ -1890,8 +1888,7 @@ DTSTART:20270821T173000Z
 DURATION:PT2H
 UID:e6accb3585c7b7ddd022e546a385d8e5
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei-all-in-au
- sverkauft-duplicate-1-2027-505/
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/alain-frei/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frau Höpker – bittet zum Gesang 2027
@@ -1899,8 +1896,7 @@ DTSTART:20270822T150000Z
 DURATION:PT2H
 UID:183d47e5c96b09094f8c67ae0add0025
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
-URL:https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker-bittet-
- zum-gesang-2027-277/
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/frau-hoepker/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gerburg Jahnke – Frau Jahnke hat eingeladen … 2027
