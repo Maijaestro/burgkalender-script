@@ -1283,6 +1283,12 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters/"
     },
+    "2027-07-07 19:30 - SIMON STÄBLEIN – Absolute Frechheit": {
+        "event_artist": "SIMON STÄBLEIN – Absolute Frechheit",
+        "event_date": "2027-07-07T19:30:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/simonstaeblein2027/"
+    },
     "2027-07-08 19:30 - MICHAEL MITTERMEIER – OLDBOY … sind wir bald da?": {
         "event_artist": "MICHAEL MITTERMEIER – OLDBOY … sind wir bald da?",
         "event_date": "2027-07-08T19:30:00",
@@ -1313,8 +1319,8 @@
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kayef-live-2027/"
     },
-    "2027-07-13 19:30 - Höhner 2027": {
-        "event_artist": "Höhner 2027",
+    "2027-07-13 19:30 - HÖHNER 2027": {
+        "event_artist": "HÖHNER 2027",
         "event_date": "2027-07-13T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2027/"

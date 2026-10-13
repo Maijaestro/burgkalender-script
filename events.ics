@@ -1771,6 +1771,14 @@ LOCATION:Burg Wilhelmstein\, 52146 Würselen
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/the-hooters/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Simon Stäblein – Absolute Frechheit
+DTSTART:20270707T173000Z
+DURATION:PT2H
+UID:59ff86213013adf329b7b83d9220683e
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/simonstaeblein2027/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Michael Mittermeier – Oldboy … sind wir bald da?
 DTSTART:20270708T173000Z
 DURATION:PT2H
@@ -1818,7 +1826,7 @@ BEGIN:VEVENT
 SUMMARY:Höhner 2027
 DTSTART:20270713T173000Z
 DURATION:PT2H
-UID:eac5f02876ebb1a62be1075b3ed237ac
+UID:9d69442a4e14c3a6e69cb277b24960aa
 LOCATION:Burg Wilhelmstein\, 52146 Würselen
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/hoehner-2027/
 END:VEVENT
