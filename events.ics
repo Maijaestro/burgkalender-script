@@ -1849,6 +1849,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/nightwash-live-open-
  air-2027-596/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dr. Pop – Hitverdächtig – Die Music-Comedy-Stand-Up-Show!
+DTSTART:20270716T170000Z
+DURATION:PT2H
+UID:8901a25c87b1b53ff93a0202494db303
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/dr-pop/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Tribute To Amy – Die Amy Winehouse Show -2027
 DTSTART:20270717T173000Z
 DURATION:PT2H
