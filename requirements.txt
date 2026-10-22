@@ -11,7 +11,7 @@ pytz==2026.5
 regex==2026.9.29
 requests==2.34.2
 six==1.17.0
-soupsieve==2.10
+soupsieve==3.0.4
 types-python-dateutil==2.9.0.20261021
 typing_extensions==4.16.0
 tzdata==2026.5
