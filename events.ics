@@ -1978,4 +1978,12 @@ LOCATION:Burg Wilhelmstein\, 52146 Würselen
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellco
  medy-friends-2027-471/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blind Out – Das große Finale 2027
+DTSTART:20270912T160000Z
+DURATION:PT2H
+UID:841aa95a1bbb219a26c8bc8edecc3694
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/blind-out/
+END:VEVENT
 END:VCALENDAR
