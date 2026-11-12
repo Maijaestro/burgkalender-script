@@ -1881,6 +1881,15 @@ LOCATION:Burg Wilhelmstein\, 52146 Würselen
 URL:https://www.burg-wilhelmstein.com/veranstaltungen/naturally-7/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marialy Pacheco Trio feat. Nils Wülker
+DTSTART:20270725T160000Z
+DURATION:PT2H
+UID:87c33ae22318a74d9a04e7b4ee543b41
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/marialy-pacheo-trio-
+ feat-nils-wuelker/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Schiller – Sommernacht Open Air 2027
 DTSTART:20270806T173000Z
 DURATION:PT2H
