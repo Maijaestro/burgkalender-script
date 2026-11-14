@@ -1365,7 +1365,7 @@
         "event_artist": "Marialy Pacheco Trio feat. Nils Wülker",
         "event_date": "2027-07-25T18:00:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
-        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/marialy-pacheo-trio-feat-nils-wuelker/"
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/marialy-pacheco-trio/"
     },
     "2027-08-06 19:30 - SCHILLER – Sommernacht Open Air 2027": {
         "event_artist": "SCHILLER – Sommernacht Open Air 2027",
@@ -1432,6 +1432,12 @@
         "event_date": "2027-09-07T19:30:00",
         "event_location": "Burg Wilhelmstein, 52146 Würselen",
         "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/benefizshow-rebellcomedy-friends-2027-471/"
+    },
+    "2027-09-10 19:00 - KUNST OHNE GRENZEN – Darstellende Künste aus Taiwan – 2027": {
+        "event_artist": "KUNST OHNE GRENZEN – Darstellende Künste aus Taiwan – 2027",
+        "event_date": "2027-09-10T19:00:00",
+        "event_location": "Burg Wilhelmstein, 52146 Würselen",
+        "event_info": "https://www.burg-wilhelmstein.com/veranstaltungen/kunst-ohne-grenzen/"
     },
     "2027-09-12 18:00 - BLIND OUT – Das große Finale 2027": {
         "event_artist": "BLIND OUT – Das große Finale 2027",
